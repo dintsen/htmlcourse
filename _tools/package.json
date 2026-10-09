@@ -1,0 +1,16 @@
+{
+  "name": "swarm-tools",
+  "private": true,
+  "type": "module",
+  "description": "Shared tooling for the 10-concept swarm: reference inspection, asset harvesting, QA screenshots, glTF optimisation.",
+  "dependencies": {
+    "playwright-core": "^1.49.0",
+    "sharp": "^0.33.5",
+    "@gltf-transform/core": "^4.1.0",
+    "@gltf-transform/extensions": "^4.1.0",
+    "@gltf-transform/functions": "^4.1.0",
+    "@gltf-transform/cli": "^4.1.0",
+    "meshoptimizer": "^0.22.0",
+    "draco3dgltf": "^1.5.7"
+  }
+}

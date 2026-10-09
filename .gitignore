@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vite/
+.DS_Store
+_tools/.venv/
+_tools/.locks/
+# internal QA screenshots, regenerated on demand
+**/_qa/
+# third-party reference screenshots (not ours to redistribute)
+00_GLOBAL/REFERENCE_LIBRARY/**/*.png
+00_GLOBAL/REFERENCE_LIBRARY/**/*.jpg
+00_GLOBAL/REFERENCE_LIBRARY/**/*.jpeg
+00_GLOBAL/REFERENCE_LIBRARY/**/*.webp
+# raw harvest dumps (curated assets are copied into each concept's assets/)
+**/_harvest/
+**/_work/
