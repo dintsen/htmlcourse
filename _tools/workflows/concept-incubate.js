@@ -14,7 +14,9 @@ const C = args // { nn, dirName, slug, name, url, category }
 const DIR = `${ROOT}/concepts/${C.dirName}`
 const LIB = `${ROOT}/00_GLOBAL/REFERENCE_LIBRARY`
 
-const PRE = `You are a specialist in a design swarm building ten award-level, standalone website redesigns of real brands (independent speculative concepts for a designer's portfolio). FIRST read ${ROOT}/00_GLOBAL/SWARM_PROTOCOL.md completely, and the sections of ${ROOT}/00_GLOBAL/BRIEF.md relevant to your role. Your concept: #${C.nn} ${C.name} (${C.url}) — category: ${C.category}. Your concept directory (the ONLY place you write, apart from reference-library entries): ${DIR}. Binding concept brief with creative lane constraints and the territories you must NOT occupy: ${DIR}/BRIEF.md. The other lanes: ${ROOT}/00_GLOBAL/SELECTED_TEN.md and DIVERSITY_MATRIX.md.`
+const ECON = `ECONOMY (usage is rationed; waste is a defect): reuse existing artifacts on disk before running any tool; look at contact sheets and at most 3–5 full frames per source (images dominate context cost), never loop-read many images; keep every markdown file tight (roughly 300–700 words unless a file's spec demands more); do not re-read files you already read; do not narrate; stop as soon as the deliverable is complete and verified.`
+
+const PRE = `You are a specialist in a design swarm building ten award-level, standalone website redesigns of real brands (independent speculative concepts for a designer's portfolio). ${ECON} FIRST read ${ROOT}/00_GLOBAL/SWARM_PROTOCOL.md completely, and the sections of ${ROOT}/00_GLOBAL/BRIEF.md relevant to your role. Your concept: #${C.nn} ${C.name} (${C.url}) — category: ${C.category}. Your concept directory (the ONLY place you write, apart from reference-library entries): ${DIR}. Binding concept brief with creative lane constraints and the territories you must NOT occupy: ${DIR}/BRIEF.md. The other lanes: ${ROOT}/00_GLOBAL/SELECTED_TEN.md and DIVERSITY_MATRIX.md.`
 
 // ---------- schemas ----------
 const ASSET_VERDICT = {
@@ -79,7 +81,7 @@ Be honest: if the official material is too thin or locked for the lane in BRIEF.
 
 const scoutPrompt = (feedback) => `${PRE}
 ROLE: REFERENCE SCOUT. Select the 2–4 PRIMARY references for this concept, each contributing DIFFERENT DNA (e.g. A → typography, B → hero structure, C → navigation/interaction, D → 3D/product presentation), then recompose around this brand. Read BRIEF sections "REFERENCE MIXING", "REFERENCE ADMISSION TEST", "ACTUALLY OPEN REFERENCES", "USER-SUPPLIED REFERENCE DNA".
-Resources: the shared library ${LIB}/ (each entry has REF.md + VERDICT.json from a Reference Quality Director; ${LIB}/INDEX.md if present). Start from entries with verdict PRIMARY/SECONDARY whose bestFor/dna matches this brand and lane (read ${DIR}/BRIEF.md and ${DIR}/BRAND.md if present). If the library lacks a strong match for a needed DNA, do your own additional research: find exceptional live sites (FWA, CSSDA, Codrops, studios, search), open each properly (node ${ROOT}/_tools/inspect-ref.mjs <url> ${LIB}/${C.nn}--<site> --shots 14 --mshots 8, view screenshots, write REF.md with the library headings: WHAT IT IS / WHY IT IS STRONG / COMPOSITION / TYPOGRAPHY (real font + legal alternative) / SPACING & GRID / MOTION & EASING / INTERACTION / MOBILE BEHAVIOUR / 3D-WEBGL / PHOTOGRAPHY & IMAGE TREATMENT / WHAT WE CAN ADOPT / WHAT TO REFUSE / BEST USED FOR / TECH FINGERPRINT).
+Resources: the shared library ${LIB}/ (each entry has REF.md + VERDICT.json from a Reference Quality Director; ${LIB}/INDEX.md if present). Start from entries with verdict PRIMARY/SECONDARY whose bestFor/dna matches this brand and lane (read ${DIR}/BRIEF.md and ${DIR}/BRAND.md if present). If the library lacks a strong match for a needed DNA, do your own additional research: find exceptional live sites (FWA, CSSDA, Codrops, studios, search), open each properly (node ${ROOT}/_tools/inspect-ref.mjs <url> ${LIB}/${C.nn}--<site> --shots 10 --mshots 4, view screenshots, write REF.md with the library headings: WHAT IT IS / WHY IT IS STRONG / COMPOSITION / TYPOGRAPHY (real font + legal alternative) / SPACING & GRID / MOTION & EASING / INTERACTION / MOBILE BEHAVIOUR / 3D-WEBGL / PHOTOGRAPHY & IMAGE TREATMENT / WHAT WE CAN ADOPT / WHAT TO REFUSE / BEST USED FOR / TECH FINGERPRINT).
 Never admit a reference because it merely looked good in search or on Pinterest/Behance/Dribbble. Only references that meet the admission test and are at least competitive with the whitelist may be PRIMARY.
 Write ${DIR}/REFERENCES.md (the 2–4 primaries + the DNA each supplies + why it suits this brand + screenshot paths) and ${DIR}/REFERENCE_DNA.md (CONCRETE decomposition per reference: type scale/proportions, hero structure, grid and spacing numbers, nav mechanism, scroll/transition technique, image treatment, what exactly we reproduce and what we refuse; plus the synthesis plan: how the primaries recombine around this brand without becoming a screen-by-screen copy).
 ${feedback ? 'THE REFERENCE QUALITY DIRECTOR REJECTED YOUR PREVIOUS SET. Required changes: ' + feedback + '\nResearch again; replace weak references; do not just re-argue.' : ''}
@@ -121,7 +123,7 @@ const [assetVerdict, refResult] = await parallel([
     await agent(brandPrompt(), { label: `brand:${C.slug}`, phase: 'Foundations' })
     let feedback = ''
     let verdict = null
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 2; i++) {
       await agent(scoutPrompt(feedback), { label: `refscout:${C.slug}#${i + 1}`, phase: 'Foundations' })
       verdict = await agent(rqdGatePrompt(), { label: `refgate:${C.slug}#${i + 1}`, phase: 'Foundations', schema: RQD_SCHEMA, effort: 'high' })
       if (verdict && verdict.verdict === 'REFERENCE SET APPROVED') break

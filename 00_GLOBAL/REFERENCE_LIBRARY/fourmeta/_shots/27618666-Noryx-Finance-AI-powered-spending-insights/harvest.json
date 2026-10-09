@@ -1,0 +1,177 @@
+{
+  "url": "https://dribbble.com/shots/27618666-Noryx-Finance-AI-powered-spending-insights",
+  "meta": {
+    "og": "https://cdn.dribbble.com/userupload/48605163/file/still-ded98c657e896b053d53b91888d019f6.png?resize=1600x1200",
+    "twitter": "https://cdn.dribbble.com/userupload/48605163/file/still-ded98c657e896b053d53b91888d019f6.png?resize=1600x1200",
+    "icons": [
+      "https://dribbble.com/images/favicon.ico",
+      "https://dribbble.com/images/favicon-64x64.png",
+      "https://dribbble.com/images/favicon-192x192.png",
+      "https://dribbble.com/images/apple-touch-icon-precomposed.png"
+    ],
+    "preloadImages": [],
+    "title": "Noryx Finance: AI-powered spending insights by FOURMETA on Dribbble",
+    "theme": "#FFFFFF"
+  },
+  "jsonld": [
+    "\n    [\n  {\n    \"@context\": \"https://schema.org/\",\n    \"@type\": \"VideoObject\",\n    \"name\": \"Noryx Finance: AI-powered spending insights\",\n    \"contentUrl\": \"https://cdn.dribbble.com/userupload/48605164/file/d71e48fea725961e2291128f0bfb737e.mp4\",\n    \"creator\": {\n      \"@type\": \"Person\",\n      \"name\": \"FOURMETA\"\n    },\n    \"thumbnailUrl\": \"https://cdn.dribbble.com/userupload/48605164/file/still-e10a101fa2f87ce58124cacfffe1ab44.png\",\n    \"uploadDate\": \"2026-08-04 05:22:50 -0400\"\n  }\n]\n  "
+  ],
+  "bodyFont": "\"Mona Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+  "svgLogos": [
+    {
+      "file": "svg/inline_01_Dribbble_the_community_for_gra.svg",
+      "w": 89,
+      "h": 25,
+      "aria": "Dribbble: the community for graphic design",
+      "cls": "",
+      "bytes": 7294
+    },
+    {
+      "file": "svg/inline_02_Dribbble_the_community_for_gra.svg",
+      "w": 104,
+      "h": 30,
+      "aria": "Dribbble: the community for graphic design",
+      "cls": "",
+      "bytes": 7293
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.dribbble.com/userupload/48605164/file/still-e10a101fa2f87ce58124cacfffe1ab44.png",
+      "file": "images/200cf2_still-e10a101fa2f87ce58124cacfffe1ab44.png.webp",
+      "kind": "images",
+      "bytes": 38870,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 1600,
+      "h": 1200,
+      "alpha": false
+    },
+    {
+      "url": "https://srv.buysellads.com/static/30242/5640463425295c99833cd00973dca27d34a4723d",
+      "file": "images/776c01_5640463425295c99833cd00973dca27d34a4723d.png",
+      "kind": "images",
+      "bytes": 26535,
+      "contentType": "image/png",
+      "via": "network",
+      "w": 500,
+      "h": 500,
+      "alpha": false,
+      "alt": "Spin Up a VM in Minutes",
+      "near": "",
+      "renderedW": 114
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/47252495/file/still-0e2a2b46ddad2c1a2c7bb1bc474b6f28.png?resize=400x300&vertical=center",
+      "file": "images/b76b16_still-0e2a2b46ddad2c1a2c7bb1bc474b6f28.png.webp",
+      "kind": "images",
+      "bytes": 23064,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 400,
+      "h": 300,
+      "alpha": false,
+      "alt": "",
+      "near": "Noryx Finance: AI-powered spending insights",
+      "renderedW": 271
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/47155612/file/c86a35bb80ea368f61143e8255b0ce5a.png?resize=400x300&vertical=center",
+      "file": "images/a893c3_c86a35bb80ea368f61143e8255b0ce5a.png.webp",
+      "kind": "images",
+      "bytes": 17928,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 400,
+      "h": 300,
+      "alpha": false,
+      "alt": "",
+      "near": "Noryx Finance: AI-powered spending insights",
+      "renderedW": 271
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/46581294/file/3a40e0c65cf74b20b9cb0f075a16c57d.png?format=webp&resize=320x240&vertical=center",
+      "file": "images/3e416b_3a40e0c65cf74b20b9cb0f075a16c57d.png.webp",
+      "kind": "images",
+      "bytes": 26642,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/49060225/file/fc61efcc5e7b6d0860e17a91db6ff5ae.jpg?crop=0x530-1600x1730&format=webp&resize=200x150&vertical=center",
+      "file": "images/48af3a_fc61efcc5e7b6d0860e17a91db6ff5ae.jpg.webp",
+      "kind": "images",
+      "bytes": 14320,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 200,
+      "h": 150,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/assets/processing-0adc8c1c97e052c873286dfd67ae4b039dd9bb29e66d9cff02e3bf56a77004e9.gif",
+      "file": "images/8854ee_97e052c873286dfd67ae4b039dd9bb29e66d9cff02e3bf56a77004e9.gif",
+      "kind": "images",
+      "bytes": 28263,
+      "contentType": "image/gif",
+      "via": "network",
+      "w": 32,
+      "h": 32,
+      "alpha": true
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/48605164/file/large-942f3e490e44fb107eb1f734d78a84bf.mp4",
+      "file": "video/b0625b_large-942f3e490e44fb107eb1f734d78a84bf.mp4",
+      "kind": "video",
+      "bytes": 325034,
+      "contentType": "video/mp4",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/vite/assets/comment-outline-fcb8054f.svg",
+      "file": "svg/b4128b_comment-outline-fcb8054f.svg",
+      "kind": "svg",
+      "bytes": 826,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://cdn.dribbble.com/assets/icons/caret-down-small-6812c101ad74bbba64b8a1085069178021af73dbe77942d30563a543d58266f2.svg",
+      "file": "svg/ef9d7a_ad74bbba64b8a1085069178021af73dbe77942d30563a543d58266f2.svg",
+      "kind": "svg",
+      "bytes": 668,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/vite/assets/info-outline-96e02604.svg",
+      "file": "svg/58d1a0_info-outline-96e02604.svg",
+      "kind": "svg",
+      "bytes": 644,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/vite/assets/share-outline-936bcd69.svg",
+      "file": "svg/4d6d71_share-outline-936bcd69.svg",
+      "kind": "svg",
+      "bytes": 500,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/icons/close-v2-ee745bc0fbb9fb4478f0276268826717013f0846f4641f5c4089670432a65335.svg",
+      "file": "svg/ab64ee_fbb9fb4478f0276268826717013f0846f4641f5c4089670432a65335.svg",
+      "kind": "svg",
+      "bytes": 224,
+      "contentType": "image/svg+xml",
+      "via": "network",
+      "alt": "",
+      "near": "Noryx Finance: AI-powered spending insights",
+      "renderedW": 24
+    }
+  ]
+}
