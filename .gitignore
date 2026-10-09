@@ -14,3 +14,13 @@ _tools/.locks/
 # raw harvest dumps (curated assets are copied into each concept's assets/)
 **/_harvest/
 **/_work/
+# third-party screenshots/dumps produced by research tooling
+**/_inspect/
+**/_timeline/
+**/_triage/
+00_GLOBAL/DISCOVERY/**/*.jpg
+00_GLOBAL/DISCOVERY/**/*.png
+00_GLOBAL/DISCOVERY/**/*.webp
+00_GLOBAL/DISCOVERY/**/*.avif
+00_GLOBAL/DISCOVERY/**/*.mp4
+**/inspect.json

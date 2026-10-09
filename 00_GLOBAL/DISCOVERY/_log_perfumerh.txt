@@ -10,3 +10,5 @@
 [slot:browser] queued 1s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
 [slot:browser] queued 30s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
 [slot:browser] queued 31s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
+[slot:browser] queued 60s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
+[slot:browser] queued 61s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
