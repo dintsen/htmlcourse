@@ -24,3 +24,7 @@ _tools/.locks/
 00_GLOBAL/DISCOVERY/**/*.avif
 00_GLOBAL/DISCOVERY/**/*.mp4
 **/inspect.json
+# agent/tool run logs
+**/*.log
+**/logs/
+00_GLOBAL/DISCOVERY/_log_*.txt
