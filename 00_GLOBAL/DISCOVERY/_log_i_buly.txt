@@ -24,3 +24,6 @@
 [slot:chromium] queued 361s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
 [slot:chromium] queued 390s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
 [slot:chromium] queued 390s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
+[slot:chromium] queued 420s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
+[slot:chromium] queued 421s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
+[slot:chromium] queued 421s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)
