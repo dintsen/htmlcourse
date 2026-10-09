@@ -1,0 +1,232 @@
+{
+  "url": "https://dribbble.com/shots/27664351-Horizon-Vision-Performance-Eyewear-eCommerce",
+  "meta": {
+    "og": "https://cdn.dribbble.com/userupload/48774719/file/still-a8114d7d2caa26d482c95ea5f144c238.png?resize=1600x1200",
+    "twitter": "https://cdn.dribbble.com/userupload/48774719/file/still-a8114d7d2caa26d482c95ea5f144c238.png?resize=1600x1200",
+    "icons": [
+      "https://dribbble.com/images/favicon.ico",
+      "https://dribbble.com/images/favicon-64x64.png",
+      "https://dribbble.com/images/favicon-192x192.png",
+      "https://dribbble.com/images/apple-touch-icon-precomposed.png"
+    ],
+    "preloadImages": [],
+    "title": "Horizon Vision: Performance Eyewear eCommerce by FOURMETA on Dribbble",
+    "theme": "#FFFFFF"
+  },
+  "jsonld": [
+    "\n    [\n  {\n    \"@context\": \"https://schema.org/\",\n    \"@type\": \"VideoObject\",\n    \"name\": \"Horizon Vision: Performance Eyewear eCommerce\",\n    \"contentUrl\": \"https://cdn.dribbble.com/userupload/48774720/file/31db23ea483e3a30334bc8a4329e17d6.mp4\",\n    \"creator\": {\n      \"@type\": \"Person\",\n      \"name\": \"FOURMETA\"\n    },\n    \"thumbnailUrl\": \"https://cdn.dribbble.com/userupload/48774720/file/still-ec6c4ffe5f23d21368f48aead358a375.png\",\n    \"uploadDate\": \"2026-08-20 08:09:14 -0400\"\n  }\n]\n  "
+  ],
+  "bodyFont": "\"Mona Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+  "svgLogos": [
+    {
+      "file": "svg/inline_01_Dribbble_the_community_for_gra.svg",
+      "w": 89,
+      "h": 25,
+      "aria": "Dribbble: the community for graphic design",
+      "cls": "",
+      "bytes": 7294
+    },
+    {
+      "file": "svg/inline_02_Dribbble_the_community_for_gra.svg",
+      "w": 104,
+      "h": 30,
+      "aria": "Dribbble: the community for graphic design",
+      "cls": "",
+      "bytes": 7293
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.dribbble.com/userupload/48774720/file/still-ec6c4ffe5f23d21368f48aead358a375.png",
+      "file": "images/5d7e0a_still-ec6c4ffe5f23d21368f48aead358a375.png.webp",
+      "kind": "images",
+      "bytes": 23064,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 1600,
+      "h": 1200,
+      "alpha": false
+    },
+    {
+      "url": "https://srv.buysellads.com/static/30242/f9b38b1bed8ab6966b143094699c70948d485f84",
+      "file": "images/032ce0_f9b38b1bed8ab6966b143094699c70948d485f84.png",
+      "kind": "images",
+      "bytes": 31517,
+      "contentType": "image/png",
+      "via": "network",
+      "w": 500,
+      "h": 500,
+      "alpha": false,
+      "alt": "$300 Free Credits to Build on Google Cloud",
+      "near": "",
+      "renderedW": 114
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/47252495/file/still-0e2a2b46ddad2c1a2c7bb1bc474b6f28.png?resize=400x300&vertical=center",
+      "file": "images/b76b16_still-0e2a2b46ddad2c1a2c7bb1bc474b6f28.png.webp",
+      "kind": "images",
+      "bytes": 23064,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 400,
+      "h": 300,
+      "alpha": false,
+      "alt": "",
+      "near": "Horizon Vision: Performance Eyewear eCommerce",
+      "renderedW": 271
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/47155612/file/c86a35bb80ea368f61143e8255b0ce5a.png?resize=400x300&vertical=center",
+      "file": "images/a893c3_c86a35bb80ea368f61143e8255b0ce5a.png.webp",
+      "kind": "images",
+      "bytes": 17928,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 400,
+      "h": 300,
+      "alpha": false,
+      "alt": "",
+      "near": "Horizon Vision: Performance Eyewear eCommerce",
+      "renderedW": 271
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/49090819/file/040e74e8d47318583ced18f2ed21aeed.png?crop=0x0-3200x2400&format=webp&resize=320x240&vertical=center",
+      "file": "images/f7691c_040e74e8d47318583ced18f2ed21aeed.png.webp",
+      "kind": "images",
+      "bytes": 18636,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/47673570/file/still-72c312a0d2d7b75525673d3268eafc35.png?format=webp&resize=320x240&vertical=center",
+      "file": "images/fb308e_still-72c312a0d2d7b75525673d3268eafc35.png.webp",
+      "kind": "images",
+      "bytes": 17432,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/11516164/file/original-5166c56bfca168255ad52241c755eec3.png?format=webp&resize=320x240&vertical=center",
+      "file": "images/dfa3f1_original-5166c56bfca168255ad52241c755eec3.png.webp",
+      "kind": "images",
+      "bytes": 17116,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/48343644/file/still-6577eafafd8b131de0f4a07ee69adb14.png?format=webp&resize=320x240&vertical=center",
+      "file": "images/181583_still-6577eafafd8b131de0f4a07ee69adb14.png.webp",
+      "kind": "images",
+      "bytes": 16872,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/48751211/file/bfcd8d28e2bde801cc1b4c78ad3a8174.png?crop=0x0-2400x1800&format=webp&resize=320x240&vertical=center",
+      "file": "images/0d02bf_bfcd8d28e2bde801cc1b4c78ad3a8174.png.webp",
+      "kind": "images",
+      "bytes": 16248,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": true
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/13775144/file/original-ca7a7e48f720d68c836ad79a663b276d.jpg?format=webp&resize=320x240&vertical=center",
+      "file": "images/9e78f4_original-ca7a7e48f720d68c836ad79a663b276d.jpg.webp",
+      "kind": "images",
+      "bytes": 14546,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 320,
+      "h": 240,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/49060225/file/fc61efcc5e7b6d0860e17a91db6ff5ae.jpg?crop=0x530-1600x1730&format=webp&resize=200x150&vertical=center",
+      "file": "images/48af3a_fc61efcc5e7b6d0860e17a91db6ff5ae.jpg.webp",
+      "kind": "images",
+      "bytes": 14320,
+      "contentType": "image/webp",
+      "via": "network",
+      "w": 200,
+      "h": 150,
+      "alpha": false
+    },
+    {
+      "url": "https://cdn.dribbble.com/assets/processing-0adc8c1c97e052c873286dfd67ae4b039dd9bb29e66d9cff02e3bf56a77004e9.gif",
+      "file": "images/8854ee_97e052c873286dfd67ae4b039dd9bb29e66d9cff02e3bf56a77004e9.gif",
+      "kind": "images",
+      "bytes": 28263,
+      "contentType": "image/gif",
+      "via": "network",
+      "w": 32,
+      "h": 32,
+      "alpha": true
+    },
+    {
+      "url": "https://cdn.dribbble.com/userupload/48774720/file/large-f39486e93fb638a6ed4f7f170319f5c2.mp4",
+      "file": "video/7d94b3_large-f39486e93fb638a6ed4f7f170319f5c2.mp4",
+      "kind": "video",
+      "bytes": 828414,
+      "contentType": "video/mp4",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/vite/assets/comment-outline-fcb8054f.svg",
+      "file": "svg/b4128b_comment-outline-fcb8054f.svg",
+      "kind": "svg",
+      "bytes": 826,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://cdn.dribbble.com/assets/icons/caret-down-small-6812c101ad74bbba64b8a1085069178021af73dbe77942d30563a543d58266f2.svg",
+      "file": "svg/ef9d7a_ad74bbba64b8a1085069178021af73dbe77942d30563a543d58266f2.svg",
+      "kind": "svg",
+      "bytes": 668,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/vite/assets/info-outline-96e02604.svg",
+      "file": "svg/58d1a0_info-outline-96e02604.svg",
+      "kind": "svg",
+      "bytes": 644,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/vite/assets/share-outline-936bcd69.svg",
+      "file": "svg/4d6d71_share-outline-936bcd69.svg",
+      "kind": "svg",
+      "bytes": 500,
+      "contentType": "image/svg+xml",
+      "via": "network"
+    },
+    {
+      "url": "https://dribbble.com/assets/icons/close-v2-ee745bc0fbb9fb4478f0276268826717013f0846f4641f5c4089670432a65335.svg",
+      "file": "svg/ab64ee_fbb9fb4478f0276268826717013f0846f4641f5c4089670432a65335.svg",
+      "kind": "svg",
+      "bytes": 224,
+      "contentType": "image/svg+xml",
+      "via": "network",
+      "alt": "",
+      "near": "Horizon Vision: Performance Eyewear eCommerce",
+      "renderedW": 24
+    }
+  ]
+}
