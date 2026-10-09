@@ -31,6 +31,8 @@ function prompt(it) {
 YOUR CATEGORY: ${it.name}
 Focus: ${it.focus}
 
+ECONOMY & REUSE (usage is rationed — waste is a defect). An earlier run was interrupted after many brands had already been probed; the captured data is on disk but its agents' conclusions were lost. ALREADY PROBED brands plausibly in your category: ${(it.probed || []).join(', ') || '(none listed)'}. For each, check ${DISC}/_harvest/<slug>*/harvest.json and ${DISC}/_inspect/<slug>/inspect.json — if they exist DO NOT re-run harvest/inspect: read them, look at the contact sheet and the best 4–8 images (Read tool), and judge. Prefer completing candidate files from this probed pool when a probed brand genuinely fits your category and is strong; probe NEW brands only to fill gaps or replace weak ones. View at most ~6 images per brand; keep each candidate .md to ~250–400 words; do not re-read files twice; do not narrate.
+
 TASK: nominate 5–6 real brands/products in this category and PROBE each one for real. A nomination is worthless if its assets cannot actually be obtained or its brand cannot be opened. The goal is the strongest possible raw material for an Awwwards/FWA-level redesign: distinctive physical product or place, beautiful official imagery, a recognisable identity with strong typographic/colour character, motion & 3D potential.
 Rules:
 - No SaaS / AI / fintech / crypto / dashboard brands. At least 3 of your nominees must centre on a real physical product, packaging, or place.

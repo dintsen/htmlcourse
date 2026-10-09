@@ -23,9 +23,10 @@ const RES_SCHEMA = {
   properties: { entries: { type: 'array', items: ENTRY }, blockers: { type: 'array', items: { type: 'string' } } },
   required: ['entries'],
 }
-const VERDICT_SCHEMA = {
+const VERDICT_ITEM = {
   type: 'object',
   properties: {
+    slug: { type: 'string' },
     verdict: { type: 'string', enum: ['PRIMARY', 'SECONDARY', 'REJECTED'] },
     total: { type: 'number' },
     dna: { type: 'array', items: { type: 'string' } },
@@ -34,12 +35,16 @@ const VERDICT_SCHEMA = {
     legalFontAlternatives: { type: 'array', items: { type: 'string' } },
     reason: { type: 'string' },
   },
-  required: ['verdict', 'total', 'dna', 'bestFor', 'reason'],
+  required: ['slug', 'verdict', 'total', 'dna', 'bestFor', 'reason'],
 }
+
+const BATCH_SCHEMA = { type: 'object', properties: { verdicts: { type: 'array', items: VERDICT_ITEM } }, required: ['verdicts'] }
 
 const PRE = `You are a specialist in a design swarm that will build ten award-level brand website redesigns. FIRST read ${ROOT}/00_GLOBAL/SWARM_PROTOCOL.md completely (environment facts, tools, hard rules, reference discipline). The authoritative user brief is ${ROOT}/00_GLOBAL/BRIEF.md (sections "ACTUALLY OPEN REFERENCES", "REFERENCE ADMISSION TEST", "REFERENCE QUALITY DIRECTOR", "TYPOGRAPHY FREEDOM", "PRIMARY REFERENCE UNIVERSE"). Shared reference library root: ${LIB}. awwwards.com is blocked at the egress proxy: do NOT try relays/readers/archives to reach it.`
 
 const REF_HEADINGS = `WHAT IT IS / WHY IT IS STRONG / COMPOSITION / TYPOGRAPHY (real font, how identified, closest LEGAL alternative with source) / SPACING & GRID / MOTION & EASING (observed — say 'not verified' if only stills) / INTERACTION (cursor, hover, nav, sticky, transitions) / MOBILE BEHAVIOUR / 3D-WEBGL (what it is, how, which libs) / PHOTOGRAPHY & IMAGE TREATMENT / WHAT WE CAN ADOPT / WHAT TO REFUSE / BEST USED FOR (brand types) / TECH FINGERPRINT (libs, fonts, canvas, scroll engine)`
+
+const ECON = `ECONOMY & REUSE (usage is rationed — waste is a defect): an earlier run was interrupted; artifacts may already exist on disk. Before running any tool for an entry, check ${LIB}/<slug>/inspect.json (and screenshots, contact sheets, REF.md). If they exist, DO NOT re-run inspect-ref: Read them and carry on (refine an existing REF.md rather than redoing it). Look at each entry's contact-d.jpg and contact-m.jpg plus at most 6 individual frames. Keep each REF.md to ~450–700 words of evidence-based notes. Do not re-read files you already read, do not narrate, do not re-verify things twice.`
 
 const HOW = `HOW TO OPEN A SITE PROPERLY (mandatory, per entry):
 1. node ${ROOT}/_tools/inspect-ref.mjs <url> ${LIB}/<slug> --shots 16 --mshots 8   (use --wait 9000 for slow preloaders). It writes screenshots d-*.jpg / m-*.jpg, contact-d.jpg, contact-m.jpg and inspect.json.
@@ -54,7 +59,7 @@ function researchPrompt(it) {
   if (it.kind === 'studio') {
     job = `TARGET: ${it.name} — ${it.url}. This is a QUALITY ANCHOR studio from the user's whitelist.
 Entry 1 (slug "${it.slug}"): the studio's own site.
-Then identify their 2–3 strongest LIVE client/product projects that are most useful for brand websites (prefer consumer / physical / product brands: food, drink, fashion, shoes, electronics, cars, beauty, hospitality, culture). Find them from the studio's work pages and via WebSearch; use the live site URLs (not Behance/Awwwards write-ups). Each gets its own entry with slug "${it.slug}--<project>" and the full treatment. If a project site is dead or blocked, say so and pick another.
+Then identify their up to 2 strongest LIVE client/product projects that are most useful for brand websites (prefer consumer / physical / product brands: food, drink, fashion, shoes, electronics, cars, beauty, hospitality, culture). Find them from the studio's work pages and via WebSearch; use the live site URLs (not Behance/Awwwards write-ups). Each gets its own entry with slug "${it.slug}--<project>" and the full treatment. If a project site is dead or blocked, say so and pick another.
 ${it.focus ? 'Specific focus: ' + it.focus : ''}`
   } else if (it.kind === 'dribbble') {
     job = `TARGET: ${it.name} — ${it.url} (Dribbble: static shots, not a live site). Run inspect-ref on the page for screenshots, AND use node ${ROOT}/_tools/harvest.mjs <url> ${LIB}/<slug>/_harvest --scroll 6 --links to download the actual shot images at full resolution; LOOK at the full-res images (Read tool). Choose the 3–4 strongest shots as separate entries (slug "${it.slug}--shotN"; dir under ${LIB}); decompose the visual system: grid, type (identify the real fonts as far as the image allows), colour logic, imagery, UI mechanics. Motion/interaction is 'not verified' unless a video/GIF is attached (harvest video). If an underlying live site/project for a shot exists, open it as its own entry.
@@ -64,21 +69,25 @@ ${it.focus ? 'Specific focus: ' + it.focus : ''}`
   } else {
     job = `TARGET: category scouting — "${it.name}". Find 6–8 EXCEPTIONAL, recent (prefer 2024–2026), LIVE websites for: ${it.focus}. Discovery sources (all open except Awwwards): FWA (thefwa.com — SOTD/SOTM/ SOTY archives and category pages), CSS Design Awards (cssdesignawards.com — WOTD/WOTM/WOTY), Codrops (tympanus.net/codrops, incl. the collective/inspiration posts), Dribbble, studio portfolios of the whitelist (OBYS, Studio Freight/Darkroom, Active Theory, Immersive Garden, Locomotive, Unseen, Cuberto, Noomo, Basement, Build in Amsterdam, BASIC/DEPT, AREA 17), plus WebSearch. Prefer brand/product/commerce/hospitality sites over agency portfolios; prefer full experiences (not one pretty hero). Log what you browsed and what you rejected (and why) in ${LIB}/_sources/${it.slug}.md. Each chosen site becomes an entry slug "${it.slug}--<site>" with the full treatment. Do NOT pick a site just because a thumbnail looked nice: open it and judge the whole experience.`
   }
-  return `${PRE}\n\nROLE: REFERENCE RESEARCHER.\n${job}\n\n${HOW}\n\nReturn the structured list of entries you produced (slug, url, title, dir (absolute), opened, note) plus any blockers. Keep your reply short — the detail lives in REF.md files.`
+  return `${PRE}\n\nROLE: REFERENCE RESEARCHER.\n${job}\n\n${ECON}\n\n${HOW}\n\nReturn the structured list of entries you produced (slug, url, title, dir (absolute), opened, note) plus any blockers. Keep your reply short — the detail lives in REF.md files.`
 }
 
-function rqdPrompt(e) {
+function rqdBatchPrompt(entries) {
+  const list = entries.map((e) => `- ${e.slug} — ${e.url} — dir ${e.dir}`).join('\n')
   return `${PRE}
 
-ROLE: REFERENCE QUALITY DIRECTOR (fresh evaluator; you do NOT design and you did NOT research this entry). Your only job: is this reference genuinely exceptional enough to serve as a PRIMARY reference for award-level work, and what DNA is it good for?
-ENTRY: ${e.slug} — ${e.url} — directory ${e.dir}
+ROLE: REFERENCE QUALITY DIRECTOR (fresh evaluator; you do NOT design and you did NOT research these entries). Your only job: for EACH entry below decide whether it is genuinely exceptional enough to be a PRIMARY reference for award-level work, and what DNA it is good for. Be demanding: mediocre references are worse than none ('REFERENCE SET REJECTED' is the correct response to mediocre work).
+ENTRIES:
+${list}
 
-Procedure:
-1. BEFORE reading REF.md, look at ${e.dir}/contact-d.jpg, ${e.dir}/contact-m.jpg and 3–6 individual frames (Read tool). If the entry is a Dribbble/static collection, look at the harvested full-res images. Write your raw first impression (4–8 plain sentences: does it look expensive, is the typography memorable, is the composition confident, does mobile hold up) to ${e.dir}/RQD.md.
-2. Then read ${e.dir}/REF.md and inspect.json. Check the researcher's claims against the evidence; flag anything unsupported.
-3. Apply the BRIEF's reference admission test, scoring each 0–3: exceptional typography · excellent composition · coherent full experience (not one screenshot) · meaningful motion · strong art direction · respected studio OR clearly exceptional execution · useful interaction concept · useful responsive behaviour · strong photography or 3D · competitive with the whitelist (OBYS / Studio Freight / Active Theory / Immersive Garden / Locomotive / Unseen / Cuberto / Build in Amsterdam / BASIC-DEPT …). total = sum (max 30).
-4. Verdict: PRIMARY (≥ 23 and competitive with the whitelist across the board, and not just one strong screenshot); SECONDARY (only strong for specific DNA — name exactly which: typography, hero, nav, transitions, cursor, 3d, product-presentation, motion, mobile, commerce, editorial, layout, imagery); REJECTED (mediocre, template-like, thumbnail-pretty but shallow, or broken). Be demanding: 'REFERENCE SET REJECTED' is the correct response to mediocre work. Mediocre references are worse than none.
-5. Write ${e.dir}/VERDICT.json with: verdict, total, scores (object), dna[], bestFor[] (brand/product types it suits), realFont, legalFontAlternatives[], reason. Return the same via the schema.`
+${ECON}
+Procedure per entry:
+1. BEFORE reading its REF.md, look at <dir>/contact-d.jpg, <dir>/contact-m.jpg and up to 4 individual frames (Read tool). Write your raw first impression (3–6 plain sentences: expensive? memorable typography? confident composition? does mobile hold up?) to <dir>/RQD.md.
+2. Then read REF.md and inspect.json; check the researcher's claims against the evidence.
+3. Score the BRIEF's admission criteria 0–3 each: exceptional typography · excellent composition · coherent full experience (not one screenshot) · meaningful motion · strong art direction · respected studio OR clearly exceptional execution · useful interaction concept · useful responsive behaviour · strong photography or 3D · competitive with the whitelist (OBYS / Studio Freight / Active Theory / Immersive Garden / Locomotive / Unseen / Cuberto / Build in Amsterdam / BASIC-DEPT …). total = sum (max 30).
+4. Verdict: PRIMARY (total ≥ 23, competitive with the whitelist across the board, not just one strong screenshot); SECONDARY (only strong for specific DNA — name exactly which: typography, hero, nav, transitions, cursor, 3d, product-presentation, motion, mobile, commerce, editorial, layout, imagery); REJECTED.
+5. Write <dir>/VERDICT.json (verdict, total, scores, dna[], bestFor[] brand/product types, realFont, legalFontAlternatives[], reason).
+Return all verdicts via the schema.`
 }
 
 phase('Research')
@@ -90,10 +99,8 @@ const results = await pipeline(
   (res, it) => {
     const opened = ((res && res.entries) || []).filter((e) => e.opened)
     log(`${it.slug}: ${opened.length}/${((res && res.entries) || []).length} entries opened`)
-    return parallel(opened.map((e) => () =>
-      agent(rqdPrompt(e), { label: `rqd:${e.slug}`, phase: 'Admission', schema: VERDICT_SCHEMA, effort: 'high' })
-        .then((v) => ({ slug: e.slug, url: e.url, verdict: v && v.verdict, total: v && v.total, dna: v && v.dna, bestFor: v && v.bestFor }))
-    ))
+    if (!opened.length) return []
+    return agent(rqdBatchPrompt(opened), { label: `rqd:${it.slug}`, phase: 'Admission', schema: BATCH_SCHEMA, effort: 'high' }).then((r) => (r && r.verdicts) || [])
   },
 )
 const flat = results.filter(Boolean).flat().filter(Boolean)
