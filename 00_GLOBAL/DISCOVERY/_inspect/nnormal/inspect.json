@@ -1,0 +1,1936 @@
+{
+  "url": "https://www.nnormal.com",
+  "capturedAt": "see file mtime",
+  "desktop": {
+    "timeToStableMs": 45412,
+    "extract": {
+      "title": "NNormal® Trail Running, Hiking & Trekking Gear USA",
+      "description": "Specialists in trail running and hiking products. Shoes, clothing, and accessories | For technical and challenging terrains | Maximum comfort | Durability",
+      "lang": "en-US",
+      "docHeight": 5494,
+      "docWidth": 1440,
+      "vw": 1440,
+      "vh": 900,
+      "htmlClasses": "webp avif",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "NNormal running products",
+          "font": "RyhmesTextThin",
+          "size": "40px",
+          "weight": "500",
+          "lh": "48px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí, now with Gore-Tex®",
+          "font": "RyhmesTextThin",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí, now with Gore-Tex®",
+          "font": "RyhmesTextThin",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h3": [
+        {
+          "tag": "h3",
+          "text": "Discover the new colours",
+          "font": "RyhmesTextLight",
+          "size": "32px",
+          "weight": "100",
+          "lh": "32px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "Conditions change. So do we.",
+          "font": "RyhmesTextLight",
+          "size": "32px",
+          "weight": "100",
+          "lh": "32px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "Discover the new colours",
+          "font": "RyhmesTextLight",
+          "size": "32px",
+          "weight": "100",
+          "lh": "32px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "p": [
+        {
+          "tag": "p",
+          "text": "This website uses cookies",
+          "font": "Modelo",
+          "size": "20.8px",
+          "weight": "700",
+          "lh": "32.6872px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Shop now",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "20px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Shop Cadi Gore-Tex®",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "20px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Cookie Policy",
+          "font": "Rhymes",
+          "size": "14px",
+          "weight": "400",
+          "lh": "22.001px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "NNormal Training Insights, for members only. Sign up now!",
+          "font": "Rhymes, serif",
+          "size": "12px",
+          "weight": "400",
+          "lh": "16px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "NNORMAL STORES",
+          "font": "Rhymes, serif",
+          "size": "12px",
+          "weight": "400",
+          "lh": "16px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Skip to main content",
+          "font": "Arial",
+          "size": "13.3333px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Enable accessibility for low vision",
+          "font": "Arial",
+          "size": "13.3333px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Open the accessibility menu",
+          "font": "Arial",
+          "size": "13.3333px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "Women",
+          "font": "ModeloRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "See All",
+          "font": "ModeloRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "New Arrivals",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Outfits",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "span",
+          "text": "Your",
+          "font": "ModeloBold",
+          "size": "112px",
+          "weight": "400",
+          "lh": "112px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "Path,",
+          "font": "ModeloRegular",
+          "size": "112px",
+          "weight": "400",
+          "lh": "112px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "No",
+          "font": "ModeloLight",
+          "size": "112px",
+          "weight": "400",
+          "lh": "112px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "Trace.",
+          "font": "ModeloThin",
+          "size": "112px",
+          "weight": "400",
+          "lh": "112px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí, now with Gore-Tex®",
+          "font": "RyhmesTextThin",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "strong",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "70px",
+          "weight": "700",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "70px",
+          "weight": "100",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          345
+        ],
+        [
+          "rgb(255, 255, 255)",
+          128
+        ],
+        [
+          "rgba(0, 0, 0, 0)",
+          5
+        ],
+        [
+          "rgb(169, 169, 169)",
+          1
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(0, 0, 0)",
+          14779365
+        ],
+        [
+          "rgb(255, 255, 255)",
+          4379089
+        ],
+        [
+          "rgba(0, 0, 0, 0.5)",
+          1296000
+        ],
+        [
+          "rgb(232, 231, 234)",
+          612500
+        ],
+        [
+          "rgba(255, 255, 255, 0)",
+          19213
+        ],
+        [
+          "rgba(255, 255, 255, 0.5)",
+          7160
+        ]
+      ],
+      "rootVars": {
+        "--color-white": "#fff",
+        "--color-primary": "#333",
+        "--color-black": "#000",
+        "--color-text-secondary": "#999",
+        "--color-grey": "#e0e0e0",
+        "--color-grey-light": "#dfdfdf",
+        "--color-grey-lightest": "#e6e6e6",
+        "--color-grey-light-two": "#f6f6f6",
+        "--color-error": "#da291c",
+        "--color-disabled-primary": "#919191",
+        "--color-divider": "#d9d9d9",
+        "--color-success": "#07b323",
+        "--color-warn": "#fc8106",
+        "--color-tag-checked": "#e0e0e0",
+        "--color-border-grey": "#d1cfd2",
+        "--background": "#fff",
+        "--color-camperlab": "#f1efe5",
+        "--color-recycled": "#edf1c6",
+        "--color-subgrid": "#f6f6f6",
+        "--color-green-nnormal": "#bdfda9",
+        "--justify-padding": "10px",
+        "--color-border-panel": "#929292",
+        "--color-input-border": "#cac6c6",
+        "--color-brand": "#ed1a2c",
+        "--color-afterpay": "#000",
+        "--xxl-size": "1.5em",
+        "--xl-size": "1.4em",
+        "--large-size": "1.125em",
+        "--heading-1-size": "1em",
+        "--regular-size": "1em",
+        "--title-size": "0.875em",
+        "--description-size": "0.75em",
+        "--medium-size": "0.6875em",
+        "--small-size": "0.625em",
+        "--xsmall-size": "0.5em",
+        "--bold-font": "ModerneLLWeb-Medium,sans-serif",
+        "--font-primary": "\"ModerneLLWeb-Regular\",sans-serif",
+        "--font-moderne": "\"Moderne\",sans-serif",
+        "--font-secondary": "var(--bold-font)",
+        "--font-moderne-fat": "\"ModerneFat\",sans-serif",
+        "--font-jp": "\"ヒラギノ角ゴ ProN\",\"Hiragino Kaku Gothic ProN\",\"游ゴシック\",\"游ゴシック体\",Y",
+        "--voucher-subscribe-text": "#b6d7a8",
+        "--voucher-cta": "#000",
+        "--font-diatype": "\"Diatype\",sans-serif",
+        "--font-camperlab": "var(--font-diatype)",
+        "--tw-color-primary": "237 26 44",
+        "--tw-color-disabled": "145 145 145",
+        "--tw-color-divider": "217 217 217",
+        "--tw-color-error": "218 41 28",
+        "--tw-color-success": "7 179 35",
+        "--tw-color-warning": "252 129 6",
+        "--tw-color-camperlab": "241 239 229",
+        "--tw-color-recycled": "237 241 198",
+        "--antd-wave-shadow-color": "#000",
+        "--scroll-bar": "0"
+      },
+      "fontFaces": [
+        {
+          "family": "ModerneLLWeb-Light",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Light.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Light.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-LightItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-Regular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-Italic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-Medium",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-MediumItalic",
+          "weight": "500",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLight",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Light.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Light.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-LightItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneRegular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-RegularItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneMedium",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-MediumItalic",
+          "weight": "500",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "CamperLab",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/folded-regular-webfont.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/folded-regular-webfont.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneFat",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Fat.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Fat.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-FatItalic",
+          "weight": "800",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-FatItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-FatItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneBook",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Book.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Book.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-BookItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BookItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-BookItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneBold",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Bold.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Bold.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-BoldItalic",
+          "weight": "700",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BoldItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-BoldItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneBlack",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Black.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne-BlackItalic",
+          "weight": "900",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BlackItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-BlackItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "300",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Light.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "300",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "350",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Book.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "350",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BookItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "500",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "500",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "700",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Bold.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "700",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BoldItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "800",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Black.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "800",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BlackItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "900",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Fat.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "900",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-FatItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "MinionPro-Regular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/MinionPro-Regular.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Modelo",
+          "weight": "100",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/nnormal/ModeloNNormal-Thin.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "ModeloThin",
+          "weight": "100",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/nnormal/ModeloNNormal-Thin.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Modelo",
+          "weight": "300",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/nnormal/ModeloNNormal-Light.woff2\") format(\"woff2\")"
+        }
+      ],
+      "loadedFonts": [
+        "ModerneLight 400 normal",
+        "ModeloThin 100 normal",
+        "ModeloLight 300 normal",
+        "ModeloRegular 400 normal",
+        "Modelo 700 normal",
+        "ModeloBold 700 normal",
+        "RyhmesTextThin 100 normal",
+        "RyhmesTextLight 300 normal",
+        "RyhmesTextRegular 400 normal",
+        "Rhymes 400 normal",
+        "slick 400 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": true,
+        "nuxt": false,
+        "react": true,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://scripts.clarity.ms/0.8.72/clarity.js",
+        "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__en.js",
+        "https://www.clarity.ms/tag/qepgg0ayaz?ref=gtm",
+        "https://www.nnormal.com/gtm/gtag/js?id=G-RHDCM31XVJ&cx=c&gtm=4e6a72&sign=ce18ce2bf1148b274fdfb55db6ca18a8649b3a8d1b6377f444a88ae34d840846_20261009",
+        "https://www.googletagmanager.com/gtag/js?id=G-7964F8EL02&cx=c&gtm=4e6a72&sign=ce18ce2bf1148b274fdfb55db6ca18a8649b3a8d1b6377f444a88ae34d840846_20261009",
+        "https://www.googletagmanager.com/gtag/js?id=G-LVXRL1DMJE&cx=c&gtm=4e6a72&sign=ce18ce2bf1148b274fdfb55db6ca18a8649b3a8d1b6377f444a88ae34d840846_20261009",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WZW3WRJ7&gtg_health=1",
+        "https://www.nnormal.com/gtm/gtm.js?id=GTM-WZW3WRJ7&gtm_auth=&gtm_preview=&gtm_cookies_win=x",
+        "https://www.nnormal.com/gtm/gtm.js?id=GTM-KHCX5VN&gtm_auth=&gtm_preview=&gtm_cookies_win=x",
+        "https://consent.cookiebot.com/uc.js",
+        "https://www.nnormal.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+        "https://www.nnormal.com/_next/static/chunks/6667d7b9.4f1c52cd465047b9.js",
+        "https://www.nnormal.com/_next/static/chunks/7883.170a3f50199da6a5.js",
+        "https://www.nnormal.com/_next/static/chunks/162.65aa6ed3cb6aadb1.js",
+        "https://www.nnormal.com/_next/static/chunks/9093.326f3b34b4669942.js",
+        "https://www.nnormal.com/_next/static/chunks/3034.1adcf6b1b550d207.js",
+        "https://www.nnormal.com/_next/static/chunks/9382.84d059215ec600bd.js",
+        "https://www.nnormal.com/_next/static/chunks/3754.7b1db3cbc6264de8.js",
+        "https://www.nnormal.com/_next/static/chunks/8407.5f2751c58914c75e.js",
+        "https://www.nnormal.com/_next/static/chunks/2483.e022e65c4f75e6b8.js",
+        "https://www.nnormal.com/_next/static/chunks/8233.de3a9cdfba62e4db.js",
+        "https://www.nnormal.com/_next/static/chunks/9678.b874924874505ff9.js",
+        "https://www.nnormal.com/_next/static/chunks/6504-8b0abc2d7f10a86c.js",
+        "https://www.nnormal.com/_next/static/chunks/8110.0243d9027ffd4cd3.js",
+        "https://www.nnormal.com/_next/static/chunks/9744.10ce857082470246.js",
+        "https://www.nnormal.com/_next/static/chunks/5401.5ec9de3fae60a2f7.js",
+        "https://www.nnormal.com/_next/static/chunks/9118.3e32a3c97937878c.js",
+        "https://www.nnormal.com/_next/static/chunks/893.5899ea4439e2680b.js",
+        "https://www.nnormal.com/_next/static/chunks/75fc9c18-6d135f4e41c51e80.js",
+        "https://www.nnormal.com/_next/static/chunks/4193.94c3e4ad66c0e82d.js",
+        "https://www.nnormal.com/_next/static/chunks/6613-021465931debaf56.js",
+        "https://www.nnormal.com/_next/static/chunks/8169-ca1639504d306afa.js",
+        "https://www.nnormal.com/_next/static/chunks/5081.c97e3f74978869ac.js",
+        "https://www.nnormal.com/_next/static/chunks/1783.5fbbf5f43ba1070e.js",
+        "https://www.nnormal.com/_next/static/chunks/webpack-f9576e65ab547c93.js",
+        "https://www.nnormal.com/_next/static/chunks/framework-c6ee5607585ef091.js",
+        "https://www.nnormal.com/_next/static/chunks/main-008c76cc4a905c67.js",
+        "https://www.nnormal.com/_next/static/chunks/pages/_app-6993adab23f1882b.js",
+        "https://www.nnormal.com/_next/static/chunks/7175-2707c8fce66a34e1.js",
+        "https://www.nnormal.com/_next/static/chunks/5605-858212a306568566.js"
+      ],
+      "nav": [
+        {
+          "t": "",
+          "h": "https://www.nnormal.com/en_US"
+        },
+        {
+          "t": "Women",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "See All",
+          "h": "https://www.nnormal.com/en_US/women/all"
+        },
+        {
+          "t": "New Arrivals",
+          "h": "https://www.nnormal.com/en_US/content/new-arrivals"
+        },
+        {
+          "t": "Outfits",
+          "h": "https://www.nnormal.com/en_US/content/lookbook"
+        },
+        {
+          "t": "Featured",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "Fast & Light",
+          "h": "https://www.nnormal.com/en_US/women/shoes/kjerag-family"
+        },
+        {
+          "t": "Protection & stability",
+          "h": "https://www.nnormal.com/en_US/women/shoes/tomir-family"
+        },
+        {
+          "t": "Innovation",
+          "h": "https://www.nnormal.com/en_US/women/shoes/kboix-family"
+        },
+        {
+          "t": "Gore-Tex®",
+          "h": "https://www.nnormal.com/en_US/women/shoes/waterproof-family"
+        },
+        {
+          "t": "Shoes",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "All",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "Tomir",
+          "h": "https://www.nnormal.com/en_US/content/tomir"
+        },
+        {
+          "t": "Kjerag",
+          "h": "https://www.nnormal.com/en_US/content/kjerag"
+        },
+        {
+          "t": "Cadí",
+          "h": "https://www.nnormal.com/en_US/content/cadi"
+        },
+        {
+          "t": "Kboix",
+          "h": "https://www.nnormal.com/en_US/content/kboix"
+        }
+      ],
+      "canvases": [],
+      "videos": [],
+      "imgs": 45,
+      "sections": [],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": [
+          "cursor-pointer lab:text-left lab:text-xs lab:upper",
+          "outline-none forced-colors:outline-[Highlight] gro",
+          "w-fit cursor-default text-sm lab:font-bold lab:lg:",
+          "outline-none forced-colors:outline-[Highlight] gro"
+        ]
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "d-02.jpg",
+        "scrollY": 0,
+        "hash": "e43100f4"
+      },
+      {
+        "file": "d-03.jpg",
+        "scrollY": 765,
+        "hash": "a1ba325a"
+      },
+      {
+        "file": "d-04.jpg",
+        "scrollY": 765,
+        "hash": "8157fcf5"
+      },
+      {
+        "file": "d-05.jpg",
+        "scrollY": 765,
+        "hash": "4a570dff"
+      },
+      {
+        "file": "d-06.jpg",
+        "scrollY": 765,
+        "hash": "8157fcf5"
+      },
+      {
+        "file": "d-07.jpg",
+        "scrollY": 765,
+        "hash": "8157fcf5"
+      }
+    ],
+    "libsAfterScroll": {
+      "canvases": 0,
+      "webgl": 0,
+      "docHeight": 5494
+    }
+  },
+  "mobile": {
+    "extract": {
+      "title": "NNormal® Trail Running, Hiking & Trekking Gear USA",
+      "description": "Specialists in trail running and hiking products. Shoes, clothing, and accessories | For technical and challenging terrains | Maximum comfort | Durability",
+      "lang": "en-US",
+      "docHeight": 5638,
+      "docWidth": 390,
+      "vw": 390,
+      "vh": 844,
+      "htmlClasses": "webp avif",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "NNormal running products",
+          "font": "RyhmesTextThin",
+          "size": "25px",
+          "weight": "500",
+          "lh": "30px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "35px",
+          "weight": "100",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí, now with Gore-Tex®",
+          "font": "RyhmesTextThin",
+          "size": "35px",
+          "weight": "100",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "35px",
+          "weight": "100",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí, now with Gore-Tex®",
+          "font": "RyhmesTextThin",
+          "size": "35px",
+          "weight": "100",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h3": [
+        {
+          "tag": "h3",
+          "text": "Discover the new colours",
+          "font": "RyhmesTextLight",
+          "size": "22px",
+          "weight": "100",
+          "lh": "22px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "Conditions change. So do we.",
+          "font": "RyhmesTextLight",
+          "size": "22px",
+          "weight": "100",
+          "lh": "22px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "Discover the new colours",
+          "font": "RyhmesTextLight",
+          "size": "22px",
+          "weight": "100",
+          "lh": "22px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "p": [
+        {
+          "tag": "p",
+          "text": "This website uses cookies",
+          "font": "Modelo",
+          "size": "20.8px",
+          "weight": "700",
+          "lh": "32.6872px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Shop now",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "20px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Shop Cadi Gore-Tex®",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "20px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Cookie Policy",
+          "font": "Rhymes",
+          "size": "14px",
+          "weight": "400",
+          "lh": "22.001px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "NNormal Training Insights, for members only. Sign up now!",
+          "font": "Rhymes, serif",
+          "size": "12px",
+          "weight": "400",
+          "lh": "16px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "NNormal Stores",
+          "font": "Rhymes, serif",
+          "size": "12px",
+          "weight": "400",
+          "lh": "16px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Join Us",
+          "font": "Rhymes, serif",
+          "size": "12px",
+          "weight": "400",
+          "lh": "16px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "My account",
+          "font": "Rhymes, serif",
+          "size": "12px",
+          "weight": "400",
+          "lh": "16px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Bag",
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "Women",
+          "font": "ModeloRegular",
+          "size": "12px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "See All",
+          "font": "ModeloRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "New Arrivals",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Outfits",
+          "font": "RyhmesTextRegular",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "span",
+          "text": "Your",
+          "font": "ModeloBold",
+          "size": "48px",
+          "weight": "400",
+          "lh": "48px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "Path,",
+          "font": "ModeloRegular",
+          "size": "48px",
+          "weight": "400",
+          "lh": "48px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "No",
+          "font": "ModeloLight",
+          "size": "48px",
+          "weight": "400",
+          "lh": "48px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "Trace.",
+          "font": "ModeloThin",
+          "size": "48px",
+          "weight": "400",
+          "lh": "48px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "The latest from the trail.",
+          "font": "ModeloRegular",
+          "size": "36px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "35px",
+          "weight": "100",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Cadí, now with Gore-Tex®",
+          "font": "RyhmesTextThin",
+          "size": "35px",
+          "weight": "100",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "strong",
+          "text": "Cadí",
+          "font": "ModeloBold",
+          "size": "35px",
+          "weight": "700",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          309
+        ],
+        [
+          "rgb(255, 255, 255)",
+          116
+        ],
+        [
+          "rgba(0, 0, 0, 0)",
+          4
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(0, 0, 0)",
+          2892396
+        ],
+        [
+          "rgb(255, 255, 255)",
+          1207193
+        ],
+        [
+          "rgba(0, 0, 0, 0.5)",
+          329160
+        ],
+        [
+          "rgb(232, 231, 234)",
+          171125
+        ],
+        [
+          "rgba(255, 255, 255, 0)",
+          19213
+        ],
+        [
+          "rgba(255, 255, 255, 0.5)",
+          1910
+        ]
+      ],
+      "rootVars": {
+        "--color-white": "#fff",
+        "--color-primary": "#333",
+        "--color-black": "#000",
+        "--color-text-secondary": "#999",
+        "--color-grey": "#e0e0e0",
+        "--color-grey-light": "#dfdfdf",
+        "--color-grey-lightest": "#e6e6e6",
+        "--color-grey-light-two": "#f6f6f6",
+        "--color-error": "#da291c",
+        "--color-disabled-primary": "#919191",
+        "--color-divider": "#d9d9d9",
+        "--color-success": "#07b323",
+        "--color-warn": "#fc8106",
+        "--color-tag-checked": "#e0e0e0",
+        "--color-border-grey": "#d1cfd2",
+        "--background": "#fff",
+        "--color-camperlab": "#f1efe5",
+        "--color-recycled": "#edf1c6",
+        "--color-subgrid": "#f6f6f6",
+        "--color-green-nnormal": "#bdfda9",
+        "--justify-padding": "10px",
+        "--color-border-panel": "#929292",
+        "--color-input-border": "#cac6c6",
+        "--color-brand": "#ed1a2c",
+        "--color-afterpay": "#000",
+        "--xxl-size": "1.5em",
+        "--xl-size": "1.4em",
+        "--large-size": "1.125em",
+        "--heading-1-size": "1em",
+        "--regular-size": "1em",
+        "--title-size": "0.875em",
+        "--description-size": "0.75em",
+        "--medium-size": "0.6875em",
+        "--small-size": "0.625em",
+        "--xsmall-size": "0.5em",
+        "--bold-font": "ModerneLLWeb-Medium,sans-serif",
+        "--font-primary": "\"ModerneLLWeb-Regular\",sans-serif",
+        "--font-moderne": "\"Moderne\",sans-serif",
+        "--font-secondary": "var(--bold-font)",
+        "--font-moderne-fat": "\"ModerneFat\",sans-serif",
+        "--font-jp": "\"ヒラギノ角ゴ ProN\",\"Hiragino Kaku Gothic ProN\",\"游ゴシック\",\"游ゴシック体\",Y",
+        "--voucher-subscribe-text": "#b6d7a8",
+        "--voucher-cta": "#000",
+        "--font-diatype": "\"Diatype\",sans-serif",
+        "--font-camperlab": "var(--font-diatype)",
+        "--tw-color-primary": "237 26 44",
+        "--tw-color-disabled": "145 145 145",
+        "--tw-color-divider": "217 217 217",
+        "--tw-color-error": "218 41 28",
+        "--tw-color-success": "7 179 35",
+        "--tw-color-warning": "252 129 6",
+        "--tw-color-camperlab": "241 239 229",
+        "--tw-color-recycled": "237 241 198",
+        "--antd-wave-shadow-color": "#000",
+        "--scroll-bar": "0"
+      },
+      "fontFaces": [
+        {
+          "family": "ModerneLLWeb-Light",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Light.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Light.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-LightItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-Regular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-Italic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-Medium",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLLWeb-MediumItalic",
+          "weight": "500",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneLight",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Light.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Light.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-LightItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneRegular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-RegularItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneMedium",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-MediumItalic",
+          "weight": "500",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "CamperLab",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/folded-regular-webfont.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/folded-regular-webfont.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneFat",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Fat.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Fat.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-FatItalic",
+          "weight": "800",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-FatItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-FatItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneBook",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Book.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Book.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-BookItalic",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BookItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-BookItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneBold",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Bold.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-Bold.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne-BoldItalic",
+          "weight": "700",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BoldItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-BoldItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "ModerneBlack",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Black.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne-BlackItalic",
+          "weight": "900",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BlackItalic.woff2\") format(\"woff2\"), url(\"/assets-new/fonts/ModerneLLWeb-BlackItalic.woff\") format(\"woff\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "300",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Light.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "300",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-LightItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "350",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Book.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "350",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BookItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Regular.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "400",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-RegularItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "500",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Medium.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "500",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-MediumItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "700",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Bold.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "700",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BoldItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "800",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Black.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "800",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-BlackItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "900",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-Fat.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Moderne",
+          "weight": "900",
+          "style": "italic",
+          "src": "url(\"/assets-new/fonts/ModerneLLWeb-FatItalic.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "MinionPro-Regular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/MinionPro-Regular.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Modelo",
+          "weight": "100",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/nnormal/ModeloNNormal-Thin.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "ModeloThin",
+          "weight": "100",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/nnormal/ModeloNNormal-Thin.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Modelo",
+          "weight": "300",
+          "style": "normal",
+          "src": "url(\"/assets-new/fonts/nnormal/ModeloNNormal-Light.woff2\") format(\"woff2\")"
+        }
+      ],
+      "loadedFonts": [
+        "ModerneLight 400 normal",
+        "ModeloThin 100 normal",
+        "ModeloLight 300 normal",
+        "ModeloRegular 400 normal",
+        "Modelo 700 normal",
+        "ModeloBold 700 normal",
+        "RyhmesTextThin 100 normal",
+        "RyhmesTextLight 300 normal",
+        "RyhmesTextRegular 400 normal",
+        "Rhymes 400 normal",
+        "slick 400 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": true,
+        "nuxt": false,
+        "react": true,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://scripts.clarity.ms/0.8.72/clarity.js",
+        "https://www.clarity.ms/tag/qepgg0ayaz?ref=gtm",
+        "https://www.nnormal.com/gtm/gtag/js?id=G-RHDCM31XVJ&cx=c&gtm=4e6a72&sign=cc742eec43635508a2a8892522ce289b41d4674c1572f4d9637f62114c7b9327_20261009",
+        "https://www.googletagmanager.com/gtag/js?id=G-7964F8EL02&cx=c&gtm=4e6a72&sign=cc742eec43635508a2a8892522ce289b41d4674c1572f4d9637f62114c7b9327_20261009",
+        "https://www.googletagmanager.com/gtag/js?id=G-LVXRL1DMJE&cx=c&gtm=4e6a72&sign=cc742eec43635508a2a8892522ce289b41d4674c1572f4d9637f62114c7b9327_20261009",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-KHCX5VN&gtg_health=1",
+        "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__en.js",
+        "https://www.nnormal.com/gtm/gtm.js?id=GTM-WZW3WRJ7&gtm_auth=&gtm_preview=&gtm_cookies_win=x",
+        "https://www.nnormal.com/gtm/gtm.js?id=GTM-KHCX5VN&gtm_auth=&gtm_preview=&gtm_cookies_win=x",
+        "https://consent.cookiebot.com/uc.js",
+        "https://www.nnormal.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+        "https://www.nnormal.com/_next/static/chunks/6667d7b9.4f1c52cd465047b9.js",
+        "https://www.nnormal.com/_next/static/chunks/7883.170a3f50199da6a5.js",
+        "https://www.nnormal.com/_next/static/chunks/162.65aa6ed3cb6aadb1.js",
+        "https://www.nnormal.com/_next/static/chunks/9093.326f3b34b4669942.js",
+        "https://www.nnormal.com/_next/static/chunks/3034.1adcf6b1b550d207.js",
+        "https://www.nnormal.com/_next/static/chunks/9382.84d059215ec600bd.js",
+        "https://www.nnormal.com/_next/static/chunks/3754.7b1db3cbc6264de8.js",
+        "https://www.nnormal.com/_next/static/chunks/8407.5f2751c58914c75e.js",
+        "https://www.nnormal.com/_next/static/chunks/2483.e022e65c4f75e6b8.js",
+        "https://www.nnormal.com/_next/static/chunks/8233.de3a9cdfba62e4db.js",
+        "https://www.nnormal.com/_next/static/chunks/9678.b874924874505ff9.js",
+        "https://www.nnormal.com/_next/static/chunks/6504-8b0abc2d7f10a86c.js",
+        "https://www.nnormal.com/_next/static/chunks/8110.0243d9027ffd4cd3.js",
+        "https://www.nnormal.com/_next/static/chunks/9744.10ce857082470246.js",
+        "https://www.nnormal.com/_next/static/chunks/5401.5ec9de3fae60a2f7.js",
+        "https://www.nnormal.com/_next/static/chunks/9118.3e32a3c97937878c.js",
+        "https://www.nnormal.com/_next/static/chunks/893.5899ea4439e2680b.js",
+        "https://www.nnormal.com/_next/static/chunks/75fc9c18-6d135f4e41c51e80.js",
+        "https://www.nnormal.com/_next/static/chunks/4193.94c3e4ad66c0e82d.js",
+        "https://www.nnormal.com/_next/static/chunks/6613-021465931debaf56.js",
+        "https://www.nnormal.com/_next/static/chunks/8169-ca1639504d306afa.js",
+        "https://www.nnormal.com/_next/static/chunks/5081.c97e3f74978869ac.js",
+        "https://www.nnormal.com/_next/static/chunks/1783.5fbbf5f43ba1070e.js",
+        "https://www.nnormal.com/_next/static/chunks/webpack-f9576e65ab547c93.js",
+        "https://www.nnormal.com/_next/static/chunks/framework-c6ee5607585ef091.js",
+        "https://www.nnormal.com/_next/static/chunks/main-008c76cc4a905c67.js",
+        "https://www.nnormal.com/_next/static/chunks/pages/_app-6993adab23f1882b.js",
+        "https://www.nnormal.com/_next/static/chunks/7175-2707c8fce66a34e1.js",
+        "https://www.nnormal.com/_next/static/chunks/5605-858212a306568566.js"
+      ],
+      "nav": [
+        {
+          "t": "",
+          "h": "https://www.nnormal.com/en_US"
+        },
+        {
+          "t": "Women",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "See All",
+          "h": "https://www.nnormal.com/en_US/women/all"
+        },
+        {
+          "t": "New Arrivals",
+          "h": "https://www.nnormal.com/en_US/content/new-arrivals"
+        },
+        {
+          "t": "Outfits",
+          "h": "https://www.nnormal.com/en_US/content/lookbook"
+        },
+        {
+          "t": "Featured",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "Fast & Light",
+          "h": "https://www.nnormal.com/en_US/women/shoes/kjerag-family"
+        },
+        {
+          "t": "Protection & stability",
+          "h": "https://www.nnormal.com/en_US/women/shoes/tomir-family"
+        },
+        {
+          "t": "Innovation",
+          "h": "https://www.nnormal.com/en_US/women/shoes/kboix-family"
+        },
+        {
+          "t": "Gore-Tex®",
+          "h": "https://www.nnormal.com/en_US/women/shoes/waterproof-family"
+        },
+        {
+          "t": "Shoes",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "All",
+          "h": "https://www.nnormal.com/en_US/women/shoes"
+        },
+        {
+          "t": "Tomir",
+          "h": "https://www.nnormal.com/en_US/content/tomir"
+        },
+        {
+          "t": "Kjerag",
+          "h": "https://www.nnormal.com/en_US/content/kjerag"
+        },
+        {
+          "t": "Cadí",
+          "h": "https://www.nnormal.com/en_US/content/cadi"
+        },
+        {
+          "t": "Kboix",
+          "h": "https://www.nnormal.com/en_US/content/kboix"
+        }
+      ],
+      "canvases": [],
+      "videos": [],
+      "imgs": 45,
+      "sections": [],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": [
+          "cursor-pointer lab:text-left lab:text-xs lab:upper",
+          "outline-none forced-colors:outline-[Highlight] gro",
+          "w-fit cursor-default text-sm lab:font-bold lab:lg:",
+          "outline-none forced-colors:outline-[Highlight] gro"
+        ]
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "m-01.jpg",
+        "scrollY": 700
+      },
+      {
+        "file": "m-02.jpg",
+        "scrollY": 1400
+      },
+      {
+        "file": "m-03.jpg",
+        "scrollY": 2100
+      }
+    ]
+  },
+  "network": {
+    "fontFiles": [
+      "https://www.nnormal.com/assets-new/fonts/nnormal/ModeloNNormal-Bold.woff2",
+      "https://www.nnormal.com/assets-new/fonts/Rhymes-RegularText.woff2",
+      "https://www.nnormal.com/assets-new/fonts/RyhmesText-Light.woff2",
+      "https://www.nnormal.com/assets-new/fonts/Rhymes-ThinText.woff2",
+      "https://www.nnormal.com/assets-new/fonts/nnormal/ModeloNNormal-Regular.woff2",
+      "https://www.nnormal.com/_next/static/media/slick.653a4cbb.woff",
+      "https://www.nnormal.com/assets-new/fonts/RyhmesText-Regular.woff2",
+      "https://www.nnormal.com/assets-new/fonts/nnormal/ModeloNNormal-Light.woff2",
+      "https://www.nnormal.com/assets-new/fonts/nnormal/ModeloNNormal-Thin.woff2",
+      "https://www.nnormal.com/assets-new/fonts/ModerneLLWeb-Light.woff2",
+      "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2"
+    ],
+    "libraryFiles": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WZW3WRJ7&gtg_health=1"
+    ],
+    "topHosts": [
+      [
+        "www.nnormal.com",
+        108
+      ],
+      [
+        "cdn.userway.org",
+        18
+      ],
+      [
+        "z.clarity.ms",
+        11
+      ],
+      [
+        "www.google-analytics.com",
+        6
+      ],
+      [
+        "api.userway.org",
+        6
+      ],
+      [
+        "cdn77.api.userway.org",
+        6
+      ],
+      [
+        "cloud.nnormal.com",
+        5
+      ],
+      [
+        "www.gstatic.com",
+        5
+      ],
+      [
+        "www.recaptcha.net",
+        3
+      ],
+      [
+        "www.googletagmanager.com",
+        3
+      ],
+      [
+        "consent.cookiebot.com",
+        2
+      ],
+      [
+        "consentcdn.cookiebot.com",
+        2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "url": "https://findmy.vitra.com/f/en-en/gifts",
+  "capturedAt": "see file mtime",
+  "desktop": {
+    "timeToStableMs": 47745,
+    "extract": {
+      "title": "Gift Finder | Vitra",
+      "description": "The Gift Finder invites you to discover Vitra’s gifts collection and helps you find the perfect gift based on interest, colour or price preferences.",
+      "lang": "en-en",
+      "docHeight": 900,
+      "docWidth": 1440,
+      "vw": 1440,
+      "vh": 900,
+      "htmlClasses": "",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "Welcome to our Gift Finder",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "49px",
+          "weight": "400",
+          "lh": "56.84px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [],
+      "h3": [],
+      "p": [],
+      "a": [
+        {
+          "tag": "a",
+          "text": "EN",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "12.74px",
+          "weight": "400",
+          "lh": "12.74px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(239, 107, 107)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "DE",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "12.74px",
+          "weight": "400",
+          "lh": "12.74px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "JA",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "12.74px",
+          "weight": "400",
+          "lh": "12.74px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Start",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "14.7px",
+          "weight": "400",
+          "lh": "14.7px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [],
+      "biggestText": [
+        {
+          "tag": "h1",
+          "text": "Welcome to our Gift Finder",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "49px",
+          "weight": "400",
+          "lh": "56.84px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "script",
+          "text": "{\"props\":{\"pageProps\":{\"data\":{\"globals\":{\"startLabel\":\"Start\",\"produc",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "style",
+          "text": ".overflowHidden {overflow: hidden !important;}",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "script",
+          "text": "var pagePath=google_tag_manager[\"rm\"][\"30585131\"](26)||\"\",clickClasses",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Start",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "14.7px",
+          "weight": "400",
+          "lh": "14.7px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "EN",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "12.74px",
+          "weight": "400",
+          "lh": "12.74px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(239, 107, 107)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "DE",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "12.74px",
+          "weight": "400",
+          "lh": "12.74px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "JA",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "12.74px",
+          "weight": "400",
+          "lh": "12.74px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          7
+        ],
+        [
+          "rgb(148, 148, 148)",
+          2
+        ],
+        [
+          "rgb(255, 255, 255)",
+          1
+        ],
+        [
+          "rgb(239, 107, 107)",
+          1
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(51, 51, 51)",
+          4531
+        ]
+      ],
+      "rootVars": {
+        "--grid-columns": "4",
+        "--grid-target-window-width": "375",
+        "--grid-scale-modifier": "0.2"
+      },
+      "fontFaces": [
+        {
+          "family": "__TYPE_FUTURA_4c211a",
+          "weight": "400",
+          "style": "",
+          "src": "url(\"/f/_next/static/media/21b5d7db3ac7912c.p.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "__TYPE_FUTURA_4c211a",
+          "weight": "500",
+          "style": "",
+          "src": "url(\"/f/_next/static/media/a9ff780cc6d78529.p.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "__TYPE_FUTURA_4c211a",
+          "weight": "700",
+          "style": "",
+          "src": "url(\"/f/_next/static/media/734db8a94972ce97.p.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "__TYPE_FUTURA_Fallback_4c211a",
+          "weight": "",
+          "style": "",
+          "src": "local(\"Arial\")"
+        }
+      ],
+      "loadedFonts": [
+        "__TYPE_FUTURA_4c211a 400 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": true,
+        "nuxt": false,
+        "react": true,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://static.hotjar.com/c/hotjar-2404615.js?sv=7",
+        "https://static.hotjar.com/c/hotjar-2404615.js?sv=7",
+        "https://www.google-analytics.com/analytics.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-XP5TXQ4VG6&cx=c&gtm=4e6a72",
+        "https://www.googletagmanager.com/gtag/js?id=G-DD8VCC65VF&cx=c&gtm=4e6a72",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-TR25WLM",
+        "https://app.usercentrics.eu/browser-ui/latest/loader.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/webpack-ba8b516c6d5741bf.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/framework-3b5a00d5d7e8d93b.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/main-691a05fc84db1b85.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/pages/_app-536c952c4f4fddbd.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/643-681bc6605270ad6a.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/353-a58aa6a46b54c8d1.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/539-e59040130080375f.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/pages/%5B...slugs%5D-fc23c204b1110120.js",
+        "https://findmy.vitra.com/f/_next/static/70Yq9T-3Qa9YWdU2e3KNr/_buildManifest.js",
+        "https://findmy.vitra.com/f/_next/static/70Yq9T-3Qa9YWdU2e3KNr/_ssgManifest.js",
+        "https://app.usercentrics.eu/browser-ui/3.109.0/index.module.js",
+        "https://app.usercentrics.eu/browser-ui/3.109.0/index.module.js",
+        "https://script.hotjar.com/modules.ac003456795fba9e297a.js",
+        "https://app.usercentrics.eu/browser-ui/latest/loader.js"
+      ],
+      "nav": [],
+      "canvases": [],
+      "videos": [],
+      "imgs": 14,
+      "sections": [],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "d-02.jpg",
+        "scrollY": 0,
+        "hash": "9cd5838a"
+      },
+      {
+        "file": "d-03.jpg",
+        "scrollY": 0,
+        "hash": "9cd5838a"
+      },
+      {
+        "file": "d-04.jpg",
+        "scrollY": 0,
+        "hash": "9cd5838a"
+      }
+    ],
+    "libsAfterScroll": {
+      "canvases": 0,
+      "webgl": 0,
+      "docHeight": 900
+    }
+  },
+  "mobile": {
+    "extract": {
+      "title": "Gift Finder | Vitra",
+      "description": "The Gift Finder invites you to discover Vitra’s gifts collection and helps you find the perfect gift based on interest, colour or price preferences.",
+      "lang": "en-en",
+      "docHeight": 844,
+      "docWidth": 390,
+      "vw": 390,
+      "vh": 844,
+      "htmlClasses": "",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "Welcome to our Gift Finder",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "36.288px",
+          "weight": "400",
+          "lh": "44.2714px",
+          "ls": "-1.4112px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [],
+      "h3": [],
+      "p": [],
+      "a": [
+        {
+          "tag": "a",
+          "text": "EN",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "13.104px",
+          "weight": "400",
+          "lh": "13.104px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(239, 107, 107)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "DE",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "13.104px",
+          "weight": "400",
+          "lh": "13.104px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "JA",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "13.104px",
+          "weight": "400",
+          "lh": "13.104px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Start",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "15.12px",
+          "weight": "400",
+          "lh": "15.12px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [],
+      "biggestText": [
+        {
+          "tag": "h1",
+          "text": "Welcome to our Gift Finder",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "36.288px",
+          "weight": "400",
+          "lh": "44.2714px",
+          "ls": "-1.4112px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "script",
+          "text": "{\"props\":{\"pageProps\":{\"data\":{\"globals\":{\"startLabel\":\"Start\",\"produc",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "style",
+          "text": ".overflowHidden {overflow: hidden !important;}",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "script",
+          "text": "var pagePath=google_tag_manager[\"rm\"][\"30585131\"](26)||\"\",clickClasses",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "16px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Start",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "15.12px",
+          "weight": "400",
+          "lh": "15.12px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "EN",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "13.104px",
+          "weight": "400",
+          "lh": "13.104px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(239, 107, 107)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "DE",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "13.104px",
+          "weight": "400",
+          "lh": "13.104px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "JA",
+          "font": "__TYPE_FUTURA_4c211a, __TYPE_FUTURA_Fallback_4c211a",
+          "size": "13.104px",
+          "weight": "400",
+          "lh": "13.104px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(148, 148, 148)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          7
+        ],
+        [
+          "rgb(148, 148, 148)",
+          2
+        ],
+        [
+          "rgb(255, 255, 255)",
+          1
+        ],
+        [
+          "rgb(239, 107, 107)",
+          1
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(51, 51, 51)",
+          4795
+        ]
+      ],
+      "rootVars": {
+        "--grid-columns": "4",
+        "--grid-target-window-width": "375",
+        "--grid-scale-modifier": "0.2"
+      },
+      "fontFaces": [
+        {
+          "family": "__TYPE_FUTURA_4c211a",
+          "weight": "400",
+          "style": "",
+          "src": "url(\"/f/_next/static/media/21b5d7db3ac7912c.p.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "__TYPE_FUTURA_4c211a",
+          "weight": "500",
+          "style": "",
+          "src": "url(\"/f/_next/static/media/a9ff780cc6d78529.p.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "__TYPE_FUTURA_4c211a",
+          "weight": "700",
+          "style": "",
+          "src": "url(\"/f/_next/static/media/734db8a94972ce97.p.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "__TYPE_FUTURA_Fallback_4c211a",
+          "weight": "",
+          "style": "",
+          "src": "local(\"Arial\")"
+        }
+      ],
+      "loadedFonts": [
+        "__TYPE_FUTURA_4c211a 400 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": true,
+        "nuxt": false,
+        "react": true,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://static.hotjar.com/c/hotjar-2404615.js?sv=7",
+        "https://static.hotjar.com/c/hotjar-2404615.js?sv=7",
+        "https://www.google-analytics.com/analytics.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-XP5TXQ4VG6&cx=c&gtm=4e6a72",
+        "https://www.googletagmanager.com/gtag/js?id=G-DD8VCC65VF&cx=c&gtm=4e6a72",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-TR25WLM",
+        "https://app.usercentrics.eu/browser-ui/latest/loader.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/webpack-ba8b516c6d5741bf.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/framework-3b5a00d5d7e8d93b.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/main-691a05fc84db1b85.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/pages/_app-536c952c4f4fddbd.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/643-681bc6605270ad6a.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/353-a58aa6a46b54c8d1.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/539-e59040130080375f.js",
+        "https://findmy.vitra.com/f/_next/static/chunks/pages/%5B...slugs%5D-fc23c204b1110120.js",
+        "https://findmy.vitra.com/f/_next/static/70Yq9T-3Qa9YWdU2e3KNr/_buildManifest.js",
+        "https://findmy.vitra.com/f/_next/static/70Yq9T-3Qa9YWdU2e3KNr/_ssgManifest.js",
+        "https://app.usercentrics.eu/browser-ui/3.109.0/index.module.js",
+        "https://app.usercentrics.eu/browser-ui/3.109.0/index.module.js",
+        "https://script.hotjar.com/modules.ac003456795fba9e297a.js",
+        "https://app.usercentrics.eu/browser-ui/latest/loader.js"
+      ],
+      "nav": [],
+      "canvases": [],
+      "videos": [],
+      "imgs": 6,
+      "sections": [],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "m-01.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-02.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-03.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-04.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-05.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-06.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-07.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-08.jpg",
+        "scrollY": 0
+      }
+    ]
+  },
+  "network": {
+    "fontFiles": [
+      "https://findmy.vitra.com/f/_next/static/media/734db8a94972ce97.p.woff2",
+      "https://findmy.vitra.com/f/_next/static/media/21b5d7db3ac7912c.p.woff2",
+      "https://findmy.vitra.com/f/_next/static/media/a9ff780cc6d78529.p.woff2"
+    ],
+    "libraryFiles": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-TR25WLM",
+      "https://www.google-analytics.com/analytics.js"
+    ],
+    "topHosts": [
+      [
+        "findmy.vitra.com",
+        35
+      ],
+      [
+        "app.usercentrics.eu",
+        15
+      ],
+      [
+        "www.googletagmanager.com",
+        3
+      ],
+      [
+        "api.usercentrics.eu",
+        3
+      ],
+      [
+        "www.google-analytics.com",
+        3
+      ],
+      [
+        "datalounge.vitra.com",
+        3
+      ],
+      [
+        "consent-api.service.consent.usercentrics.eu",
+        2
+      ],
+      [
+        "uct.service.usercentrics.eu",
+        2
+      ],
+      [
+        "static.hotjar.com",
+        1
+      ],
+      [
+        "analytics.google.com",
+        1
+      ],
+      [
+        "script.hotjar.com",
+        1
+      ],
+      [
+        "stats.g.doubleclick.net",
+        1
+      ]
+    ]
+  }
+}

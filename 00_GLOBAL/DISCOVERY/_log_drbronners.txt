@@ -1,0 +1,15 @@
+{
+ "ok": true,
+ "out": "/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_harvest/drbronners",
+ "images": 3,
+ "svgFiles": 0,
+ "inlineSvgs": 0,
+ "video": 0,
+ "models": 0,
+ "pdf": 0,
+ "biggest": [
+  "1440x792 images/688556_rs-2026_All-One_Report-Launch_Assets-Hero_Banner_Desktop.jpg.webp",
+  "1440x576 images/cf7301_drbronners-banner-sugar-soap-05578-5x2.jpg.webp",
+  "1440x576 images/28f629_drbronners-banner-activism-pollinators-5x2.jpg.webp"
+ ]
+}

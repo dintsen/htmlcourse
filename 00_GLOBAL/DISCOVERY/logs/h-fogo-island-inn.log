@@ -1,0 +1,17 @@
+{
+ "ok": true,
+ "out": "/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_harvest/fogo-island-inn",
+ "images": 64,
+ "svgFiles": 2,
+ "inlineSvgs": 1,
+ "video": 2,
+ "models": 0,
+ "pdf": 0,
+ "biggest": [
+  "2560x1920 images/bc5cc5_Biking-Winter-Fogo-Island-Inn-scaled.jpg",
+  "1920x1080 images/b2cbf7_Fogo-Island-Inn-Homepage-Hero-Video-Still.jpg",
+  "1500x1192 images/0ab8ee_Snowshoeing-at-Fogo-Island-Inn-3.jpg",
+  "1536x1152 images/ab3af2_Fogo-Island-Inn-Suite-Left-Photo-1536x1152.jpg",
+  "1536x1025 images/8e57d2_Fogo_Island_Landscapes_2854-1536x1025.jpg"
+ ]
+}

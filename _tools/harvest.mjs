@@ -56,7 +56,7 @@ const save = async (u, buf, ct, via) => {
   inventory.set(u, rec);
 };
 
-await withSlot('chromium', 2, async () => {
+await withSlot('chromium', 3, async () => {
   const browser = await launch();
   const ctx = await browser.newContext(args.mobile
     ? { viewport: { width: 390, height: 844 }, userAgent: MOBILE_UA, deviceScaleFactor: 2, isMobile: true, hasTouch: true }

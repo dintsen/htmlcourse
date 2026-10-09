@@ -1,0 +1,141 @@
+{
+  "url": "https://www.basicagency.com/",
+  "viewports": {
+    "desktop": {
+      "console": [
+        "error: Refused to connect to 'https://vc.hotjar.io/sessions/137118?s=0.25&r=0.008725083058047867' because it violates the following Content Security Policy directive: \"connect-src 'self' acsbapp.com *.acsbapp.com *.google-analytics.com *.googletag",
+        "error: Refused to connect to 'wss://ws.hotjar.com/api/v2/client/ws?v=7&site_id=137118' because it violates the following Content Security Policy directive: \"connect-src 'self' acsbapp.com *.acsbapp.com *.google-analytics.com *.googletagmanager.com",
+        "error: Refused to connect to 'https://content.hotjar.io/?site_id=137118&gzip=1' because it violates the following Content Security Policy directive: \"connect-src 'self' acsbapp.com *.acsbapp.com *.google-analytics.com *.googletagmanager.com *.api.",
+        "error: Refused to load the image 'https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D3599532%26time%3D1791554584875%26li_adsId%3D429e92df-ebca-4129-83e7-c988fccd09aa%26pageLoadId%3D3",
+        "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g' because it violates the following Content Security Policy directive: \"connect-src 'self' acsbapp.com *.acsbapp.com *.google-analytics.com *.googletagmanager.com *.ap",
+        "error: Fetch API cannot load https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g. Refused to connect because it violates the document's Content Security Policy.",
+        "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=beacon&fmt=g' because it violates the following Content Security Policy directive: \"connect-src 'self' acsbapp.com *.acsbapp.com *.google-analytics.com *.googletagmanager.com *.a",
+        "error: Refused to connect to 'https://px.ads.linkedin.com/wa/?medium=beacon&fmt=b' because it violates the following Content Security Policy directive: \"connect-src 'self' acsbapp.com *.acsbapp.com *.google-analytics.com *.googletagmanager.com *.a"
+      ],
+      "pageErrors": [
+        "Failed to load because no supported source was found.",
+        "Failed to load because no supported source was found.",
+        "Failed to load because no supported source was found."
+      ],
+      "failed": [
+        "https://vc.hotjar.io/sessions/137118?s=0.25&r=0.008725083058047867 csp",
+        "https://content.hotjar.io/?site_id=137118&gzip=1 csp",
+        "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D3599532%26time%3D1791554 csp"
+      ],
+      "http": [],
+      "shots": [
+        {
+          "i": 0,
+          "scrollY": 0,
+          "hash": "a205f1d2"
+        },
+        {
+          "i": 1,
+          "scrollY": 765,
+          "hash": "d304886a"
+        },
+        {
+          "i": 2,
+          "scrollY": 1530,
+          "hash": "92ba82f2"
+        },
+        {
+          "i": 3,
+          "scrollY": 2295,
+          "hash": "f3acda62"
+        },
+        {
+          "i": 4,
+          "scrollY": 3060,
+          "hash": "c659db1f"
+        },
+        {
+          "i": 5,
+          "scrollY": 3825,
+          "hash": "adb272c0"
+        }
+      ],
+      "audit": {
+        "scrollWidth": 1440,
+        "vw": 1440,
+        "docHeight": 9926,
+        "overflowX": false,
+        "overflowOffenders": [],
+        "h1Count": 0,
+        "imgsNoAlt": 0,
+        "unlabeled": 29,
+        "lang": "en",
+        "smallTapTargets": [
+          "a:Accessibility Scre 200x1",
+          "a:Home 160x22",
+          "a:WORK 44x14",
+          "a:ABOUT 49x14",
+          "a:NEWS 43x14",
+          "a:THINKING 68x14",
+          "a:CAREERS 66x14",
+          "a:CONTACT 68x14",
+          "button:Open menu 22x26",
+          "a:here 37x18"
+        ],
+        "smallTapTargetCount": 16,
+        "fonts": {
+          "h2": {
+            "fam": "SctoGroteskA",
+            "size": "42px",
+            "weight": "700",
+            "lh": "46.2px",
+            "ls": "-2.1px",
+            "loaded": true
+          },
+          "p": {
+            "fam": "SctoGroteskA",
+            "size": "14px",
+            "weight": "400",
+            "lh": "15.96px",
+            "ls": "-0.28px",
+            "loaded": true
+          },
+          "button": {
+            "fam": "SctoGroteskA",
+            "size": "18px",
+            "weight": "400",
+            "lh": "25.2px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "a": {
+            "fam": "SctoGroteskA",
+            "size": "18px",
+            "weight": "400",
+            "lh": "25.2px",
+            "ls": "-0.18px",
+            "loaded": true
+          },
+          "nav a": {
+            "fam": "SctoGroteskA",
+            "size": "24px",
+            "weight": "700",
+            "lh": "24px",
+            "ls": "-0.18px",
+            "loaded": true
+          }
+        },
+        "fontsFailed": [],
+        "fontsLoaded": [
+          "SctoGroteskA 700",
+          "SctoGroteskA 400",
+          "SctoGroteskA 300"
+        ],
+        "canvases": [],
+        "webgl": 0,
+        "webglLost": 0,
+        "longTasks": 8,
+        "reducedMotionCSS": false,
+        "placeholderText": [],
+        "emptyImages": [],
+        "title": "BASIC/DEPT® | Digital Branding & Product Design Agency"
+      },
+      "uniqueFrames": 6
+    }
+  }
+}

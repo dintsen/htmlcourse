@@ -1,0 +1,17 @@
+{
+ "ok": true,
+ "outDir": "/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_inspect/brompton",
+ "title": "Brompton - The Foldable City Bike | Brompton UK",
+ "docHeight": 5164,
+ "libs": [
+  "nuxt"
+ ],
+ "webgl": 0,
+ "canvases": 0,
+ "fonts": [
+  "Bilo-Regular",
+  "Brompton Slab Regular"
+ ],
+ "netFonts": 4,
+ "shots": 6
+}

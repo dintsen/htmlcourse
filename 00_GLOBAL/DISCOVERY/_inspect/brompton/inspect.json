@@ -1,0 +1,1628 @@
+{
+  "url": "https://www.brompton.com",
+  "capturedAt": "see file mtime",
+  "desktop": {
+    "timeToStableMs": 28419,
+    "extract": {
+      "title": "Brompton - The Foldable City Bike | Brompton UK",
+      "description": "Official UK site for the iconic Brompton Folding Bike. Browse the range of city bikes, e-bikes, parts & accessories. UK Free Delivery or find a store near you.",
+      "lang": "en",
+      "docHeight": 5164,
+      "docWidth": 1440,
+      "vw": 1440,
+      "vh": 900,
+      "htmlClasses": "",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "New colours this way",
+          "font": "Bilo-Regular, serif",
+          "size": "40px",
+          "weight": "400",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [
+        {
+          "tag": "h2",
+          "text": "Ready to feel Electric?",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "The Brompton Lines",
+          "font": "\"Brompton Slab Regular\", serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your perfect Brompton",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "700",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop by category",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "700",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h3": [
+        {
+          "tag": "h3",
+          "text": "A Line",
+          "font": "Bilo-Regular, serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "55px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "C Line",
+          "font": "Bilo-Regular, serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "55px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "P Line",
+          "font": "Bilo-Regular, serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "55px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "p": [
+        {
+          "tag": "p",
+          "text": "Some of the data collected by this provider is for the purposes of per",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "400",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Some of the data collected by this provider is for the purposes of per",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "400",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Some of the data collected by this provider is for the purposes of per",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "400",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Consent",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "600",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(16, 50, 207)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Details",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "600",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "[#IABV2SETTINGS#]",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "600",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Necessary  45",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "700",
+          "lh": "22.5px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Preferences  3",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "700",
+          "lh": "22.5px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Statistics  29",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "700",
+          "lh": "22.5px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "About Brompton bikes",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Help me choose",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Register your bike",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Take a test ride",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "h1",
+          "text": "New colours this way",
+          "font": "Bilo-Regular, serif",
+          "size": "40px",
+          "weight": "400",
+          "lh": "70px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Ready to feel Electric?",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "The Brompton Lines",
+          "font": "\"Brompton Slab Regular\", serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your perfect Brompton",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "700",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop by category",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "700",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "More from Brompton",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(6, 6, 6)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Join our community",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "62px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Please select",
+          "font": "Bilo-Regular, serif",
+          "size": "24px",
+          "weight": "400",
+          "lh": "38.4px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          13
+        ],
+        [
+          "rgb(6, 6, 6)",
+          8
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(0, 0, 0)",
+          1296000
+        ],
+        [
+          "rgb(255, 255, 255)",
+          122400
+        ]
+      ],
+      "rootVars": {
+        "--c-black": "#1d1f22",
+        "--c-black-base": "29,31,34",
+        "--c-black-lighten": "#292c30",
+        "--c-black-darken": "#111214",
+        "--c-white": "#fff",
+        "--_c-green-primary": "#018937",
+        "--_c-green-primary-base": "1,137,55",
+        "--_c-green-primary-lighten": "#01a241",
+        "--_c-green-primary-darken": "#01702d",
+        "--_c-green-secondary": "#9ee2b0",
+        "--_c-green-secondary-base": "158,226,176",
+        "--_c-green-secondary-lighten": "#b2e8c0",
+        "--_c-green-secondary-darken": "#8adca0",
+        "--_c-dark-primary": "#1d1f22",
+        "--_c-dark-primary-base": "29,31,34",
+        "--_c-dark-primary-lighten": "#292c30",
+        "--_c-dark-primary-darken": "#111214",
+        "--_c-dark-secondary": "#43464e",
+        "--_c-dark-secondary-base": "67,70,78",
+        "--_c-dark-secondary-lighten": "#4f525c",
+        "--_c-dark-secondary-darken": "#373a40",
+        "--_c-gray-primary": "#72757e",
+        "--_c-gray-primary-base": "114,117,126",
+        "--_c-gray-primary-lighten": "#7f828b",
+        "--_c-gray-primary-darken": "#666971",
+        "--_c-gray-secondary": "#8d8f9a",
+        "--_c-gray-secondary-base": "141,143,154",
+        "--_c-gray-secondary-lighten": "#9b9ca6",
+        "--_c-gray-secondary-darken": "#7f828e",
+        "--_c-gray-accent": "#e0e0e1",
+        "--_c-gray-accent-base": "224,224,225",
+        "--_c-gray-accent-lighten": "#ededee",
+        "--_c-gray-accent-darken": "#d3d3d4",
+        "--_c-light-primary": "#f1f2f3",
+        "--_c-light-primary-base": "241,242,243",
+        "--_c-light-primary-lighten": "#fff",
+        "--_c-light-primary-darken": "#e3e5e7",
+        "--_c-light-secondary": "#fff",
+        "--_c-light-secondary-base": "255,255,255",
+        "--_c-light-secondary-lighten": "#fff",
+        "--_c-light-secondary-darken": "#f2f2f2",
+        "--_c-red-primary": "#d12727",
+        "--_c-red-primary-base": "209,39,39",
+        "--_c-red-primary-lighten": "#da3838",
+        "--_c-red-primary-darken": "#bc2323",
+        "--_c-red-secondary": "#fcede8",
+        "--_c-red-secondary-base": "252,237,232",
+        "--_c-red-secondary-lighten": "#fff",
+        "--_c-red-secondary-darken": "#f9dbd1",
+        "--_c-yellow-primary": "#ecc713",
+        "--_c-yellow-primary-base": "236,199,19",
+        "--_c-yellow-primary-lighten": "#eecd2b",
+        "--_c-yellow-primary-darken": "#d4b311",
+        "--_c-yellow-secondary": "#f6e389",
+        "--_c-yellow-secondary-base": "246,227,137",
+        "--_c-yellow-secondary-lighten": "#f8e9a1",
+        "--_c-yellow-secondary-darken": "#f4dd71",
+        "--_c-blue-primary": "#0468db",
+        "--_c-blue-primary-base": "4,104,219",
+        "--_c-blue-primary-lighten": "#0474f4"
+      },
+      "fontFaces": [
+        {
+          "family": "Raleway",
+          "weight": "300",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Light.woff\") format(\"woff\"), url(\"./Raleway-Light.woff2\") format(\"woff2\"), url(\"./Raleway-Light.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "400",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Regular.woff\") format(\"woff\"), url(\"./Raleway-Regular.woff2\") format(\"woff2\"), url(\"./Raleway-Regular.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "500",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Medium.woff\") format(\"woff\"), url(\"./Raleway-Medium.woff2\") format(\"woff2\"), url(\"./Raleway-Medium.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "600",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-SemiBold.woff\") format(\"woff\"), url(\"./Raleway-SemiBold.woff2\") format(\"woff2\"), url(\"./Raleway-SemiBold.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "700",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Bold.woff\") format(\"woff\"), url(\"./Raleway-Bold.woff2\") format(\"woff2\"), url(\"./Raleway-Bold.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "400",
+          "style": "italic",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Italic.woff\") format(\"woff\"), url(\"./Raleway-Italic.woff2\") format(\"woff2\"), url(\"./Raleway-Italic.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "300",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Light.woff\") format(\"woff\"), url(\"./Roboto-Light.woff2\") format(\"woff2\"), url(\"./Roboto-Light.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "400",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Regular.woff\") format(\"woff\"), url(\"./Roboto-Regular.woff2\") format(\"woff2\"), url(\"./Roboto-Regular.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "500",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Medium.woff\") format(\"woff\"), url(\"./Roboto-Medium.woff2\") format(\"woff2\"), url(\"./Roboto-Medium.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "700",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Bold.woff\") format(\"woff\"), url(\"./Roboto-Bold.woff2\") format(\"woff2\"), url(\"./Roboto-Bold.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "300",
+          "style": "italic",
+          "src": "local(\"Roboto\"), url(\"./Roboto-LightItalic.woff\") format(\"woff\"), url(\"./Roboto-LightItalic.woff2\") format(\"woff2\"), url(\"./Roboto-LightItalic.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "400",
+          "style": "italic",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Italic.woff\") format(\"woff\"), url(\"./Roboto-Italic.woff2\") format(\"woff2\"), url(\"./Roboto-Italic.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Bilo-Regular",
+          "weight": "",
+          "style": "",
+          "src": "url(\"/fonts/Bilo-Regular.woff\") format(\"woff\"), url(\"/fonts/Bilo-Regular.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Bilo-Medium",
+          "weight": "",
+          "style": "",
+          "src": "url(\"/fonts/Bilo-Medium.woff\") format(\"woff\"), url(\"/fonts/Bilo-Medium.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Brompton Slab Regular",
+          "weight": "",
+          "style": "",
+          "src": "local(\"Brompton Slab\"), url(\"/fonts/Brompton-Slab.woff2\") format(\"woff2\"), url(\"/fonts/Brompton-Slab.woff\") format(\"woff\"), url(\"/fonts/Brompton-Slab.otf\") format(\"opentype\")"
+        },
+        {
+          "family": "slick",
+          "weight": "",
+          "style": "",
+          "src": "url(\"data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA0AAAAAB2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAE0AAAABoAAAAcdIcYB0dERUYAAAS0AAAAHAAAAB4AJwANT1MvMgAAAZwAAABRAAAAYFAQ/45jbWFwAAA"
+        },
+        {
+          "family": "slick",
+          "weight": "",
+          "style": "",
+          "src": "url(\"data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA0AAAAAB2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAE0AAAABoAAAAcdIcYB0dERUYAAAS0AAAAHAAAAB4AJwANT1MvMgAAAZwAAABRAAAAYFAQ/45jbWFwAAA"
+        },
+        {
+          "family": "slick",
+          "weight": "",
+          "style": "",
+          "src": "url(\"data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA0AAAAAB2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAE0AAAABoAAAAcdIcYB0dERUYAAAS0AAAAHAAAAB4AJwANT1MvMgAAAZwAAABRAAAAYFAQ/45jbWFwAAA"
+        }
+      ],
+      "loadedFonts": [
+        "Bilo-Regular normal normal",
+        "Brompton Slab Regular normal normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": false,
+        "nuxt": true,
+        "react": false,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://j.northbeam.io/vendor/nb-sp.min.js",
+        "https://www.clarity.ms/tag/nu991rbf9h?ref=gtm",
+        "https://tag.rmp.rakuten.com/126210.ct.js",
+        "https://static.hotjar.com/c/hotjar-3857134.js?sv=7",
+        "https://consentcdn.cookiebot.com/consentconfig/2950968f-11e3-4338-bf6c-e94c75029a65/state.js",
+        "https://consent.cookiebot.com/logconsent.ashx?action=accept&nocache=1791554468161&dnt=false&method=strict&clp=true&cls=true&clm=true&cbid=2950968f-11e3-4338-bf6c-e94c75029a65&cbt=inlineoptin&hasdata=true&usercountry=US-48&referer=https%3A%2F%2Fwww.brompton.com&rc=false",
+        "https://consent.cookiebot.com/2950968f-11e3-4338-bf6c-e94c75029a65/cc.js?renew=false&referer=www.brompton.com&dnt=false&init=false",
+        "https://www.googletagmanager.com/gtag/js?id=G-DQDWGMQJKJ&cx=c&gtm=4e6a72",
+        "https://g10696554090.co/gr?id=-NdGBPdfOuc1U0fN5Scy&refurl=&winurl=https%3A%2F%2Fwww.brompton.com%2F",
+        "https://connect.facebook.net/signals/config/947327049614618?v=2.9.415&r=stable&domain=www.brompton.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C199%2C201%2C202%2C206%2C205%2C207%2C203%2C204%2C200%2C198%2C197%2C275%2C229%2C224%2C227%2C228%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C225%2C226%2C250%2C223%2C221%2C245%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "https://connect.facebook.net/signals/config/1002427859846875?v=2.9.415&r=stable&domain=www.brompton.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+        "https://connect.facebook.net/en_US/fbevents.js",
+        "https://s.c8.io/px/pixel.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=AW-662051370&cx=c&gtm=4e6a72",
+        "https://consent.cookiebot.com/uc.js?cbid=2950968f-11e3-4338-bf6c-e94c75029a65&implementation=gtm&consentmode-dataredaction=dynamic",
+        "https://api.uk.exponea.com/js/exponea.min.js",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-K3LGPKX",
+        "https://www.brompton.com/_nuxt/0066d0d.modern.js",
+        "https://www.brompton.com/_nuxt/ebd6ae6.modern.js",
+        "https://www.brompton.com/_nuxt/3d22b38.modern.js",
+        "https://www.brompton.com/_nuxt/aa53413.modern.js",
+        "https://www.brompton.com/_nuxt/369dd0e.modern.js",
+        "https://www.brompton.com/_nuxt/9d22e1c.modern.js",
+        "https://www.brompton.com/_nuxt/7b7a05a.modern.js",
+        "https://www.brompton.com/_nuxt/01589a9.modern.js",
+        "https://www.brompton.com/_nuxt/e5c08f5.modern.js",
+        "https://www.brompton.com/_nuxt/758a8c9.modern.js",
+        "https://www.brompton.com/_nuxt/b2ac7dc.modern.js",
+        "https://www.brompton.com/_nuxt/2c3f2bf.modern.js",
+        "https://bromptonbikesdealers.my.site.com/ESWWebsiteMessaging1751180584033/assets/js/bootstrap.min.js",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/662051370/?random=1791554469168&cv=11&fst=1791554469168&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9181634753za20ozb9100622466zd9100622466xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&rcb=2&frm=0&did=dMWZhNz&gdid=dMWZhNz&hn=www.googleadservices.com&npa=0&us_privacy=1---&pscdl=noapi&auid=1617287735.1791554469&uaa=x86&uab=64&uafvl=Chromium%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/662051370/?random=1791554469188&cv=11&fst=1791554469188&bg=ffffff&guid=ON&async=1&gtm=45be6a72v9181634753z89100622466za20gzb9100622466zd9100622466xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121246026~121246034&rcb=2&frm=0&did=dMWZhNz&gdid=dMWZhNz&hn=www.googleadservices.com&npa=0&us_privacy=1---&pscdl=noapi&auid=1617287735.1791554469&uaa=x86&uab=64&uafvl=Chromium%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=4",
+        "https://j.northbeam.io/ota-sp/59d2a407-7255-44b1-b553-e2adaa1d226d.js",
+        "https://www.brompton.com/_nuxt/ef96e5a.js",
+        "https://www.brompton.com/_nuxt/5f8718d.modern.js",
+        "https://www.brompton.com/_nuxt/81fc0a2.js",
+        "https://www.brompton.com/_nuxt/82786c6.modern.js",
+        "https://www.brompton.com/_nuxt/c158c7b.js",
+        "https://www.brompton.com/_nuxt/b882ce0.modern.js",
+        "https://www.brompton.com/_nuxt/e765fec.js"
+      ],
+      "nav": [
+        {
+          "t": "link",
+          "h": "/"
+        },
+        {
+          "t": "About Brompton bikes",
+          "h": "/bikes"
+        },
+        {
+          "t": "Help me choose",
+          "h": "/bikes/help-me-choose"
+        },
+        {
+          "t": "Register your bike",
+          "h": "/bike-registration"
+        },
+        {
+          "t": "Take a test ride",
+          "h": "/find-a-store/test-ride"
+        },
+        {
+          "t": "Bike support",
+          "h": "/support"
+        },
+        {
+          "t": "Premium Brompton Service",
+          "h": "/p/1161/premium-brompton-service"
+        },
+        {
+          "t": "Warranty and guarantee",
+          "h": "/why-brompton/buy-direct"
+        },
+        {
+          "t": "Cyclescheme",
+          "h": "/payment-and-financing/cyclescheme"
+        },
+        {
+          "t": "Collaborations",
+          "h": "/collaborations"
+        },
+        {
+          "t": "Brompton with Business",
+          "h": "/brompton-with-business"
+        },
+        {
+          "t": "Shop All Bikes",
+          "h": "/c/bikes"
+        },
+        {
+          "t": "Shop A Line",
+          "h": "/p/1029/a-line-23"
+        },
+        {
+          "t": "Explore A Line",
+          "h": "/a-line"
+        },
+        {
+          "t": "Shop C Line",
+          "h": "/c/bikes/c-line"
+        },
+        {
+          "t": "Explore C Line",
+          "h": "/c-line"
+        }
+      ],
+      "canvases": [],
+      "videos": [
+        {
+          "src": "https://dam.brompton.com/filestore/7/0/4/9/3_bce84326fce964c/39407_4c55a56b0c6adf1.mp4",
+          "loop": true,
+          "muted": true
+        }
+      ],
+      "imgs": 136,
+      "sections": [
+        {
+          "id": "",
+          "cls": "sf-modal verification-modal",
+          "h": 0,
+          "bg": "rgba(0, 0, 0, 0)"
+        }
+      ],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "d-02.jpg",
+        "scrollY": 0,
+        "hash": "58482243"
+      },
+      {
+        "file": "d-03.jpg",
+        "scrollY": 810,
+        "hash": "bf9df064"
+      },
+      {
+        "file": "d-04.jpg",
+        "scrollY": 1575,
+        "hash": "b7901419"
+      },
+      {
+        "file": "d-05.jpg",
+        "scrollY": 2340,
+        "hash": "94d43e26"
+      },
+      {
+        "file": "d-06.jpg",
+        "scrollY": 3105,
+        "hash": "5cc91ba8"
+      },
+      {
+        "file": "d-07.jpg",
+        "scrollY": 3870,
+        "hash": "769db17d"
+      }
+    ],
+    "libsAfterScroll": {
+      "canvases": 0,
+      "webgl": 0,
+      "docHeight": 5210
+    }
+  },
+  "mobile": {
+    "extract": {
+      "title": "Brompton - The Foldable City Bike | Brompton UK",
+      "description": "Official UK site for the iconic Brompton Folding Bike. Browse the range of city bikes, e-bikes, parts & accessories. UK Free Delivery or find a store near you.",
+      "lang": "en",
+      "docHeight": 5078,
+      "docWidth": 390,
+      "vw": 390,
+      "vh": 844,
+      "htmlClasses": "",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "New colours this way",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "42px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [
+        {
+          "tag": "h2",
+          "text": "Ready to feel Electric?",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "400",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "The Brompton Lines",
+          "font": "\"Brompton Slab Regular\", serif",
+          "size": "28px",
+          "weight": "400",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your perfect Brompton",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "700",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop by category",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "700",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h3": [
+        {
+          "tag": "h3",
+          "text": "A Line",
+          "font": "Bilo-Regular, serif",
+          "size": "22px",
+          "weight": "700",
+          "lh": "33px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "C Line",
+          "font": "Bilo-Regular, serif",
+          "size": "22px",
+          "weight": "700",
+          "lh": "33px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "P Line",
+          "font": "Bilo-Regular, serif",
+          "size": "22px",
+          "weight": "700",
+          "lh": "33px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "p": [
+        {
+          "tag": "p",
+          "text": "Some of the data collected by this provider is for the purposes of per",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "400",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Some of the data collected by this provider is for the purposes of per",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "400",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Some of the data collected by this provider is for the purposes of per",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "400",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Consent",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "600",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(16, 50, 207)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Details",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "600",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "[#IABV2SETTINGS#]",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "600",
+          "lh": "24px",
+          "ls": "0.1px",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Necessary  45",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "700",
+          "lh": "22.5px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Preferences  3",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "700",
+          "lh": "22.5px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Statistics  29",
+          "font": "sans-serif",
+          "size": "15px",
+          "weight": "700",
+          "lh": "22.5px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(20, 20, 20)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "About Brompton bikes",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Help me choose",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Register your bike",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Take a test ride",
+          "font": "Bilo-Regular, serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "normal",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "h1",
+          "text": "New colours this way",
+          "font": "Bilo-Regular, serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "42px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Ready to feel Electric?",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "400",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "The Brompton Lines",
+          "font": "\"Brompton Slab Regular\", serif",
+          "size": "28px",
+          "weight": "400",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your perfect Brompton",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "700",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop by category",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "700",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "More from Brompton",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "400",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(6, 6, 6)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "Join our community",
+          "font": "Bilo-Regular, serif",
+          "size": "28px",
+          "weight": "400",
+          "lh": "35px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h3",
+          "text": "A Line",
+          "font": "Bilo-Regular, serif",
+          "size": "22px",
+          "weight": "700",
+          "lh": "33px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          3
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(0, 0, 0)",
+          329160
+        ],
+        [
+          "rgb(255, 255, 255)",
+          42900
+        ]
+      ],
+      "rootVars": {
+        "--c-black": "#1d1f22",
+        "--c-black-base": "29,31,34",
+        "--c-black-lighten": "#292c30",
+        "--c-black-darken": "#111214",
+        "--c-white": "#fff",
+        "--_c-green-primary": "#018937",
+        "--_c-green-primary-base": "1,137,55",
+        "--_c-green-primary-lighten": "#01a241",
+        "--_c-green-primary-darken": "#01702d",
+        "--_c-green-secondary": "#9ee2b0",
+        "--_c-green-secondary-base": "158,226,176",
+        "--_c-green-secondary-lighten": "#b2e8c0",
+        "--_c-green-secondary-darken": "#8adca0",
+        "--_c-dark-primary": "#1d1f22",
+        "--_c-dark-primary-base": "29,31,34",
+        "--_c-dark-primary-lighten": "#292c30",
+        "--_c-dark-primary-darken": "#111214",
+        "--_c-dark-secondary": "#43464e",
+        "--_c-dark-secondary-base": "67,70,78",
+        "--_c-dark-secondary-lighten": "#4f525c",
+        "--_c-dark-secondary-darken": "#373a40",
+        "--_c-gray-primary": "#72757e",
+        "--_c-gray-primary-base": "114,117,126",
+        "--_c-gray-primary-lighten": "#7f828b",
+        "--_c-gray-primary-darken": "#666971",
+        "--_c-gray-secondary": "#8d8f9a",
+        "--_c-gray-secondary-base": "141,143,154",
+        "--_c-gray-secondary-lighten": "#9b9ca6",
+        "--_c-gray-secondary-darken": "#7f828e",
+        "--_c-gray-accent": "#e0e0e1",
+        "--_c-gray-accent-base": "224,224,225",
+        "--_c-gray-accent-lighten": "#ededee",
+        "--_c-gray-accent-darken": "#d3d3d4",
+        "--_c-light-primary": "#f1f2f3",
+        "--_c-light-primary-base": "241,242,243",
+        "--_c-light-primary-lighten": "#fff",
+        "--_c-light-primary-darken": "#e3e5e7",
+        "--_c-light-secondary": "#fff",
+        "--_c-light-secondary-base": "255,255,255",
+        "--_c-light-secondary-lighten": "#fff",
+        "--_c-light-secondary-darken": "#f2f2f2",
+        "--_c-red-primary": "#d12727",
+        "--_c-red-primary-base": "209,39,39",
+        "--_c-red-primary-lighten": "#da3838",
+        "--_c-red-primary-darken": "#bc2323",
+        "--_c-red-secondary": "#fcede8",
+        "--_c-red-secondary-base": "252,237,232",
+        "--_c-red-secondary-lighten": "#fff",
+        "--_c-red-secondary-darken": "#f9dbd1",
+        "--_c-yellow-primary": "#ecc713",
+        "--_c-yellow-primary-base": "236,199,19",
+        "--_c-yellow-primary-lighten": "#eecd2b",
+        "--_c-yellow-primary-darken": "#d4b311",
+        "--_c-yellow-secondary": "#f6e389",
+        "--_c-yellow-secondary-base": "246,227,137",
+        "--_c-yellow-secondary-lighten": "#f8e9a1",
+        "--_c-yellow-secondary-darken": "#f4dd71",
+        "--_c-blue-primary": "#0468db",
+        "--_c-blue-primary-base": "4,104,219",
+        "--_c-blue-primary-lighten": "#0474f4"
+      },
+      "fontFaces": [
+        {
+          "family": "Raleway",
+          "weight": "300",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Light.woff\") format(\"woff\"), url(\"./Raleway-Light.woff2\") format(\"woff2\"), url(\"./Raleway-Light.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "400",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Regular.woff\") format(\"woff\"), url(\"./Raleway-Regular.woff2\") format(\"woff2\"), url(\"./Raleway-Regular.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "500",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Medium.woff\") format(\"woff\"), url(\"./Raleway-Medium.woff2\") format(\"woff2\"), url(\"./Raleway-Medium.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "600",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-SemiBold.woff\") format(\"woff\"), url(\"./Raleway-SemiBold.woff2\") format(\"woff2\"), url(\"./Raleway-SemiBold.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "700",
+          "style": "normal",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Bold.woff\") format(\"woff\"), url(\"./Raleway-Bold.woff2\") format(\"woff2\"), url(\"./Raleway-Bold.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Raleway",
+          "weight": "400",
+          "style": "italic",
+          "src": "local(\"Raleway\"), url(\"./Raleway-Italic.woff\") format(\"woff\"), url(\"./Raleway-Italic.woff2\") format(\"woff2\"), url(\"./Raleway-Italic.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "300",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Light.woff\") format(\"woff\"), url(\"./Roboto-Light.woff2\") format(\"woff2\"), url(\"./Roboto-Light.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "400",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Regular.woff\") format(\"woff\"), url(\"./Roboto-Regular.woff2\") format(\"woff2\"), url(\"./Roboto-Regular.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "500",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Medium.woff\") format(\"woff\"), url(\"./Roboto-Medium.woff2\") format(\"woff2\"), url(\"./Roboto-Medium.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "700",
+          "style": "normal",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Bold.woff\") format(\"woff\"), url(\"./Roboto-Bold.woff2\") format(\"woff2\"), url(\"./Roboto-Bold.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "300",
+          "style": "italic",
+          "src": "local(\"Roboto\"), url(\"./Roboto-LightItalic.woff\") format(\"woff\"), url(\"./Roboto-LightItalic.woff2\") format(\"woff2\"), url(\"./Roboto-LightItalic.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Roboto",
+          "weight": "400",
+          "style": "italic",
+          "src": "local(\"Roboto\"), url(\"./Roboto-Italic.woff\") format(\"woff\"), url(\"./Roboto-Italic.woff2\") format(\"woff2\"), url(\"./Roboto-Italic.ttf\") format(\"truetype\")"
+        },
+        {
+          "family": "Bilo-Regular",
+          "weight": "",
+          "style": "",
+          "src": "url(\"/fonts/Bilo-Regular.woff\") format(\"woff\"), url(\"/fonts/Bilo-Regular.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Bilo-Medium",
+          "weight": "",
+          "style": "",
+          "src": "url(\"/fonts/Bilo-Medium.woff\") format(\"woff\"), url(\"/fonts/Bilo-Medium.woff2\") format(\"woff2\")"
+        },
+        {
+          "family": "Brompton Slab Regular",
+          "weight": "",
+          "style": "",
+          "src": "local(\"Brompton Slab\"), url(\"/fonts/Brompton-Slab.woff2\") format(\"woff2\"), url(\"/fonts/Brompton-Slab.woff\") format(\"woff\"), url(\"/fonts/Brompton-Slab.otf\") format(\"opentype\")"
+        },
+        {
+          "family": "slick",
+          "weight": "",
+          "style": "",
+          "src": "url(\"data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA0AAAAAB2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAE0AAAABoAAAAcdIcYB0dERUYAAAS0AAAAHAAAAB4AJwANT1MvMgAAAZwAAABRAAAAYFAQ/45jbWFwAAA"
+        },
+        {
+          "family": "slick",
+          "weight": "",
+          "style": "",
+          "src": "url(\"data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA0AAAAAB2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAE0AAAABoAAAAcdIcYB0dERUYAAAS0AAAAHAAAAB4AJwANT1MvMgAAAZwAAABRAAAAYFAQ/45jbWFwAAA"
+        },
+        {
+          "family": "slick",
+          "weight": "",
+          "style": "",
+          "src": "url(\"data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAATsAA0AAAAAB2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAE0AAAABoAAAAcdIcYB0dERUYAAAS0AAAAHAAAAB4AJwANT1MvMgAAAZwAAABRAAAAYFAQ/45jbWFwAAA"
+        }
+      ],
+      "loadedFonts": [
+        "Bilo-Regular normal normal",
+        "Brompton Slab Regular normal normal",
+        "slick normal normal",
+        "slick normal normal",
+        "slick normal normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": false,
+        "nuxt": true,
+        "react": false,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://scripts.clarity.ms/0.8.72/clarity.js",
+        "https://www.clarity.ms/tag/nu991rbf9h?ref=gtm",
+        "https://tag.rmp.rakuten.com/126210.ct.js",
+        "https://static.hotjar.com/c/hotjar-3857134.js?sv=7",
+        "https://j.northbeam.io/vendor/nb-sp.min.js",
+        "https://consentcdn.cookiebot.com/consentconfig/2950968f-11e3-4338-bf6c-e94c75029a65/state.js",
+        "https://consent.cookiebot.com/logconsent.ashx?action=accept&nocache=1791554511001&dnt=false&method=strict&clp=true&cls=true&clm=true&cbid=2950968f-11e3-4338-bf6c-e94c75029a65&cbt=inlineoptin&hasdata=true&usercountry=US-48&referer=https%3A%2F%2Fwww.brompton.com&rc=false",
+        "https://consent.cookiebot.com/2950968f-11e3-4338-bf6c-e94c75029a65/cc.js?renew=false&referer=www.brompton.com&dnt=false&init=false",
+        "https://www.googletagmanager.com/gtag/js?id=G-DQDWGMQJKJ&cx=c&gtm=4e6a72",
+        "https://g10696554090.co/gr?id=-NdGBPdfOuc1U0fN5Scy&refurl=&winurl=https%3A%2F%2Fwww.brompton.com%2F",
+        "https://connect.facebook.net/signals/config/947327049614618?v=2.9.415&r=stable&domain=www.brompton.com&im=1&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188%2C267%2C265%2C260%2C262%2C263%2C264%2C261%2C259%2C246%2C266%2C268%2C258%2C216%2C217%2C269%2C270%2C257%2C256%2C351%2C352%2C199%2C201%2C202%2C206%2C205%2C207%2C203%2C204%2C200%2C198%2C197%2C275%2C229%2C224%2C227%2C228%2C222%2C387%2C303%2C307%2C310%2C311%2C312%2C308%2C313%2C306%2C301%2C315%2C316%2C305%2C314%2C318%2C309%2C304%2C317%2C319%2C302%2C239%2C300%2C225%2C226%2C250%2C223%2C221%2C245%2C277%2C241%2C214%2C215%2C211%2C212%2C213%2C210%2C208%2C219%2C220%2C218%2C325%2C380%2C345%2C346%2C348%2C349%2C347%2C344%2C343%2C230%2C280%2C287%2C288%2C281%2C283%2C286%2C284%2C285%2C282%2C279%2C298%2C292%2C295%2C291%2C299%2C296%2C290%2C294%2C297%2C293%2C289%2C339%2C356",
+        "https://connect.facebook.net/signals/config/1002427859846875?v=2.9.415&r=stable&domain=www.brompton.com&im=1&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C77%2C76%2C11%2C180%2C101%2C20%2C152%2C140%2C46%2C84%2C89%2C148%2C175%2C182%2C8%2C4%2C5%2C7%2C6%2C3%2C102%2C114%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C162%2C86%2C125%2C22%2C24%2C51%2C47%2C49%2C48%2C94%2C103%2C107%2C123%2C159%2C163%2C53%2C124%2C29%2C26%2C132%2C78%2C43%2C165%2C164%2C166%2C156%2C154%2C30%2C42%2C66%2C122%2C177%2C79%2C21%2C127%2C92%2C75%2C23%2C96%2C97%2C129%2C95%2C150%2C149%2C153%2C108%2C176%2C179%2C41%2C56%2C126%2C54%2C160%2C71%2C184%2C109%2C183%2C209%2C254%2C83%2C273%2C272%2C271%2C14%2C25%2C28%2C40%2C62%2C116%2C68%2C10%2C72%2C110%2C111%2C112%2C118%2C143%2C38%2C36%2C145%2C146%2C147%2C142%2C141%2C171%2C85%2C174%2C172%2C173%2C57%2C67%2C136%2C19%2C178%2C52%2C322%2C323%2C324%2C321%2C337%2C359%2C247%2C236%2C69%2C237%2C235%2C362%2C353%2C59%2C248%2C120%2C144%2C91%2C134%2C61%2C133%2C139%2C138%2C65%2C73%2C167%2C87%2C88%2C128%2C44%2C39%2C60%2C63%2C113%2C181%2C1%2C137%2C16%2C135%2C12%2C2%2C64%2C104%2C15%2C74%2C70%2C131%2C100%2C99%2C186%2C187%2C105%2C106%2C9%2C115%2C185%2C58%2C157%2C98%2C90%2C80%2C130%2C119%2C168%2C50%2C158%2C0%2C93%2C151%2C155%2C169%2C45%2C121%2C13%2C188",
+        "https://connect.facebook.net/en_US/fbevents.js",
+        "https://s.c8.io/px/pixel.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=AW-662051370&cx=c&gtm=4e6a72",
+        "https://consent.cookiebot.com/uc.js?cbid=2950968f-11e3-4338-bf6c-e94c75029a65&implementation=gtm&consentmode-dataredaction=dynamic",
+        "https://api.uk.exponea.com/js/exponea.min.js",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-K3LGPKX",
+        "https://www.brompton.com/_nuxt/0066d0d.modern.js",
+        "https://www.brompton.com/_nuxt/ebd6ae6.modern.js",
+        "https://www.brompton.com/_nuxt/3d22b38.modern.js",
+        "https://www.brompton.com/_nuxt/aa53413.modern.js",
+        "https://www.brompton.com/_nuxt/369dd0e.modern.js",
+        "https://www.brompton.com/_nuxt/9d22e1c.modern.js",
+        "https://www.brompton.com/_nuxt/7b7a05a.modern.js",
+        "https://www.brompton.com/_nuxt/01589a9.modern.js",
+        "https://www.brompton.com/_nuxt/b2ac7dc.modern.js",
+        "https://www.brompton.com/_nuxt/2c3f2bf.modern.js",
+        "https://bromptonbikesdealers.my.site.com/ESWWebsiteMessaging1751180584033/assets/js/bootstrap.min.js",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/662051370/?random=1791554511370&cv=11&fst=1791554511370&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a72v9181634753za20ozb9100622466zd9100622466xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120412527~120469145~120469153~121046263~121046271~121246026~121246034&rcb=16&frm=0&did=dMWZhNz&gdid=dMWZhNz&hn=www.googleadservices.com&npa=0&us_privacy=1---&pscdl=noapi&auid=79776615.1791554511&uaa=arm&uab=64&uafvl=Chromium%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0&uamb=1&uam=&uap=iOS&uapv=17_4&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/662051370/?random=1791554511403&cv=11&fst=1791554511403&bg=ffffff&guid=ON&async=1&gtm=45be6a72v9181634753z89100622466za20gzb9100622466zd9100622466xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120412527~120469145~120469153~121046263~121046271~121246026~121246034&rcb=16&frm=0&did=dMWZhNz&gdid=dMWZhNz&hn=www.googleadservices.com&npa=0&us_privacy=1---&pscdl=noapi&auid=79776615.1791554511&uaa=arm&uab=64&uafvl=Chromium%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0&uamb=1&uam=&uap=iOS&uapv=17_4&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=4",
+        "https://j.northbeam.io/ota-sp/59d2a407-7255-44b1-b553-e2adaa1d226d.js",
+        "https://script.hotjar.com/modules.ac003456795fba9e297a.js",
+        "https://www.brompton.com/_nuxt/ef96e5a.js",
+        "https://www.brompton.com/_nuxt/5f8718d.modern.js",
+        "https://www.brompton.com/_nuxt/81fc0a2.js",
+        "https://www.brompton.com/_nuxt/82786c6.modern.js",
+        "https://www.brompton.com/_nuxt/c158c7b.js",
+        "https://www.brompton.com/_nuxt/b882ce0.modern.js",
+        "https://www.brompton.com/_nuxt/e765fec.js"
+      ],
+      "nav": [
+        {
+          "t": "link",
+          "h": "/"
+        },
+        {
+          "t": "About Brompton bikes",
+          "h": "/bikes"
+        },
+        {
+          "t": "Help me choose",
+          "h": "/bikes/help-me-choose"
+        },
+        {
+          "t": "Register your bike",
+          "h": "/bike-registration"
+        },
+        {
+          "t": "Take a test ride",
+          "h": "/find-a-store/test-ride"
+        },
+        {
+          "t": "Bike support",
+          "h": "/support"
+        },
+        {
+          "t": "Premium Brompton Service",
+          "h": "/p/1161/premium-brompton-service"
+        },
+        {
+          "t": "Warranty and guarantee",
+          "h": "/why-brompton/buy-direct"
+        },
+        {
+          "t": "Cyclescheme",
+          "h": "/payment-and-financing/cyclescheme"
+        },
+        {
+          "t": "Collaborations",
+          "h": "/collaborations"
+        },
+        {
+          "t": "Brompton with Business",
+          "h": "/brompton-with-business"
+        },
+        {
+          "t": "Shop All Bikes",
+          "h": "/c/bikes"
+        },
+        {
+          "t": "Shop A Line",
+          "h": "/p/1029/a-line-23"
+        },
+        {
+          "t": "Explore A Line",
+          "h": "/a-line"
+        },
+        {
+          "t": "Shop C Line",
+          "h": "/c/bikes/c-line"
+        },
+        {
+          "t": "Explore C Line",
+          "h": "/c-line"
+        }
+      ],
+      "canvases": [],
+      "videos": [
+        {
+          "src": "https://dam.brompton.com/filestore/7/0/4/9/3_bce84326fce964c/39407_4c55a56b0c6adf1.mp4",
+          "loop": true,
+          "muted": true
+        }
+      ],
+      "imgs": 136,
+      "sections": [
+        {
+          "id": "",
+          "cls": "sf-modal verification-modal",
+          "h": 0,
+          "bg": "rgba(0, 0, 0, 0)"
+        }
+      ],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "m-01.jpg",
+        "scrollY": 700
+      },
+      {
+        "file": "m-02.jpg",
+        "scrollY": 1400
+      },
+      {
+        "file": "m-03.jpg",
+        "scrollY": 2100
+      }
+    ]
+  },
+  "network": {
+    "fontFiles": [
+      "https://www.brompton.com/fonts/Brompton-Slab.woff2",
+      "https://www.brompton.com/fonts/Bilo-Regular.woff",
+      "https://use.typekit.net/af/273b40/00000000000000007735c964/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "https://use.typekit.net/af/abf6a1/00000000000000007735c958/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+    ],
+    "libraryFiles": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-K3LGPKX"
+    ],
+    "topHosts": [
+      [
+        "www.brompton.com",
+        72
+      ],
+      [
+        "bromptonbikesdealers.my.site.com",
+        17
+      ],
+      [
+        "dam.brompton.com",
+        16
+      ],
+      [
+        "api.uk.exponea.com",
+        12
+      ],
+      [
+        "brompton.bloomreach.io",
+        9
+      ],
+      [
+        "www.google.com",
+        8
+      ],
+      [
+        "f.clarity.ms",
+        6
+      ],
+      [
+        "pagead2.googlesyndication.com",
+        4
+      ],
+      [
+        "www.facebook.com",
+        4
+      ],
+      [
+        "www.googletagmanager.com",
+        3
+      ],
+      [
+        "connect.facebook.net",
+        3
+      ],
+      [
+        "consent.cookiebot.com",
+        3
+      ]
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "ok": true,
+ "out": "/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_harvest/icehotel",
+ "images": 15,
+ "svgFiles": 2,
+ "inlineSvgs": 0,
+ "video": 0,
+ "models": 0,
+ "pdf": 0,
+ "biggest": [
+  "1440x960 images/4be529_icehotel_34_high_res_asaf_kliger_9_lowres.jpg.webp",
+  "1440x960 images/b8bfa9_235.jpeg.webp",
+  "1440x960 images/f18fe2_icehotel_icemenu26-24_lowres.jpg.webp",
+  "1440x960 images/7b7c88_weareice_adventure-35_lowres.jpg.webp",
+  "1280x845 images/ec06dd_235.jpeg.webp"
+ ]
+}

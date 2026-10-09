@@ -1,0 +1,17 @@
+{
+ "ok": true,
+ "out": "/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_harvest/buly1803",
+ "images": 60,
+ "svgFiles": 25,
+ "inlineSvgs": 0,
+ "video": 0,
+ "models": 0,
+ "pdf": 0,
+ "biggest": [
+  "4463x1007 images/bfb407_logo_sansfond_copie_2.png",
+  "3000x1269 images/c9ce1d_BANNER_EDITIONS.jpg.webp",
+  "2930x1240 images/521c29_Banniere---Senteur-Rose.jpg",
+  "2930x1240 images/a6e744_Banniere-Desktop-Tubes_1.jpg.webp",
+  "2930x1240 images/19a578_banniere-sans-souci_2.jpg.webp"
+ ]
+}

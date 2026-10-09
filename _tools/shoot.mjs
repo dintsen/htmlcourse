@@ -96,7 +96,7 @@ function contact(dir, vp) {
   } catch {}
 }
 
-await withSlot('chromium', 2, async () => {
+await withSlot('chromium', 3, async () => {
   const browser = await launch();
   const report = { url, viewports: {} };
   try {

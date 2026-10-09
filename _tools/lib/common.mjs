@@ -3,6 +3,7 @@
 // - withSlot(): file-lock semaphore so ten concurrent agents cannot overload the 4-core box
 // - dismissCookies(): best-effort consent-banner dismissal for reference/brand sites
 import { chromium } from 'playwright-core';
+import { spawn, execFileSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -36,8 +37,26 @@ export const CHROMIUM_ARGS = [
   '--hide-scrollbars',
 ];
 
+// Launch Chromium and arm a detached watchdog: if THIS tool process dies without cleanup (SIGKILL from a Bash
+// timeout, an agent's `timeout`, a crash) the watchdog kills the whole browser tree so no orphan keeps burning CPU.
 export async function launch(extraArgs = []) {
-  return chromium.launch({ executablePath: findChromium(), args: [...CHROMIUM_ARGS, ...extraArgs] });
+  // Global cap on simultaneous browsers, enforced here so ANY script importing this lib is throttled whatever slot names it uses.
+  const releaseBrowserSlot = await acquireSlot('browser', parseInt(process.env.BROWSER_SLOTS || '3', 10), 60 * 60 * 1000);
+  let browser;
+  try { browser = await chromium.launch({ executablePath: findChromium(), args: [...CHROMIUM_ARGS, ...extraArgs] }); }
+  catch (e) { releaseBrowserSlot(); throw e; }
+  browser.on('disconnected', releaseBrowserSlot);
+  try {
+    const kids = execFileSync('pgrep', ['-P', String(process.pid)], { encoding: 'utf8' }).split('\n').filter(Boolean);
+    for (const k of kids) {
+      let cmd = ''; try { cmd = fs.readFileSync(`/proc/${k}/cmdline`, 'utf8'); } catch { continue; }
+      if (cmd.includes('chrome') && !cmd.includes('--type=')) {
+        const w = spawn('sh', ['-c', `while kill -0 ${process.pid} 2>/dev/null; do sleep 2; done; kill -9 -${k} 2>/dev/null; kill -9 ${k} 2>/dev/null; pkill -9 -P ${k} 2>/dev/null; exit 0`], { detached: true, stdio: 'ignore' });
+        w.unref();
+      }
+    }
+  } catch {}
+  return browser;
 }
 
 const pidAlive = (pid) => {
@@ -63,8 +82,7 @@ export async function acquireSlot(name, n = 2, timeoutMs = 20 * 60 * 1000) {
           try { fs.unlinkSync(f); } catch {}
         };
         process.on('exit', release);
-        process.on('SIGINT', () => { release(); process.exit(130); });
-        process.on('SIGTERM', () => { release(); process.exit(143); });
+        for (const sig of ['SIGINT', 'SIGTERM', 'SIGHUP']) process.on(sig, () => { release(); process.exit(128); });
         return release;
       } catch (e) {
         if (e.code !== 'EEXIST') throw e;
@@ -75,6 +93,8 @@ export async function acquireSlot(name, n = 2, timeoutMs = 20 * 60 * 1000) {
       }
     }
     if (Date.now() - start > timeoutMs) throw new Error(`slot ${name} timeout`);
+    const waited = Math.round((Date.now() - start) / 1000);
+    if (waited > 0 && waited % 30 < 2) console.error(`[slot:${name}] queued ${waited}s — the machine is shared; this is normal, keep waiting (use a long Bash timeout)`);
     await sleep(750 + Math.random() * 500);
   }
 }

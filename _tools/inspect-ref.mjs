@@ -158,7 +158,7 @@ function contact(outDir, prefix, name) {
   }
 }
 
-await withSlot('chromium', 2, async () => {
+await withSlot('chromium', 3, async () => {
   const browser = await launch();
   const report = { url, capturedAt: 'see file mtime', desktop: {}, mobile: {} };
   const netFonts = new Set(); const netLibs = new Set(); const hosts = {};

@@ -1,0 +1,16 @@
+{
+ "ok": true,
+ "outDir": "/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_inspect/kask",
+ "title": "Kask Shop Online - Sport Helmets & Accessories",
+ "docHeight": 9617,
+ "libs": [
+  "jQuery"
+ ],
+ "webgl": 0,
+ "canvases": 0,
+ "fonts": [
+  "Neue Montreal"
+ ],
+ "netFonts": 5,
+ "shots": 4
+}

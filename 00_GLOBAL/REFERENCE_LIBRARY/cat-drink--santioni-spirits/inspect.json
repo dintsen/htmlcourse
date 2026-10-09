@@ -1,0 +1,283 @@
+{
+  "url": "https://santionispirits.com/",
+  "capturedAt": "see file mtime",
+  "desktop": {
+    "timeToStableMs": 19715,
+    "extract": {
+      "title": "Not Supported",
+      "description": "",
+      "lang": "en",
+      "docHeight": 900,
+      "docWidth": 1440,
+      "vw": 1440,
+      "vh": 900,
+      "htmlClasses": "",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "YOUR BROWSER IS NOT SUPPORTED",
+          "font": "\"Charles Rosie Regular\", sans-serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "32px",
+          "ls": "0.16px",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [],
+      "h3": [],
+      "p": [],
+      "a": [],
+      "button": [],
+      "navLinks": [],
+      "biggestText": [
+        {
+          "tag": "h1",
+          "text": "YOUR BROWSER IS NOT SUPPORTED",
+          "font": "\"Charles Rosie Regular\", sans-serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "32px",
+          "ls": "0.16px",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(255, 255, 255)",
+          1
+        ]
+      ],
+      "topBackgrounds": [],
+      "rootVars": {},
+      "fontFaces": [
+        {
+          "family": "Charles Rosie Regular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"../assets/fonts/CharlesRosie.woff2\") format(\"woff2\"), url(\"../assets/fonts/CharlesRosie.woff\") format(\"woff\"), url(\"../assets/fonts/CharlesRosie.otf\") format(\"opentype\")"
+        }
+      ],
+      "loadedFonts": [
+        "Charles Rosie Regular 400 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": false,
+        "nuxt": false,
+        "react": false,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [],
+      "nav": [],
+      "canvases": [],
+      "videos": [],
+      "imgs": 0,
+      "sections": [],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "d-02.jpg",
+        "scrollY": 0,
+        "hash": "60ce7690"
+      },
+      {
+        "file": "d-03.jpg",
+        "scrollY": 0,
+        "hash": "60ce7690"
+      },
+      {
+        "file": "d-04.jpg",
+        "scrollY": 0,
+        "hash": "60ce7690"
+      }
+    ],
+    "libsAfterScroll": {
+      "canvases": 0,
+      "webgl": 0,
+      "docHeight": 900
+    }
+  },
+  "mobile": {
+    "extract": {
+      "title": "Not Supported",
+      "description": "",
+      "lang": "en",
+      "docHeight": 844,
+      "docWidth": 390,
+      "vw": 390,
+      "vh": 844,
+      "htmlClasses": "",
+      "h1": [
+        {
+          "tag": "h1",
+          "text": "YOUR BROWSER IS NOT SUPPORTED",
+          "font": "\"Charles Rosie Regular\", sans-serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "32px",
+          "ls": "0.16px",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "h2": [],
+      "h3": [],
+      "p": [],
+      "a": [],
+      "button": [],
+      "navLinks": [],
+      "biggestText": [
+        {
+          "tag": "h1",
+          "text": "YOUR BROWSER IS NOT SUPPORTED",
+          "font": "\"Charles Rosie Regular\", sans-serif",
+          "size": "32px",
+          "weight": "400",
+          "lh": "32px",
+          "ls": "0.16px",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(255, 255, 255)",
+          1
+        ]
+      ],
+      "topBackgrounds": [],
+      "rootVars": {},
+      "fontFaces": [
+        {
+          "family": "Charles Rosie Regular",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"../assets/fonts/CharlesRosie.woff2\") format(\"woff2\"), url(\"../assets/fonts/CharlesRosie.woff\") format(\"woff\"), url(\"../assets/fonts/CharlesRosie.otf\") format(\"opentype\")"
+        }
+      ],
+      "loadedFonts": [
+        "Charles Rosie Regular 400 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": false,
+        "nuxt": false,
+        "react": false,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [],
+      "nav": [],
+      "canvases": [],
+      "videos": [],
+      "imgs": 0,
+      "sections": [],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "m-01.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-02.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-03.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-04.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-05.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-06.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-07.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-08.jpg",
+        "scrollY": 0
+      }
+    ]
+  },
+  "network": {
+    "fontFiles": [
+      "https://santionispirits.com/assets/fonts/CharlesRosie.woff2"
+    ],
+    "libraryFiles": [],
+    "topHosts": [
+      [
+        "santionispirits.com",
+        11
+      ],
+      [
+        "www.googletagmanager.com",
+        1
+      ]
+    ]
+  }
+}

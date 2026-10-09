@@ -1,0 +1,1374 @@
+{
+  "url": "https://www.basicagency.com/",
+  "capturedAt": "see file mtime",
+  "desktop": {
+    "timeToStableMs": 20836,
+    "extract": {
+      "title": "BASIC/DEPT® | Digital Branding & Product Design Agency",
+      "description": "We design digital products, services, and eCommerce experiences for brands like Google, Airbnb, Patagonia, Apple, Beats by Dre and other category leaders.",
+      "lang": "en",
+      "docHeight": 9866,
+      "docWidth": 1440,
+      "vw": 1440,
+      "vh": 900,
+      "htmlClasses": "",
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "p": [
+        {
+          "tag": "p",
+          "text": "(5) INTERNAL WORKS\n©26 c/o BASIC/DEPT®",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "15.96px",
+          "ls": "-0.28px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "A weekly-ish playlist curated by the employees @ BASIC/DEPT®",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "19.6px",
+          "ls": "-0.18px",
+          "tt": "none",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Visit the Site",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "19.6px",
+          "ls": "-0.18px",
+          "tt": "none",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "400",
+          "lh": "25.2px",
+          "ls": "-0.18px",
+          "tt": "none",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Work",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "-0.18px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "About",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "-0.18px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Initiatives",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Accept cookies",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "12px",
+          "weight": "700",
+          "lh": "28px",
+          "ls": "-0.24px",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "Work",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "-0.18px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "About",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "-0.18px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "News",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "-0.18px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Thinking",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "24px",
+          "ls": "-0.18px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "q",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "90px",
+          "weight": "700",
+          "lh": "81px",
+          "ls": "-4.5px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "700",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "700",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "400",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "400",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "400",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "400",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "42px",
+          "weight": "400",
+          "lh": "46.2px",
+          "ls": "-2.1px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(249, 205, 205)",
+          74
+        ],
+        [
+          "rgb(37, 36, 34)",
+          33
+        ],
+        [
+          "rgb(255, 255, 255)",
+          20
+        ],
+        [
+          "rgb(94, 94, 94)",
+          3
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(37, 36, 34)",
+          2361308
+        ],
+        [
+          "rgb(244, 244, 244)",
+          1035031
+        ],
+        [
+          "rgb(25, 25, 24)",
+          86400
+        ],
+        [
+          "rgb(249, 205, 205)",
+          28800
+        ],
+        [
+          "rgb(255, 255, 255)",
+          14400
+        ]
+      ],
+      "rootVars": {
+        "--bd-color-background-light": "#f4f4f4",
+        "--bd-color-background-dark": "#252422",
+        "--bd-color-background-pink": "#f9cdcd",
+        "--bd-color-background-button-primary-base": "#ffffff",
+        "--bd-color-background-button-primary-hover": "#252422",
+        "--bd-color-background-button-primary-active": "rgba(37,36,34,0.8)",
+        "--bd-color-background-button-primary-disabled": "rgba(37,36,34,0.25)",
+        "--bd-color-background-button-secondary-base": "#252422",
+        "--bd-color-background-button-secondary-hover": "#ffffff",
+        "--bd-color-background-button-secondary-active": "rgba(255,255,255,0.8)",
+        "--bd-color-background-button-secondary-disabled": "rgba(255,255,255,0.25)",
+        "--bd-color-background-button-tertiary-base": "#f9cdcd",
+        "--bd-color-background-button-tertiary-hover": "#252422",
+        "--bd-color-background-button-tertiary-active": "rgba(249,205,205,0.8)",
+        "--bd-color-background-button-tertiary-disabled": "rgba(249,205,205,0.25)",
+        "--bd-color-background-footer-primary-light": "#252422",
+        "--bd-color-background-footer-primary-dark": "#f4f4f4",
+        "--bd-color-background-footer-secondary-light": "#191918",
+        "--bd-color-background-footer-secondary-dark": "#eaeaea",
+        "--bd-color-background-overlay-scrim": "#252422",
+        "--bd-color-background-overlay-panel": "#f4f4f4",
+        "--bd-color-background-overlay-cookies": "#191918",
+        "--bd-color-background-overlay-contact": "#f9cdcd",
+        "--bd-color-background-carousel-cursor": "#f9cdcd",
+        "--bd-color-background-soundcloud-player-controls": "#252422",
+        "--bd-color-background-soundcloud-player-close": "#eaeaea",
+        "--bd-color-background-soundcloud-player-progressbar": "#f9cdcd",
+        "--bd-color-background-spotify-player-embed": "#000000",
+        "--bd-color-base-cod-gray": "#191918",
+        "--bd-color-base-tuatara": "#252422",
+        "--bd-color-base-scorpion": "#5e5e5e",
+        "--bd-color-base-gallery": "#eaeaea",
+        "--bd-color-base-wild-sand": "#f4f4f4",
+        "--bd-color-base-azalea": "#f9cdcd",
+        "--bd-color-base-dodger-blue": "#3a97f9",
+        "--bd-color-base-red-50": "#f9cdcd",
+        "--bd-color-base-red-400": "#d64121",
+        "--bd-color-base-blue-300": "#3a97f9",
+        "--bd-color-base-green-400": "#088843",
+        "--bd-color-base-grey-50": "#f4f4f4",
+        "--bd-color-base-grey-100": "#eaeaea",
+        "--bd-color-base-grey-400": "#5e5e5e",
+        "--bd-color-base-grey-800": "#252422",
+        "--bd-color-base-grey-900": "#191918",
+        "--bd-color-base-white": "#ffffff",
+        "--bd-color-base-black": "#000000",
+        "--bd-color-opaque-grey-800-high": "rgba(37,36,34,0.8)",
+        "--bd-color-opaque-grey-800-low": "rgba(37,36,34,0.25)",
+        "--bd-color-opaque-white-high": "rgba(255,255,255,0.8)",
+        "--bd-color-opaque-white-low": "rgba(255,255,255,0.25)",
+        "--bd-color-opaque-pink-high": "rgba(249,205,205,0.8)",
+        "--bd-color-opaque-pink-low": "rgba(249,205,205,0.25)",
+        "--bd-color-border-base": "#252422",
+        "--bd-color-border-secondary": "#ffffff",
+        "--bd-color-border-tertiary": "#f9cdcd",
+        "--bd-color-border-button-primary-base": "#252422",
+        "--bd-color-border-button-primary-active": "rgba(37,36,34,0.8)",
+        "--bd-color-border-button-primary-disabled": "rgba(37,36,34,0.25)",
+        "--bd-color-border-button-secondary-base": "#ffffff",
+        "--bd-color-border-button-secondary-active": "rgba(255,255,255,0.8)"
+      },
+      "fontFaces": [
+        {
+          "family": "SctoGroteskA",
+          "weight": "700",
+          "style": "",
+          "src": "local(\"SctoGroteskA\"), url(\"/_next/static/media/SctoGroteskA-Bold.d6497298.woff2\") format(\"woff2\"), url(\"/_next/static/media/SctoGroteskA-Bold.cf1bbdcf.woff\") format(\"woff\"), url(\"/_next/static/media/"
+        },
+        {
+          "family": "SctoGroteskA",
+          "weight": "400",
+          "style": "",
+          "src": "local(\"SctoGroteskA\"), url(\"/_next/static/media/SctoGroteskA-Medium.2ede3563.woff2\") format(\"woff2\"), url(\"/_next/static/media/SctoGroteskA-Medium.678e5217.woff\") format(\"woff\"), url(\"/_next/static/me"
+        },
+        {
+          "family": "SctoGroteskA",
+          "weight": "300",
+          "style": "",
+          "src": "local(\"SctoGroteskA\"), url(\"/_next/static/media/SctoGroteskA-Regular.1e986128.woff2\") format(\"woff2\"), url(\"/_next/static/media/SctoGroteskA-Regular.934f77dc.woff\") format(\"woff\"), url(\"/_next/static/"
+        }
+      ],
+      "loadedFonts": [
+        "SctoGroteskA 700 normal",
+        "SctoGroteskA 400 normal",
+        "SctoGroteskA 300 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": true,
+        "nuxt": false,
+        "react": true,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://snap.licdn.com/li.lms-analytics/insight.beta.min.js",
+        "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-V2WMRJYJMH&cx=c&gtm=4e6a72h1",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-5K5ZTR6",
+        "https://www.google-analytics.com/analytics.js",
+        "https://www.basicagency.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+        "https://www.basicagency.com/_next/static/chunks/webpack-8d528aca91b4dc0a.js",
+        "https://www.basicagency.com/_next/static/chunks/framework-2f1a8e17e74f15d6.js",
+        "https://www.basicagency.com/_next/static/chunks/main-d6ff1c9309a432d9.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/_app-914905e04b225f99.js",
+        "https://www.basicagency.com/_next/static/chunks/142-b4ad18bfd2ee99ce.js",
+        "https://www.basicagency.com/_next/static/chunks/851-892ec06ead347d85.js",
+        "https://www.basicagency.com/_next/static/chunks/651-ebedbcfbd4ccf67e.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/index-c4a9f359080ee9b8.js",
+        "https://www.basicagency.com/_next/static/NBY3Z3Gi3bNyTGvp9UtAu/_buildManifest.js",
+        "https://www.basicagency.com/_next/static/NBY3Z3Gi3bNyTGvp9UtAu/_ssgManifest.js",
+        "https://static.hotjar.com/c/hotjar-137118.js?sv=5",
+        "https://acsbapp.com/apps/app/dist/js/app.js",
+        "https://script.hotjar.com/modules.ac003456795fba9e297a.js",
+        "https://www.googletagmanager.com/gtag/js?id=AW-10775445431",
+        "https://www.googletagmanager.com/gtag/js?id=G-V2WMRJYJMH",
+        "https://www.basicagency.com/analytics.js",
+        "https://www.basicagency.com/tags.js",
+        "https://www.basicagency.com/accessibe.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/%5Bslug%5D-bc1400c01857c2da.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/case-studies/%5Bslug%5D-a1e0c6710613db04.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/careers-3e49c5d411d6bf50.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/blog/%5Bslug%5D-6c928392ee67ec66.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/about-88f0aa10dbddbb75.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/privacy-policy-b0f5b07a04d315f7.js"
+      ],
+      "nav": [
+        {
+          "t": "Work",
+          "h": "/services"
+        },
+        {
+          "t": "About",
+          "h": "/about"
+        },
+        {
+          "t": "News",
+          "h": "/blog"
+        },
+        {
+          "t": "Thinking",
+          "h": "/thinking"
+        },
+        {
+          "t": "Careers",
+          "h": "/careers"
+        },
+        {
+          "t": "Contact",
+          "h": "/contact"
+        },
+        {
+          "t": "Home",
+          "h": "/"
+        },
+        {
+          "t": "WORK",
+          "h": "/services"
+        },
+        {
+          "t": "ABOUT",
+          "h": "/about"
+        },
+        {
+          "t": "NEWS",
+          "h": "/blog"
+        },
+        {
+          "t": "THINKING",
+          "h": "/thinking"
+        },
+        {
+          "t": "CAREERS",
+          "h": "/careers"
+        },
+        {
+          "t": "CONTACT",
+          "h": "/contact"
+        }
+      ],
+      "canvases": [],
+      "videos": [
+        {
+          "src": "https://cdn.sanity.io/files/8nn8fua5/production/c6fb986a862cbe643c40cbdd0318ebc495efb187.mp4",
+          "loop": true,
+          "muted": true
+        },
+        {
+          "src": "https://cdn.sanity.io/files/8nn8fua5/production/4c749533161fc77c899a376ec6cd6da38973772f.mp4",
+          "loop": false,
+          "muted": false
+        }
+      ],
+      "imgs": 23,
+      "sections": [
+        {
+          "id": "",
+          "cls": "menu_menu__CtmVr",
+          "h": 900,
+          "bg": "rgb(37, 36, 34)"
+        },
+        {
+          "id": "",
+          "cls": "home-intro_container__df_t_",
+          "h": 1499,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-overview_container__fy0XZ",
+          "h": 457,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-case-studies_container__Oupmp",
+          "h": 641,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-clients_container__NBR2A",
+          "h": 832,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-spotlight_container__w673I",
+          "h": 568,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-news_container__nFRIM",
+          "h": 4365,
+          "bg": "rgba(0, 0, 0, 0)"
+        }
+      ],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": [
+          "cursor-takeover_container__K8H04",
+          "cursor-takeover_cursor__Y7RJr",
+          "cursor-takeover_body__SkEsL",
+          "carousel_cursor__uEXLJ"
+        ]
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "d-02.jpg",
+        "scrollY": 0,
+        "hash": "3d6f7b7e"
+      },
+      {
+        "file": "d-03.jpg",
+        "scrollY": 765,
+        "hash": "927b4b1d"
+      },
+      {
+        "file": "d-04.jpg",
+        "scrollY": 1530,
+        "hash": "86b31947"
+      },
+      {
+        "file": "d-05.jpg",
+        "scrollY": 2295,
+        "hash": "fbdcfdf7"
+      },
+      {
+        "file": "d-06.jpg",
+        "scrollY": 3060,
+        "hash": "7ebcb885"
+      },
+      {
+        "file": "d-07.jpg",
+        "scrollY": 3825,
+        "hash": "8e8ddae9"
+      },
+      {
+        "file": "d-08.jpg",
+        "scrollY": 4590,
+        "hash": "b3359dd4"
+      },
+      {
+        "file": "d-09.jpg",
+        "scrollY": 5355,
+        "hash": "c8ff8ad0"
+      },
+      {
+        "file": "d-10.jpg",
+        "scrollY": 6120,
+        "hash": "6e1380c7"
+      },
+      {
+        "file": "d-11.jpg",
+        "scrollY": 6885,
+        "hash": "99335eff"
+      },
+      {
+        "file": "d-12.jpg",
+        "scrollY": 7650,
+        "hash": "537c9175"
+      },
+      {
+        "file": "d-13.jpg",
+        "scrollY": 8415,
+        "hash": "9d7751bb"
+      },
+      {
+        "file": "d-14.jpg",
+        "scrollY": 8966,
+        "hash": "752feb70"
+      },
+      {
+        "file": "d-15.jpg",
+        "scrollY": 8966,
+        "hash": "d7a90413"
+      },
+      {
+        "file": "d-16.jpg",
+        "scrollY": 8966,
+        "hash": "ccebae9e"
+      },
+      {
+        "file": "d-17.jpg",
+        "scrollY": 8966,
+        "hash": "bc31615b"
+      }
+    ],
+    "libsAfterScroll": {
+      "canvases": 0,
+      "webgl": 0,
+      "docHeight": 9866
+    }
+  },
+  "mobile": {
+    "extract": {
+      "title": "BASIC/DEPT® | Digital Branding & Product Design Agency",
+      "description": "We design digital products, services, and eCommerce experiences for brands like Google, Airbnb, Patagonia, Apple, Beats by Dre and other category leaders.",
+      "lang": "en",
+      "docHeight": 9261,
+      "docWidth": 390,
+      "vw": 390,
+      "vh": 844,
+      "htmlClasses": "",
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "p": [
+        {
+          "tag": "p",
+          "text": "(5) Internal Works©26 c/o BASIC/DEPT®",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "12.54px",
+          "ls": "-0.22px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "A weekly-ish playlist curated by the employees @ BASIC/DEPT®",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "19.6px",
+          "ls": "-0.14px",
+          "tt": "none",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "p",
+          "text": "Visit the Site",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "19.6px",
+          "ls": "-0.14px",
+          "tt": "none",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "19.6px",
+          "ls": "-0.14px",
+          "tt": "none",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "WORK",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "-0.14px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "ABOUT",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "-0.14px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "INITIATIVES",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "MENU",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "14px",
+          "weight": "400",
+          "lh": "19.6px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Accept cookies",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "12px",
+          "weight": "700",
+          "lh": "28px",
+          "ls": "-0.24px",
+          "tt": "uppercase",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "WORK",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "-0.14px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "ABOUT",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "-0.14px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "NEWS",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "-0.14px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "THINKING",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "18px",
+          "weight": "700",
+          "lh": "18px",
+          "ls": "-0.14px",
+          "tt": "uppercase",
+          "color": "rgb(249, 205, 205)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "q",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "40px",
+          "weight": "700",
+          "lh": "36px",
+          "ls": "-2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "700",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "400",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "400",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "400",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "400",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "h5",
+          "text": "",
+          "font": "SctoGroteskA, sans-serif",
+          "size": "24px",
+          "weight": "400",
+          "lh": "26.4px",
+          "ls": "-1.2px",
+          "tt": "uppercase",
+          "color": "rgb(37, 36, 34)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(37, 36, 34)",
+          29
+        ],
+        [
+          "rgb(249, 205, 205)",
+          18
+        ],
+        [
+          "rgb(255, 255, 255)",
+          8
+        ],
+        [
+          "rgb(94, 94, 94)",
+          3
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(37, 36, 34)",
+          754869
+        ],
+        [
+          "rgb(244, 244, 244)",
+          357165
+        ],
+        [
+          "rgb(25, 25, 24)",
+          39000
+        ],
+        [
+          "rgb(255, 255, 255)",
+          6400
+        ],
+        [
+          "rgb(249, 205, 205)",
+          6400
+        ]
+      ],
+      "rootVars": {
+        "--bd-color-background-light": "#f4f4f4",
+        "--bd-color-background-dark": "#252422",
+        "--bd-color-background-pink": "#f9cdcd",
+        "--bd-color-background-button-primary-base": "#ffffff",
+        "--bd-color-background-button-primary-hover": "#252422",
+        "--bd-color-background-button-primary-active": "rgba(37,36,34,0.8)",
+        "--bd-color-background-button-primary-disabled": "rgba(37,36,34,0.25)",
+        "--bd-color-background-button-secondary-base": "#252422",
+        "--bd-color-background-button-secondary-hover": "#ffffff",
+        "--bd-color-background-button-secondary-active": "rgba(255,255,255,0.8)",
+        "--bd-color-background-button-secondary-disabled": "rgba(255,255,255,0.25)",
+        "--bd-color-background-button-tertiary-base": "#f9cdcd",
+        "--bd-color-background-button-tertiary-hover": "#252422",
+        "--bd-color-background-button-tertiary-active": "rgba(249,205,205,0.8)",
+        "--bd-color-background-button-tertiary-disabled": "rgba(249,205,205,0.25)",
+        "--bd-color-background-footer-primary-light": "#252422",
+        "--bd-color-background-footer-primary-dark": "#f4f4f4",
+        "--bd-color-background-footer-secondary-light": "#191918",
+        "--bd-color-background-footer-secondary-dark": "#eaeaea",
+        "--bd-color-background-overlay-scrim": "#252422",
+        "--bd-color-background-overlay-panel": "#f4f4f4",
+        "--bd-color-background-overlay-cookies": "#191918",
+        "--bd-color-background-overlay-contact": "#f9cdcd",
+        "--bd-color-background-carousel-cursor": "#f9cdcd",
+        "--bd-color-background-soundcloud-player-controls": "#252422",
+        "--bd-color-background-soundcloud-player-close": "#eaeaea",
+        "--bd-color-background-soundcloud-player-progressbar": "#f9cdcd",
+        "--bd-color-background-spotify-player-embed": "#000000",
+        "--bd-color-base-cod-gray": "#191918",
+        "--bd-color-base-tuatara": "#252422",
+        "--bd-color-base-scorpion": "#5e5e5e",
+        "--bd-color-base-gallery": "#eaeaea",
+        "--bd-color-base-wild-sand": "#f4f4f4",
+        "--bd-color-base-azalea": "#f9cdcd",
+        "--bd-color-base-dodger-blue": "#3a97f9",
+        "--bd-color-base-red-50": "#f9cdcd",
+        "--bd-color-base-red-400": "#d64121",
+        "--bd-color-base-blue-300": "#3a97f9",
+        "--bd-color-base-green-400": "#088843",
+        "--bd-color-base-grey-50": "#f4f4f4",
+        "--bd-color-base-grey-100": "#eaeaea",
+        "--bd-color-base-grey-400": "#5e5e5e",
+        "--bd-color-base-grey-800": "#252422",
+        "--bd-color-base-grey-900": "#191918",
+        "--bd-color-base-white": "#ffffff",
+        "--bd-color-base-black": "#000000",
+        "--bd-color-opaque-grey-800-high": "rgba(37,36,34,0.8)",
+        "--bd-color-opaque-grey-800-low": "rgba(37,36,34,0.25)",
+        "--bd-color-opaque-white-high": "rgba(255,255,255,0.8)",
+        "--bd-color-opaque-white-low": "rgba(255,255,255,0.25)",
+        "--bd-color-opaque-pink-high": "rgba(249,205,205,0.8)",
+        "--bd-color-opaque-pink-low": "rgba(249,205,205,0.25)",
+        "--bd-color-border-base": "#252422",
+        "--bd-color-border-secondary": "#ffffff",
+        "--bd-color-border-tertiary": "#f9cdcd",
+        "--bd-color-border-button-primary-base": "#252422",
+        "--bd-color-border-button-primary-active": "rgba(37,36,34,0.8)",
+        "--bd-color-border-button-primary-disabled": "rgba(37,36,34,0.25)",
+        "--bd-color-border-button-secondary-base": "#ffffff",
+        "--bd-color-border-button-secondary-active": "rgba(255,255,255,0.8)"
+      },
+      "fontFaces": [
+        {
+          "family": "SctoGroteskA",
+          "weight": "700",
+          "style": "",
+          "src": "local(\"SctoGroteskA\"), url(\"/_next/static/media/SctoGroteskA-Bold.d6497298.woff2\") format(\"woff2\"), url(\"/_next/static/media/SctoGroteskA-Bold.cf1bbdcf.woff\") format(\"woff\"), url(\"/_next/static/media/"
+        },
+        {
+          "family": "SctoGroteskA",
+          "weight": "400",
+          "style": "",
+          "src": "local(\"SctoGroteskA\"), url(\"/_next/static/media/SctoGroteskA-Medium.2ede3563.woff2\") format(\"woff2\"), url(\"/_next/static/media/SctoGroteskA-Medium.678e5217.woff\") format(\"woff\"), url(\"/_next/static/me"
+        },
+        {
+          "family": "SctoGroteskA",
+          "weight": "300",
+          "style": "",
+          "src": "local(\"SctoGroteskA\"), url(\"/_next/static/media/SctoGroteskA-Regular.1e986128.woff2\") format(\"woff2\"), url(\"/_next/static/media/SctoGroteskA-Regular.934f77dc.woff\") format(\"woff\"), url(\"/_next/static/"
+        }
+      ],
+      "loadedFonts": [
+        "SctoGroteskA 700 normal",
+        "SctoGroteskA 400 normal",
+        "SctoGroteskA 300 normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": true,
+        "nuxt": false,
+        "react": true,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://snap.licdn.com/li.lms-analytics/insight.beta.min.js",
+        "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+        "https://www.googletagmanager.com/gtm.js?id=GTM-5K5ZTR6",
+        "https://www.google-analytics.com/analytics.js",
+        "https://www.basicagency.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+        "https://www.basicagency.com/_next/static/chunks/webpack-8d528aca91b4dc0a.js",
+        "https://www.basicagency.com/_next/static/chunks/framework-2f1a8e17e74f15d6.js",
+        "https://www.basicagency.com/_next/static/chunks/main-d6ff1c9309a432d9.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/_app-914905e04b225f99.js",
+        "https://www.basicagency.com/_next/static/chunks/142-b4ad18bfd2ee99ce.js",
+        "https://www.basicagency.com/_next/static/chunks/851-892ec06ead347d85.js",
+        "https://www.basicagency.com/_next/static/chunks/651-ebedbcfbd4ccf67e.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/index-c4a9f359080ee9b8.js",
+        "https://www.basicagency.com/_next/static/NBY3Z3Gi3bNyTGvp9UtAu/_buildManifest.js",
+        "https://www.basicagency.com/_next/static/NBY3Z3Gi3bNyTGvp9UtAu/_ssgManifest.js",
+        "https://acsbapp.com/apps/app/dist/js/app.js",
+        "https://static.hotjar.com/c/hotjar-137118.js?sv=5",
+        "https://script.hotjar.com/modules.ac003456795fba9e297a.js",
+        "https://script.hotjar.com/browser-perf.8417c6bba72228fa2e29.js",
+        "https://www.googletagmanager.com/gtag/js?id=AW-10775445431",
+        "https://www.googletagmanager.com/gtag/js?id=G-V2WMRJYJMH",
+        "https://www.basicagency.com/analytics.js",
+        "https://www.basicagency.com/tags.js",
+        "https://www.basicagency.com/accessibe.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/%5Bslug%5D-bc1400c01857c2da.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/blog/%5Bslug%5D-6c928392ee67ec66.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/case-studies/%5Bslug%5D-a1e0c6710613db04.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/about-88f0aa10dbddbb75.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/careers-3e49c5d411d6bf50.js",
+        "https://www.basicagency.com/_next/static/chunks/pages/privacy-policy-b0f5b07a04d315f7.js"
+      ],
+      "nav": [
+        {
+          "t": "WORK",
+          "h": "/services"
+        },
+        {
+          "t": "ABOUT",
+          "h": "/about"
+        },
+        {
+          "t": "NEWS",
+          "h": "/blog"
+        },
+        {
+          "t": "THINKING",
+          "h": "/thinking"
+        },
+        {
+          "t": "CAREERS",
+          "h": "/careers"
+        },
+        {
+          "t": "CONTACT",
+          "h": "/contact"
+        },
+        {
+          "t": "Home",
+          "h": "/"
+        },
+        {
+          "t": "Work",
+          "h": "/services"
+        },
+        {
+          "t": "About",
+          "h": "/about"
+        },
+        {
+          "t": "News",
+          "h": "/blog"
+        },
+        {
+          "t": "Thinking",
+          "h": "/thinking"
+        },
+        {
+          "t": "Careers",
+          "h": "/careers"
+        },
+        {
+          "t": "Contact",
+          "h": "/contact"
+        }
+      ],
+      "canvases": [],
+      "videos": [
+        {
+          "src": "https://cdn.sanity.io/files/8nn8fua5/production/c6fb986a862cbe643c40cbdd0318ebc495efb187.mp4",
+          "loop": true,
+          "muted": true
+        },
+        {
+          "src": "https://cdn.sanity.io/files/8nn8fua5/production/4c749533161fc77c899a376ec6cd6da38973772f.mp4",
+          "loop": false,
+          "muted": false
+        }
+      ],
+      "imgs": 23,
+      "sections": [
+        {
+          "id": "",
+          "cls": "menu_menu__CtmVr",
+          "h": 844,
+          "bg": "rgb(37, 36, 34)"
+        },
+        {
+          "id": "",
+          "cls": "home-intro_container__df_t_",
+          "h": 1084,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-overview_container__fy0XZ",
+          "h": 411,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-case-studies_container__Oupmp",
+          "h": 474,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-clients_container__NBR2A",
+          "h": 600,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-spotlight_container__w673I",
+          "h": 297,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "",
+          "cls": "home-news_container__nFRIM",
+          "h": 5078,
+          "bg": "rgba(0, 0, 0, 0)"
+        }
+      ],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": [
+          "cursor-takeover_container__K8H04",
+          "cursor-takeover_cursor__Y7RJr",
+          "cursor-takeover_body__SkEsL",
+          "carousel_cursor__uEXLJ"
+        ]
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "m-01.jpg",
+        "scrollY": 700
+      },
+      {
+        "file": "m-02.jpg",
+        "scrollY": 1400
+      },
+      {
+        "file": "m-03.jpg",
+        "scrollY": 2100
+      },
+      {
+        "file": "m-04.jpg",
+        "scrollY": 2800
+      },
+      {
+        "file": "m-05.jpg",
+        "scrollY": 3500
+      },
+      {
+        "file": "m-06.jpg",
+        "scrollY": 4200
+      },
+      {
+        "file": "m-07.jpg",
+        "scrollY": 4900
+      },
+      {
+        "file": "m-08.jpg",
+        "scrollY": 5600
+      }
+    ]
+  },
+  "network": {
+    "fontFiles": [
+      "https://www.basicagency.com/_next/static/media/SctoGroteskA-Medium.2ede3563.woff2",
+      "https://www.basicagency.com/_next/static/media/SctoGroteskA-Bold.d6497298.woff2",
+      "https://www.basicagency.com/_next/static/media/SctoGroteskA-Regular.1e986128.woff2"
+    ],
+    "libraryFiles": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-5K5ZTR6"
+    ],
+    "topHosts": [
+      [
+        "www.basicagency.com",
+        87
+      ],
+      [
+        "cdn.sanity.io",
+        31
+      ],
+      [
+        "www.googletagmanager.com",
+        4
+      ],
+      [
+        "www.google-analytics.com",
+        4
+      ],
+      [
+        "px.ads.linkedin.com",
+        3
+      ],
+      [
+        "snap.licdn.com",
+        2
+      ],
+      [
+        "static.hotjar.com",
+        1
+      ],
+      [
+        "acsbapp.com",
+        1
+      ],
+      [
+        "script.hotjar.com",
+        1
+      ],
+      [
+        "cdn.acsbapp.com",
+        1
+      ]
+    ]
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "url": "https://obys.agency/",
+  "capturedAt": "see file mtime",
+  "desktop": {
+    "timeToStableMs": 15611,
+    "extract": {
+      "title": "Obys Agency",
+      "description": "Concept-driven design studio based in the EU. Crafting award-winning brand and web experiences shaped by storytelling and strong visual systems.",
+      "lang": "en",
+      "docHeight": 900,
+      "docWidth": 1440,
+      "vw": 1440,
+      "vh": 900,
+      "htmlClasses": "",
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "p": [
+        {
+          "tag": "p",
+          "text": "The studio is shaped by people who care\ndeeply about design and the pr",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "-0.11px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Makhno",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "-0.11px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Source Unknown",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "-0.11px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "Autex",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "-0.11px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Vertical,",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Horizontal,",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Grid",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "13.2px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "Work",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "11px",
+          "ls": "-0.11px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "About",
+          "font": "Obys, serif",
+          "size": "11px",
+          "weight": "400",
+          "lh": "11px",
+          "ls": "-0.11px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "div",
+          "text": "Makhno",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "Source Unknown",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "Autex",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "Odin’s Crow",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "Olga Prudka",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "Yulia",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "The Ways We Work (Miro)",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "div",
+          "text": "Design Education Series",
+          "font": "Obys, serif",
+          "size": "79.9999px",
+          "weight": "400",
+          "lh": "79.9999px",
+          "ls": "-2.4px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(0, 0, 0)",
+          1096
+        ],
+        [
+          "rgb(255, 255, 255)",
+          13
+        ],
+        [
+          "rgb(201, 201, 201)",
+          3
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgb(0, 0, 0)",
+          1296000
+        ]
+      ],
+      "rootVars": {
+        "--white": "#fff",
+        "--black": "#000",
+        "--g": "1rem",
+        "--m-x": "1rem",
+        "--m-y": "1rem",
+        "--c": "calc((100vw - (var(--m-x)*2 + var(--g)*11))/12)"
+      },
+      "fontFaces": [
+        {
+          "family": "Obys",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/font/ObysSans4.woff2\") format(\"woff2\")"
+        }
+      ],
+      "loadedFonts": [
+        "Obys 400 normal",
+        "ObysSans4 normal normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": false,
+        "nuxt": false,
+        "react": false,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-L16SCYVMS7",
+        "https://obys.agency/js/d.js?msh4f1r6"
+      ],
+      "nav": [
+        {
+          "t": "Obys",
+          "h": "/"
+        },
+        {
+          "t": "Work",
+          "h": "/"
+        },
+        {
+          "t": "About",
+          "h": "/about"
+        }
+      ],
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "",
+          "fixed": "fixed"
+        }
+      ],
+      "videos": [],
+      "imgs": 38,
+      "sections": [
+        {
+          "id": "",
+          "cls": "page_",
+          "h": 900,
+          "bg": "rgba(0, 0, 0, 0)"
+        }
+      ],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [
+        {
+          "type": "webgl2",
+          "w": 300,
+          "h": 150,
+          "cls": ""
+        }
+      ],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "d-02.jpg",
+        "scrollY": 0,
+        "hash": "705224ab"
+      },
+      {
+        "file": "d-03.jpg",
+        "scrollY": 0,
+        "hash": "70f195f8"
+      },
+      {
+        "file": "d-04.jpg",
+        "scrollY": 0,
+        "hash": "412bb525"
+      },
+      {
+        "file": "d-05.jpg",
+        "scrollY": 0,
+        "hash": "75003f15"
+      },
+      {
+        "file": "d-06.jpg",
+        "scrollY": 0,
+        "hash": "bb9c9ad3"
+      },
+      {
+        "file": "d-07.jpg",
+        "scrollY": 0,
+        "hash": "28d938e5"
+      },
+      {
+        "file": "d-08.jpg",
+        "scrollY": 0,
+        "hash": "2cb11c45"
+      },
+      {
+        "file": "d-09.jpg",
+        "scrollY": 0,
+        "hash": "cca2b8ef"
+      },
+      {
+        "file": "d-10.jpg",
+        "scrollY": 0,
+        "hash": "5d112a00"
+      },
+      {
+        "file": "d-11.jpg",
+        "scrollY": 0,
+        "hash": "b2a85e31"
+      },
+      {
+        "file": "d-12.jpg",
+        "scrollY": 0,
+        "hash": "0115c4a6"
+      },
+      {
+        "file": "d-13.jpg",
+        "scrollY": 0,
+        "hash": "2e85afe1"
+      },
+      {
+        "file": "d-14.jpg",
+        "scrollY": 0,
+        "hash": "2d73d0e2"
+      },
+      {
+        "file": "d-15.jpg",
+        "scrollY": 0,
+        "hash": "c2db4cec"
+      },
+      {
+        "file": "d-16.jpg",
+        "scrollY": 0,
+        "hash": "7403bfe7"
+      },
+      {
+        "file": "d-17.jpg",
+        "scrollY": 0,
+        "hash": "2388a6cd"
+      }
+    ],
+    "libsAfterScroll": {
+      "canvases": 1,
+      "webgl": 1,
+      "docHeight": 900
+    }
+  },
+  "mobile": {
+    "extract": {
+      "title": "Obys Agency",
+      "description": "Concept-driven design studio based in the EU. Crafting award-winning brand and web experiences shaped by storytelling and strong visual systems.",
+      "lang": "en",
+      "docHeight": 844,
+      "docWidth": 390,
+      "vw": 390,
+      "vh": 844,
+      "htmlClasses": "",
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "p": [],
+      "a": [
+        {
+          "tag": "a",
+          "text": "Work",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "About",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "button": [
+        {
+          "tag": "button",
+          "text": "Contact",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "13.4062px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "navLinks": [
+        {
+          "tag": "a",
+          "text": "Work",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "a",
+          "text": "About",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "biggestText": [
+        {
+          "tag": "span",
+          "text": "Work",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "span",
+          "text": "About",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "button",
+          "text": "Contact",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "13.4062px",
+          "ls": "normal",
+          "tt": "none",
+          "color": "rgb(255, 255, 255)",
+          "fvs": "normal",
+          "stretch": "100%"
+        },
+        {
+          "tag": "script",
+          "text": "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(a",
+          "font": "Obys, serif",
+          "size": "13.4062px",
+          "weight": "400",
+          "lh": "16.0875px",
+          "ls": "-0.134062px",
+          "tt": "none",
+          "color": "rgb(0, 0, 0)",
+          "fvs": "normal",
+          "stretch": "100%"
+        }
+      ],
+      "topTextColors": [
+        [
+          "rgb(255, 255, 255)",
+          9
+        ]
+      ],
+      "topBackgrounds": [
+        [
+          "rgba(0, 0, 0, 0.1)",
+          4312014
+        ],
+        [
+          "rgb(255, 255, 255)",
+          329160
+        ]
+      ],
+      "rootVars": {
+        "--white": "#fff",
+        "--black": "#000",
+        "--g": "1rem",
+        "--m-x": "1rem",
+        "--m-y": "1rem",
+        "--c": "calc((100vw - (var(--m-x)*2 + var(--g)*5))/6)"
+      },
+      "fontFaces": [
+        {
+          "family": "Obys",
+          "weight": "400",
+          "style": "normal",
+          "src": "url(\"/font/ObysSans4.woff2\") format(\"woff2\")"
+        }
+      ],
+      "loadedFonts": [
+        "Obys 400 normal",
+        "ObysSans4 normal normal"
+      ],
+      "libs": {
+        "gsap": false,
+        "ScrollTrigger": false,
+        "ScrollSmoother": false,
+        "SplitText": false,
+        "Lenis": false,
+        "locomotive": false,
+        "THREE": false,
+        "PIXI": false,
+        "barba": false,
+        "Swiper": false,
+        "Webflow": false,
+        "Shopify": false,
+        "jQuery": false,
+        "nextjs": false,
+        "nuxt": false,
+        "react": false,
+        "framerMotion": false,
+        "lottie": false,
+        "rive": false,
+        "p5": false,
+        "Matter": false,
+        "Howler": false
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-L16SCYVMS7",
+        "https://obys.agency/js/m.js?msh4f1r6"
+      ],
+      "nav": [
+        {
+          "t": "Obys",
+          "h": "/"
+        },
+        {
+          "t": "Work",
+          "h": "/"
+        },
+        {
+          "t": "About",
+          "h": "/about"
+        }
+      ],
+      "canvases": [],
+      "videos": [],
+      "imgs": 133,
+      "sections": [
+        {
+          "id": "",
+          "cls": "page_",
+          "h": 25145,
+          "bg": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "id": "ho-wo",
+          "cls": "is-loop",
+          "h": 25139,
+          "bg": "rgba(0, 0, 0, 0)"
+        }
+      ],
+      "cursor": {
+        "bodyCursor": "auto",
+        "customCursorEls": []
+      },
+      "webglContexts": [],
+      "pageErrors": []
+    },
+    "shots": [
+      {
+        "file": "m-01.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-02.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-03.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-04.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-05.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-06.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-07.jpg",
+        "scrollY": 0
+      },
+      {
+        "file": "m-08.jpg",
+        "scrollY": 0
+      }
+    ]
+  },
+  "network": {
+    "fontFiles": [
+      "https://obys.agency/font/ObysSans4.woff2"
+    ],
+    "libraryFiles": [],
+    "topHosts": [
+      [
+        "cms.obys.agency",
+        19
+      ],
+      [
+        "obys.agency",
+        6
+      ],
+      [
+        "www.google-analytics.com",
+        2
+      ],
+      [
+        "www.googletagmanager.com",
+        1
+      ]
+    ]
+  }
+}
