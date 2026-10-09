@@ -206,7 +206,7 @@ await withSlot('chromium', 3, async () => {
 
     // ---------- mobile ----------
     if (!args['no-mobile']) {
-      const mctx = await browser.newContext({ viewport: { width: 390, height: 844 }, userAgent: MOBILE_UA, deviceScaleFactor: 2, isMobile: true, hasTouch: true });
+      const mctx = await browser.newContext({ viewport: { width: 390, height: 844 }, userAgent: MOBILE_UA, deviceScaleFactor: 1, isMobile: true, hasTouch: true });
       await mctx.addInitScript(INIT);
       const mp = await mctx.newPage();
       await mp.goto(url, { waitUntil: 'commit', timeout: 45000 }).catch((e) => { report.mobile.gotoError = e.message.slice(0, 200); });
