@@ -72,9 +72,22 @@
 - category: Hospitality — treehouse hotel (place)
 - lane: Dark forest-night photography + one orange accent; humanist sans + editorial serif quotes; horizontal spatial journey ascending through the trees (depth-layered 2.5D/WebGL parallax); slow camera-drift motion; spatial cabin map nav; low density.
 
-## 08–10 TBD
-- 08 mobility/automotive: candidates Brompton / Polestar / Lotus / Vespa / Royal Enfield (probes in 00_GLOBAL/DISCOVERY).
-- 09 sport/performance: Kask / Norda / N'Normal.
-- 10 fashion or premium object: Jacquemus / Moscot / Vitra / Moooi / Trudon / Grado / Liquid Death.
+## 08 Polestar
+- dir: concepts/08-polestar | url: https://www.polestar.com/ (press/media: media.polestar.com)
+- category: Automotive — electric performance cars (probe: 323 images, 308 ≥1600px, 298 transparent renders = a real 360° spin from official renders, no 3D model needed)
+- lane: LIGHT Scandinavian daylight (pale grey/white, one precise accent) — NOT black cinematic; wide-set precise type; spin/colour/wheel variants driven by the real transparent renders (image-sequence, not a WebGL model); horizontal pinned journey; low density; configurator-style functional moment.
 
-Rules: ≥5 sites with NO scroll-controlled 3D object; 3D/WebGL-led: Playdate (3D device), Lakrids (3D jar+physics), Ippodo (liquid shader), Hasselblad (image shaders), Treehotel (depth parallax). No more than 3 consumer-electronics. No black-dominant duplicates.
+## 09 Kask
+- dir: concepts/09-kask | url: https://www.kask.com/ (probe: 71 images, 6 hero)
+- category: Sport/performance — Italian cycling helmets (physical product)
+- lane: CHROMATIC athletic — fluoro/high-vis on matte grey; bold condensed italic Italian technical type; kinetic horizontal motion; spec/technology annotations built from real photography (no 3D object, no fake diagrams); product-family rail nav.
+
+## 10 Moooi
+- dir: concepts/10-moooi | url: https://www.moooi.com/ (probe: images up to 3840px, 2 videos; asset hunter must harvest product pages)
+- category: Premium physical objects — Dutch design lighting & furniture
+- lane: MAXIMALIST luxe — deep jewel tones, layered collage, mixed serif-italic/grotesk type; light as a material (switching lamps on reveals the scene); editorial density medium-high; nav as an object catalogue; WebGL/canvas light blending allowed if justified.
+
+## Collection checks
+- Light-led: Hasselblad (paper), Ippodo (washi), Polestar (daylight), Teenage Engineering (grey), Playdate (yellow field). Chromatic: Playdate, Lakrids, Kask, Buly, Moooi. Dark: Treehotel only (+ Moooi deep tones).
+- 3D/WebGL-led: Playdate (3D device), Lakrids (3D jar + physics), Ippodo (liquid shader), Hasselblad (image shaders), Treehotel (depth parallax). No scroll-controlled 3D object: Ippodo, Hasselblad, Teenage Engineering, Buly, Polestar (image-sequence), Kask, Moooi.
+- Consumer electronics: 3 (Playdate, Hasselblad, Teenage Engineering). No SaaS/AI/fintech/crypto/dashboards. Fashion/eyewear not selected: no brand with sufficient obtainable assets (Jacquemus/Vitra bot-blocked, Moscot low-res).
