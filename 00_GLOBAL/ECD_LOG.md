@@ -25,3 +25,10 @@ Ten half-built sites are worth nothing; finished sites are. From now on every co
 1. (ECD, cheap, no subagents) compute asset stats from harvest.json; choose the ten + lanes; write SELECTED_TEN.md, DIVERSITY_MATRIX.md, concepts/NN-slug/BRIEF.md.
 2. Launch concept-incubate for the first 2–3 priority concepts (lean). Then diversity-check, build, QA — per concept, to completion.
 3. Continue concept by concept until ten are released; collection jury at the end.
+
+## Update 2026-10-10 09:50 UTC
+- Usage windows observed: reset times 17:30, 22:30 (09-Oct), 03:30?, 09:40 (10-Oct) — roughly every 5h; each window sustains only a few parallel pipelines. Worker/container restarts kill running workflows (several already). Workflows are resumable by design: files on disk are reused; `concept-incubate.js` accepts skipAssets/skipBrand/assetVerdict/refFeedback/skipRefs to continue past finished stages.
+- DECISION: the ten are fixed (SELECTED_TEN.md): 01 playdate, 02 ippodo, 03 hasselblad, 04 lakrids, 05 teenage-engineering, 06 buly-1803, 07 treehotel, 08 polestar, 09 kask, 10 moooi. BRIEF.md (lane) exists for 01–03; create 04–10 when each starts.
+- Concept 01 playdate: brand + assets DONE (official GLB with crank rig, 13 packshots, 6 video clips; see ASSET_SOURCES.md). Reference set REJECTED by RQD (see _work/REFERENCE_REVIEW.md); round 2 relaunched with required changes. Next: directions A/B/C → jury → lock → build → QA.
+- Concept 02 ippodo: incubation launched fresh. 03 hasselblad next.
+- User asked (twice) to keep refining here; they will move the files themselves later (no D:/Downloads delivery needed). Answer the user in Russian when they write in Russian.

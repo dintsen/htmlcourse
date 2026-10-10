@@ -118,11 +118,12 @@ const STANCES = {
 // ---------- run ----------
 phase('Foundations')
 const [assetVerdict, refResult] = await parallel([
-  () => agent(assetPrompt(), { label: `assets:${C.slug}`, phase: 'Foundations', schema: ASSET_VERDICT }),
+  () => (C.skipAssets ? Promise.resolve(C.assetVerdict) : agent(assetPrompt(), { label: `assets:${C.slug}`, phase: 'Foundations', schema: ASSET_VERDICT })),
   async () => {
-    await agent(brandPrompt(), { label: `brand:${C.slug}`, phase: 'Foundations' })
-    let feedback = ''
+    if (!C.skipBrand) await agent(brandPrompt(), { label: `brand:${C.slug}`, phase: 'Foundations' })
+    let feedback = C.refFeedback || ''
     let verdict = null
+    if (C.skipRefs) return { verdict: 'ECD-ACCEPTED', reason: C.skipRefs }
     for (let i = 0; i < 2; i++) {
       await agent(scoutPrompt(feedback), { label: `refscout:${C.slug}#${i + 1}`, phase: 'Foundations' })
       verdict = await agent(rqdGatePrompt(), { label: `refgate:${C.slug}#${i + 1}`, phase: 'Foundations', schema: RQD_SCHEMA, effort: 'high' })
