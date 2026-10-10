@@ -1,43 +1,43 @@
 # REFERENCE_DNA — #01 Playdate
 
-Numbers are computed styles at 1440×900 / 390×844 from each reference's `inspect.json` unless marked (est.) = measured off a screenshot. Motion timings were not verified (stills only).
+(est.) = measured off screenshots. Computed styles come from `inspect.json` / my own DOM probes at 1440x900 and 390 wide. Motion milliseconds are NOT verified for any reference (stills; software GL starves rAF). KINORIA's only timing evidence is FWA's 60 fps preview clip: text lines fade in over about 0.3 s, smooth.
 
-## A. Der Baukasten (tubik): structure, colour, type
-- **Type scale (1440):** wordmark 289 px, line-height 0.69, tracking −0.08em, spans ~94% of width at the bottom edge; step word 163 px / 1.0 / −0.07em; body 20/24 / −0.04em; small 16 px. Mobile: 75 px wordmark, 104 px step word (26.7vw), body 16.25/19.5. Real font Futura PT (do not ship).
-- **Hero structure:** black stage; strapline top-left 18 px, one link top-right; scattered 3D pieces; wordmark on the bottom edge occluded by pieces.
-- **Grid:** stage 0–49%, panel 49–100%; 24 px edge strip on the panel's left; 75 px top inset; inner left padding 120 px; text column ≈ 480 px; 1 px rules at ~25% opacity; palette: #0581fe, #f54d25, #efc11b, #000, #effcfc.
-- **Nav / scroll:** scroll advances one chapter; a new panel slides over the stage and the old one remains as a strip (the strips are the index). Mobile: sheet rises to ~60% height, strips become a bottom bar (≈16 px, est.).
-- **Image treatment:** flat-shaded matte 3D on the stage, no environment reflections.
-- **Reproduce:** half-stage/half-panel desktop structure; strip-as-index; bottom-sheet + bottom-bar mobile; one rule, one h4, short body, one outline button per panel; wordmark across the bottom with the object interleaved.
-- **Refuse:** grain on panels; Lenis glide; black stage; Futura-style geometric type; animal-assembly mechanic; "Download 3D Model" CTA.
+## A. Oryzo (Lusion): stage, scene worlds, grid
+- **Type (1440):** h1 123 px / 110.7 / -0.018em; h2 51 uppercase 500; nav 12 px uppercase 500; stat words 146-226 px sentence-case 600; "sustainability" set bold at about 94% of viewport width (est.). Mobile h1 99.8, h2 39.5. Real font Halyard (do not ship); candidates for the Typography Director to test, not decided: Instrument Sans, Hanken Grotesk, Schibsted Grotesk, Bricolage Grotesque for the quirk the lane asks for.
+- **Grid:** 16 columns, side padding 3.125vw (45 px), gap:column 24:90. Headline left at the 45 px margin, object in the centre third (about 35% width), caption right.
+- **Scene rule:** each scene swaps ground colour AND type scale (olive / magenta thermal gradient / green mat photo / macro texture / cream / olive-yellow / black table) while the object, grid and nav never move.
+- **Stage:** fixed 1440x900 WebGL2 canvas, pinned object, scroll scrubs rotation (top-down, 3/4, edge-on, underside). One key light upper left, soft contact shadow, rim light when edge-on.
+- **Nav:** four text anchors, active one underlined; 5 px cream progress bar on the right edge. Mobile: "MENU" pill, object enlarged to about 75% width.
+- **Intro:** vector outline with anchor handles draws the object, pull-focus into the real thing, chrome appears.
+- **Reproduce:** pinned single object; left/centre/right scene composition on 16 cols; ground-colour flips; right-edge progress bar; construct-the-object intro; poses that show real product facts (front, edge-on 9 mm thickness, back, crank out).
+- **Refuse:** continuous scrub, dark brown palette, faded low-contrast captions, joke copy, cork scenes.
 
-## B. Oryzo (Lusion): object choreography, nav, voice
-- **Type scale (1440):** h1 123 px / 110.7 / −0.018em; h2 51/51 uppercase w500; h3 33.75 uppercase; nav 12 px uppercase; stat words 146–226 px. Mobile h1 99.8, h2 39.5. Real font Halyard (do not ship).
-- **Grid:** 16 columns, side padding 3.125vw (45 px), gap:column = 24:90.
-- **Scene structure:** headline left (≈45 px margin), object centre third, caption right; wordmark top-left, nav top-right.
-- **Scroll technique:** fixed WebGL canvas, pinned scene, scroll scrubs object rotation: top-down → 3/4 tilt → edge-on → underside → back (continuous; ours is quantised to detents). Document ≈ 55 screens.
-- **Intro:** olive field → vector outline with anchor handles draws the object → pull-focus into the photographed object → chrome appears. Ours: the device resolves from a 1-bit dither/outline on its own screen colour.
-- **Nav:** four text anchors, active one underlined, 5 px cream progress bar at the right edge; mobile pill "● MENU" with dashed outline.
-- **Lighting:** one warm key light from upper left, dark falloff, soft contact shadow, rim light on edge-on poses. Ours: daylight window light on yellow, no black falloff.
-- **Reproduce:** pinned single-object scene with caption/headline on either side; progress rail; poses chosen to show the real product (front, edge/thickness 9 mm, back, crank folded out); enlarged object on mobile.
-- **Refuse:** smooth continuous scrub; dark brown palette; faded low-contrast captions; satire; cork scene.
+## B. KINORIA: input model, feedback, rail, interstitial
+- **Mechanism:** one stroke = one frame; a counter is consumed (36 down to 32 in the preview); the object is operated, not displayed. 41 sound files; sound toggle at the rail's foot.
+- **Intro:** the viewfinder doubles as the loader: focus readout 23% to 100% while the scene resolves, then the object snaps sharp (duration under software GL is not representative).
+- **Rail (1440):** vertical-rl labels 13 px / 500 / +1.82 px uppercase (index numeral + word), strip about 40 px wide, labels on a 118 px pitch, wordmark 14 / 600 / +3.08 px at top, active tab filled cream.
+- **Interstitial:** nav click shows a film strip with perforations and canister titled "02 SHOT" before the scene arrives.
+- **Mobile:** rail becomes MENU / CLOSE (11 px / 600 / +1.32 px); full-screen list 36.7 px / 700 / +0.18 px uppercase with 12 px numerals.
+- **Spec list:** parts named like a datasheet, active row white, others dimmed.
+- **Failure state** in voice: "THE ROLL DID NOT LOAD" 12 / 600 / +3.84 px, RELOAD.
+- **Font:** Archivo variable (OFL, shippable). **3D:** KTX2 GLBs + 4 canvases.
+- **Reproduce:** gesture-consumes-unit logic, rail geometry, interstitial concept, numbered mobile menu, dimmed-sibling spec list, sound toggle, designed failure copy, object occluding giant type.
+- **Refuse:** fire-light brown, blur-heavy easing, camera HUD readouts (focus %, f-stop), four-canvas weight.
 
-## C. Noomo: hero depth, loader, canvas architecture
-- **Type scale:** display 120/62/60/42 px, caps, line-height 1.0 (Neue Machina); nav 14 px caps (Neue Haas). Tiny UI (pills 12–16 px) around huge word.
-- **Hero structure:** giant word centred, object overlaps letters (jellyfish over S, ball between R and A, scanner through P); info rail at bottom: category pill left, description right, CTA centre.
-- **Motion:** loader `steps(2)` 3 s infinite on a flat colour; transition = clip-path polygon wipe with `steps(4)` strip; GSAP ScrollSmoother `smooth 1.5` desktop / 0.2 touch (refuse).
-- **3D:** one fixed 1440×900 WebGL2 canvas, Draco GLBs, MeshPhysicalMaterial; mobile drops objects (refuse: ours keeps the device).
-- **Reproduce:** stacking order word → device → (masked) front letter; `steps()` easing as the project's quantised language; bottom info rail.
-- **Refuse:** pixel-block plinth and ornaments; frosted-glass blobs; faded copy; agency sections.
+## Secondary snippets
+Baukasten: edge strips as index, bottom sheet on mobile (not its half/half layout). Radian: sticky list, ink #121714 active vs 20% alpha siblings; yellow only on one pill. OXI: title 302 px / lh 211 / -0.09em split around the device. Nota: black block staircase wipe. Sigma BF: annotated diagram tiles. Noomo: `steps(2)` loader, `steps(4)` clip-path wipe.
 
-## Synthesis plan (no screen-by-screen copy)
-**Idea:** the page is the device's own screen and launcher; the crank is the only input that advances it.
-1. **Stage = A + B.** Persistent full-viewport canvas on a saturated Playdate-yellow field with one daylight key light; the official-silhouette device sits in the centre third. Poses per chapter follow B (front / tilted / edge-on / back, crank folded out).
-2. **Chapters = A's panels, re-skinned.** Each detent of the crank slides in one panel (warm grey or black "screen card", not a rainbow); previous cards remain as edge strips (desktop left, mobile bottom bar) and are the index; purple stays the single action colour. Chapters from BRAND.md: System, Design, Crank, Season, Catalog, Buy (4–6 earned scenes).
-3. **Hero = C.** Official stacked wordmark (vector from Media Kit) huge behind the device, device occluding letters; loader and chapter transition use `steps(n)` ticks.
-4. **Input (gap, designed from the brief):** wheel/drag/crank rotates the device's crank in 15–30° detents; each detent = one `steps()` tick (visual click, optional sound later); no glide anywhere.
-5. **Screen:** live canvas texture on the device screen shows each chapter as a 1-bit scene (real device UI/game art from the Media Kit); this is where pixel/dither type is allowed.
-6. **Voice:** short deadpan lines in B's register, built from the brand's copy bank only.
-7. **Mobile:** B's enlarged object + A's bottom sheet and bottom strip bar; crank becomes a touch dial arc.
+## Synthesis (recompose, never a screen-by-screen copy)
+**Idea:** the page is the Playdate's own launcher; the crank is the only way to move through it, one click at a time.
+1. **Stage (A).** Fixed canvas, device pinned in the centre third on flat brand yellow `#ffc833`; daylight key from upper left, matte plastic (device plastic `#fbc651`), soft contact shadow. Left headline / right caption on a 16-col grid with 3.125vw padding. Each chapter flips ground and type scale (yellow, black, warm grey, yellow) and changes pose: front, 3/4, edge-on 9 mm, crank out, back.
+2. **Input (B, designed).** Accumulate angle: 1 wheel notch (100 px) = about 35 degrees, drag on the crank or the touch dial = true angle. 12 detents per revolution (30 degrees), one revolution per chapter, about 70 ticks site-wide. Each tick: crank snaps 30 degrees in `steps(3)` over 90 ms, body rocks 0.6 degrees for 2 frames, the screen advances one sub-state (no empty ticks). 60 ms lockout after a tick to tame trackpad inertia. Keys: arrows = 1 detent, PgUp/PgDn = 1 chapter. Reduced motion: instant state change, no snap, no sound.
+3. **Chapter change (B + Noomo/Nota technique).** 480 ms interstitial: the on-device launcher cards slide (real Media Kit UI), field colour flips hard on step 3 of 6, `steps(4)` stair-step clip wipe on the page. Interruptible, queue depth 1.
+4. **Index (B + Baukasten).** Desktop: left rotated-label rail (readout and click targets). Right-edge 5 px progress bar quantised to detents (honest sequence, not decoration). Nav on the device itself: D-pad up/down selects chapter, A confirms, B returns to hello. Mobile: bottom touch dial arc, MENU opens B's numbered full-screen list; Baukasten-style bottom bar of chapter ticks.
+5. **Hero (OXI/Noomo).** Stacked official wordmark at about 90% width behind the device, crank visible, screen already alive; device occludes letters.
+6. **Screen.** Live canvas texture on the 400x240 screen: `#312f28` on `#b1afa8` with dither (BRAND.md); 1-bit type only here.
+7. **Specs (Sigma + Radian).** Annotated diagram with leader lines for parts the brand names; sticky list with dimmed siblings.
+8. **Feedback.** Sound toggle in the rail (default off): one synthesised click per tick, heavier clunk per chapter. Failure copy in brand voice for WebGL loss.
+9. **Voice.** Short deadpan lines from the copy bank only.
 
-**Lane separation:** not 05 (grid/spec density, BPM stepping): ours is single object, low density, crank-detent; not 04 (bounce physics): no bounce easing; not 07/02/03: bright chromatic, device-centred.
+**Lane separation:** 05 Teenage Engineering is time-quantised, dense, grid-first; ours is angle-quantised, one object, low density. 04 owns bounce physics (we use none). 07/02/03 are dark, quiet or light-grey.
+**Verify in build:** tick feel and pose stepping in QA timeline frames, since no benchmark timing exists.

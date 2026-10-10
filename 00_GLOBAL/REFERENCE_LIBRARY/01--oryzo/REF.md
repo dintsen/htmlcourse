@@ -46,3 +46,6 @@ Single hero-object product pages where the object must feel physical; hardware w
 
 ## TECH FINGERPRINT
 Astro, custom scroll engine, WebGL2 fixed canvas, Typekit (Halyard), self-hosted Literata/DM Mono, Vimeo player embeds, Cloudflare analytics. No GSAP/Lenis/Three globals exposed.
+
+## DEEP-CAPTURE ADDENDUM (2026-10-10, scout; frames in `deep/desktop/`: contact-deep.jpg, contact-late.jpg, state-oz-*.jpg)
+Later scenes ARE now evidenced (the RQD condition "only scene 1" is lifted). Scene sequence seen: (1) olive intro with vector outline and "ISN'T JUST A COASTER."; (2) "Powered by AI*" with the object over a hand photo and a neon-rim colour flash; (3) "It's wearable" (giant sentence-case word crossed by red ribbon cut-outs, object inside a thin frame); (4) scenes where the whole field changes world: purple-magenta thermal gradient with a spec caption, green cutting-mat photograph, macro texture close-ups of the material, a cream field with "sustainability" set at about 94% of viewport width in heavy sentence-case grotesk (cream is the only light scene), olive-yellow "Drop-Tested" with the headline overlapping the object and a photo strip sliding in, vertical-slit scene, and a final dark spec table of three variants. Rule to take: every scene changes the ground colour and the typographic scale completely while the object and the 16-col grid stay constant.

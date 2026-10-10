@@ -1,0 +1,3 @@
+# 01--polaroid-i2 — https://i2-camera.polaroid.com/ (Build in Amsterdam; opened = true; contact-d viewed only; scout verdict NOT ADMITTED)
+Next/React, four 1536x1536 canvases, 39,150 px tall, dark with amber glow. A geo-gate modal ('Have you come to the right place?') covers the centre of nearly every frame, so composition cannot be judged. Visible: camera crop on black, mode icons on the body, instant prints with film border and exposure caption sliding in. Deep captures exist in deep/ and deep2/ but were not viewed by the scout.
+VERDICT: NOT ADMITTED (unverified beyond the contact sheet; dark, outside the lane).

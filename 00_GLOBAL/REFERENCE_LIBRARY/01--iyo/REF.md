@@ -1,0 +1,2 @@
+# 01--iyo — https://www.iyo.ai/ (FWA 84; opened partly: first 6 desktop frames; run aborted, software GL too slow)
+Black field, a stippled/dithered sound-ring particle shader that grows around a point, floating pill nav, tiny product thumbnail bottom-right, copy 'We make agentic computers you can talk to'. REJECTED for the lane (dark, product barely shown). Idea kept: a stipple/dither shader is a believable live texture for the device screen.

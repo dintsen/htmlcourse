@@ -1,31 +1,33 @@
-# REFERENCES — #01 Playdate (scout verdict; Reference Quality Director gate still pending)
+# REFERENCES — #01 Playdate (scout resubmission after RQD "REFERENCE SET REJECTED", 2026-10-10)
 
-Library root: `/home/user/htmlcourse/00_GLOBAL/REFERENCE_LIBRARY/` (abbrev. `LIB/`). The library held no entry with VERDICT.json and no entry matching a device-centred, chromatic, stepwise brief, so two primaries were researched fresh (prefix `01--`). Concrete numbers are in `REFERENCE_DNA.md`.
+`LIB/` = `/home/user/htmlcourse/00_GLOBAL/REFERENCE_LIBRARY/`. Concrete numbers: `REFERENCE_DNA.md`. RQD changes applied: Oryzo kept and its later scenes now evidenced; Der Baukasten demoted; Noomo removed from primaries; the missing tactile reference researched and opened; one deeper Oryzo capture checked.
 
-## PRIMARY (3) and the DNA each supplies
+## PRIMARY (2) — each supplies different DNA
 
-**A. Der Baukasten, by tubik** (https://www.der-baukasten.com/, FWA of the Day) → **chapter structure, colour system, type-in-depth, mobile index**
-Persistent 3D stage plus one flat saturated panel per step; previous panels stay as coloured edge strips that double as the progress index; wordmark across the bottom with objects passing between letters; on mobile the panel is a bottom sheet and the strips become a bottom bar. Why for Playdate: the page can be a stack of "cards" the way the device's launcher is, with the device as the stage. Caveat: short piece (≈10 screens, 3 steps); admitted for structure and colour discipline, not for scope.
-Shots: `LIB/01--der-baukasten/contact-d.jpg`, `d-03.jpg` (hero), `d-08.jpg` (step), `contact-m.jpg`. Note: `LIB/01--der-baukasten/REF.md`.
+**A. Oryzo, by Lusion** (https://oryzo.ai/, FWA of the Day + Month, 90 pts; admitted by RQD, conditional) → **stage, object choreography, scene worlds, grid**
+One pinned real-time object on a fixed canvas; headline left / object centre third / caption right on a 16-column grid; every scene replaces the ground colour and the type scale (olive, magenta thermal, cream with a 94%-width word, olive-yellow "Drop-Tested") while object and grid stay constant; intro constructs the object from a vector outline. Condition lifted: scenes after the first rotation are now seen in `deep/desktop/contact-deep.jpg` and `contact-late.jpg`. Still stills only: no motion timing.
+Shots: `LIB/01--oryzo/contact-d.jpg`, `d-04.jpg`, `d-09.jpg`, `deep/desktop/contact-deep.jpg`, `contact-late.jpg`, `contact-m.jpg`. Note: `LIB/01--oryzo/REF.md`.
 
-**B. Oryzo AI, by Lusion** (https://oryzo.ai/, FWA of the Day + Month, 90 pts) → **single-object 3D choreography, product lighting, nav rail, voice**
-One real-time object, pinned, rotating through top-down / tilted / edge-on / underside with scroll; an intro that constructs the object (vector outline to photographed object); the only chrome is a section index with underline and a right-edge progress bar; mobile = enlarged object + MENU pill; deadpan copy. Why: the Playdate must feel like a physical object, not an icon. Caveat: scenes after the first pinned rotation were not captured.
-Shots: `LIB/01--oryzo/contact-d.jpg`, `d-04.jpg`, `d-09.jpg`, `d-10.jpg`, `contact-m.jpg`. Note: `LIB/01--oryzo/REF.md`.
+**B. KINORIA, by Seunghyuk Kim** (https://kinoria.studio/, FWA of the Day 2026-09-30, 82 pts; solo author, admitted on execution, conditional) → **tactile input model, feedback, rail nav, interstitial**
+A mechanical-camera site where one gesture consumes one unit (36 exposures counting down, "ONE STROKE ONE FRAME"), the intro is a focus pull through a viewfinder, section jumps play a film-strip interstitial, 41 audio files give every action a sound, the left rail is rotated 13 px labels, mobile swaps it for a MENU button and a full-screen numbered list, and failure has its own voice ("THE ROLL DID NOT LOAD"). Opened with 12 scroll frames, nav interstitials, a pointer state and a mobile frame; the live SHOT interaction is known only from FWA's 60 fps preview stills. Conditions: dark fire-light look and smooth blur easing are refused; timings were not measurable (software GL starved rAF: 4 frames in 14 s).
+Shots: `LIB/01--kinoria/contact-d-intro.jpg`, `contact-d-scroll.jpg`, `contact-states-nav-archive-mobile.jpg`, `d-03-decisions.jpg`, `d-10-spec-list.jpg`, `nav-02-shot-interstitial.jpg`, `fwa-preview-develop-sheet.jpg`. Note: `LIB/01--kinoria/REF.md`.
 
-**C. Noomo** (whitelist; https://noomoagency.com/) → **hero type/object depth interleaving, fixed-canvas architecture, stepped loader**
-Product GLB passes in front of and between letters of a giant word; one fixed WebGL2 canvas behind HTML; loader is a `steps(2)` logo animation, transition is a clip-path wipe with a `steps(4)` strip. Why: it is the proven hero structure for "device centred, wordmark huge behind it", and `steps()` is the native quantised easing. Refuse its pixel-block plinth (their identity) and ScrollSmoother glide.
-Shots: `LIB/noomo/contact-d.jpg`, `d-06.jpg`, `d-13.jpg`, `m-00.jpg`. Note: `LIB/noomo/REF.md` (written by an earlier scout; I read it and viewed the contact sheet and the frames listed).
+## SECONDARY (technique sources, not set-defining)
+- **Der Baukasten (tubik)**: chapter panels leaving edge strips as the index; mobile bottom sheet + bottom bar. `LIB/01--der-baukasten/` (REF.md; weaknesses in RQD review).
+- **Radian (UNCOMMON, FWA of the Day 83)**: yellow product lit out of black onto neutral fields; yellow reserved for one pill; sticky six-line list with dimmed siblings. `LIB/cat-auto--radian/`.
+- **OXI Instruments**: giant two-word title split around the device, -0.09 em tracking. `LIB/01--oxi-instruments/`.
+- **Nota (Uprock)**: stepped black block wipe between scenes. `LIB/01--nota-uprock/`.
+- **Sigma BF**: annotated hardware diagram on light tiles for the specs scene. `LIB/01--sigma-bf/`.
+- **Noomo** (whitelist; `LIB/noomo/REF.md`): `steps(2)` loader and `steps(4)` clip-path wipe as a technique note only; not a primary (RQD).
 
 ## Brand-native source (not a web reference)
-Playdate's own device UI and game art, Media Kit 4.0 (`/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_harvest/playdate-mediakit/x/kit4/Playdate Media Kit 4.0/Games/*.png`, `Playdate photos/*`): the language for what appears on the in-device screen.
+Playdate Media Kit 4.0 UI and 1-bit game art: `/home/user/htmlcourse/00_GLOBAL/DISCOVERY/_harvest/playdate-mediakit/x/kit4/Playdate Media Kit 4.0/`. Brand yellow `#ffc833`; device plastic `#fbc651` on the device only (BRAND.md).
 
-## Looked at and NOT admitted
-- Mate Libre (LIB/locomotive--mate-libre): conventional DTC page, modal covers most frames; secondary at best.
-- Vitra Gift Finder, Moooi (Build in Amsterdam): only landing screens captured / conventional commerce; no usable DNA.
-- Fourmeta entry: a Dribbble profile shot grid, no site experience. User-supplied awwwards links: host blocked, not used.
-- Analogue (handheld competitor; DISCOVERY/_inspect/analogue): conventional product-grid store.
-- rabbit.tech, Daylight Computer, Škoda DuoBell: opened, rejected (notes in `LIB/01--rabbit-r1`, `01--daylight`, `01--skoda-duobell`).
-- KINORIA (mechanical camera site) and Lusion's own site: strongest leads for tactile, stepwise interaction, but inspect-ref timed out on screenshot (software GL). Not opened, not admitted.
+## Opened and NOT admitted (details in each LIB folder)
+iyO (dark, product barely shown), KASANE keyboard (dark serif), The Music Project (only the gate reached), Lacoste Ace Breaker (start screen only; a game, not hardware), Polaroid I-2 (modal covers frames), Lusion's own site (preloader only), Mate Libre, Vitra, Moooi, Fourmeta, Analogue, rabbit r1, Daylight, Skoda DuoBell (earlier scout). User-supplied awwwards links: host blocked, unused. FWA list scanned (1,020 cases from `thefwa.com/api/cases`) for tactile/hardware cases: KINORIA was the only fit.
 
-## Gap to flag
-No admitted reference demonstrates a rotational (crank/dial) input with detents. That mechanism has to be designed from the brief; the primaries supply everything around it (stage, steps, index, lighting, type).
+## Gaps, stated plainly
+1. **No admitted reference shows a hardware object on a saturated colour field at whitelist level.** Oryzo's scene-world rule and Radian (SECONDARY) are the nearest; the yellow-field lighting is our own invention, to be judged against the comp benchmark in QA.
+2. **No reference gives measured detent timings.** KINORIA gives the principle; the 12-detent spec in `REFERENCE_DNA.md` is our design and must be verified with `shoot.mjs --timeline`.
+3. **No reference for a device screen as live UI** beyond the brand's own Media Kit.
+4. Set is 2 primaries, not 3-4; adding a weak third would breach the admission test. RQD to rule.

@@ -1,0 +1,2 @@
+# 01--kasane-keyboard — https://kasane-keyboard.com/ (solo, FWA of the Day 81; opened = true; 10 desktop frames viewed)
+Dark serif-led keyboard concept: 'KASANE' loader, lacquered keyboard on a burl, serif statements (MINIMALIST LUXURY, CRAFTSMANSHIP, LIMITED PRODUCTION), then CUSTOMIZE SENSORY EXPERIENCE: switch exploded on a card with Type / Sounds / Force / Pre travel / Total travel readouts and a typing-test link. REJECTED: dark, generic serif, centred statements. Idea kept: a switch/spec readout card tied to a real part.
