@@ -52,7 +52,7 @@ const PRE = `You are a specialist in a design swarm building ten award-level, st
 
 const evalPrompt = (key, r) => {
   const qa = `${DIR}/_qa/r${r}`
-  const common = `Captures for this round are in ${qa}/<viewport>/ (t-*.jpg = intro timeline, s-*.jpg = scroll journey, state-*.jpg = interaction states, contact.jpg = tiled overview; report.json = console/network/overflow/font/tap-target audit). Viewports: xl 1920, desktop 1440, laptop 1280, tablet 820, mobile 390, small 360. Look at the contact sheets first, then the individual frames that matter (Read tool).`
+  const common = `Captures for this round are in ${qa}/<viewport>/ (t-*.jpg = intro timeline, s-*.jpg = scroll journey, state-*.jpg = interaction states, contact.jpg = tiled overview; report.json = console/network/overflow/font/tap-target audit). Viewports in loop rounds: desktop 1440 and mobile 390 (the FINAL capture adds xl 1920, laptop 1280, tablet 820, small 360). Look at the contact sheets first, then the individual frames that matter (Read tool).`
   const lens = {
     visual: `ROLE: VISUAL QA (screenshot-first). ${common}
 STEP 1 — BEFORE reading any markdown in the concept folder, look at the screenshots and write your raw, unprompted judgement to ${qa}/visualqa-raw.md: Would I save this as a reference? Does it look professionally art-directed and expensive? Is typography memorable? Is the composition strong WITHOUT motion? Are sections 2–6 as strong as section 1? Does anything look like filler or obviously AI-generated? Does the brand feel intentionally redesigned? Would it sit comfortably beside high-quality Awwwards/FWA work? Check desktop (xl/desktop/laptop), tablet and mobile (mobile/small) — is mobile genuinely re-art-directed or just stacked? Check imagery/asset quality (resolution, edges/halos on cut-outs, crops, colour grading, logo fidelity), spacing, hierarchy, alignment, overflow, clipped text, broken layouts, empty areas.
@@ -62,12 +62,14 @@ STEP 2 — only then read ${DIR}/DIRECTION.md and compare the rendered result to
     slop: `ROLE: ANTI-SLOP DIRECTOR. ${common} Read BRIEF "ANTI-SLOP DIRECTOR"/"ANTI-SLOP REVIEW" and SWARM_PROTOCOL §5. Inspect every viewport for: random decorative dots, meaningless numbers/numbering, unnecessary UI labels/eyebrows, fake technical diagrams/metadata, purple/AI gradients, default glass cards, card grids without reason, random grain, fake statistics, generic bento, glowing blobs, random floating objects, meaningless particles, excessive rounded corners/pills, generic startup copy, template section order, generic Tailwind/shadcn appearance, repeated upward fades, HUD ornaments, arrows on every link. Also the logo-swap test, the one-screenshot test, and a deletion pass (what could be removed with no loss). Anything AI-generic must be removed or redesigned. Gate: 'Anti-Slop'.`,
     benchmark: `ROLE: REFERENCE BENCHMARK EVALUATOR. ${common} Read ${DIR}/REFERENCES.md. For each primary reference choose representative states (hero, a mid-scroll key section, the signature interaction/nav, mobile hero) from its library screenshots (${ROOT}/00_GLOBAL/REFERENCE_LIBRARY/<slug>/d-*.jpg, m-*.jpg, contact sheets) and the MATCHING states from our captures; build side-by-side composites with node ${ROOT}/_tools/compare.mjs --ref <ref.jpg> --ours <ours.jpg> --out ${qa}/benchmark/<name>.jpg and LOOK at them. Judge: type, scale, composition, photography/image quality, spacing, contrast, hierarchy, detail, interaction, motion ambition, visual confidence. If our version looks obviously cheaper, that is a FAIL: do not explain the weakness away — name it. Gate: 'Reference Comparison'.`,
   }
-  return `${PRE}\n${lens[key]}\nReturn the structured evaluation (verdicts for your gates, scores for the rubric fields you can judge, concrete defects, a short summary).`
+  lens.design = lens.visual + '\n\nALSO YOU ARE THE TYPOGRAPHY REVIEWER (gate \'Typography\'):\n' + lens.typography
+  lens.craft = lens.motion + '\n\nALSO YOU ARE THE ANTI-SLOP DIRECTOR (gate \'Anti-Slop\'):\n' + lens.slop + '\n\nALSO YOU ARE THE REFERENCE BENCHMARK EVALUATOR (gate \'Reference Comparison\'):\n' + lens.benchmark
+  return `${PRE}\n${lens[key]}\nProvide scores for ALL rubric fields (artDirection/20, typography/15, composition/15, imagery/10, brandFit/10, interactionMotion/10, creativeTech/5, responsive/5, technical/5, synthesis/5), honestly and unflatteringly. Return the structured evaluation (verdicts for your gates, scores for the rubric fields you can judge, concrete defects, a short summary).`
 }
 
 const renderPrompt = (r) => `${PRE}
 ROLE: RENDER OPERATOR. Produce the capture set for QA round ${r}. Run, from ${ROOT}:
- 1) ${ROOT}/_tools/qa.sh ${DIR} r${r} --viewports xl,desktop,laptop,tablet,mobile,small --steps 16 --timeline 0,300,700,1200,2000,3200,5000 --script ${DIR}/qa-states.mjs   (omit --script if qa-states.mjs does not exist). Use a long Bash timeout (≥ 590000 ms) or run it in the background and wait: capture on a shared 4-core box can take many minutes and may sit in a queue.
+ 1) ${ROOT}/_tools/qa.sh ${DIR} r${r} --viewports desktop,mobile --steps 14 --timeline 0,400,900,1600,2600,4000 --script ${DIR}/qa-states.mjs   (omit --script if qa-states.mjs does not exist). Use a long Bash timeout (≥ 590000 ms) or run it in the background and wait: capture on a shared 4-core box can take many minutes and may sit in a queue.
  2) ${ROOT}/_tools/qa.sh ${DIR} r${r}-reduced --viewports desktop --steps 6 --reduced
 If the build fails or the capture crashes, read the error, and report it precisely (do not fix the site — fixing is another specialist's job — except for trivially broken tooling arguments). Confirm the output folders exist and contain jpgs and report.json; summarise report.json headline numbers (console errors, failed requests, overflow, fonts failed, tap targets, placeholders). Return ok + notes.`
 
@@ -98,6 +100,28 @@ const runShots = async (name) => {
 ROLE: RENDER OPERATOR. Produce the FINAL capture set into ${DIR}/_qa/${name}: ${ROOT}/_tools/qa.sh ${DIR} ${name} --viewports xl,desktop,laptop,tablet,mobile,small --steps 16 --timeline 0,300,700,1200,2000,3200,5000 --script ${DIR}/qa-states.mjs (omit --script if absent; long Bash timeout ≥ 590000 ms or background+wait). Confirm images and report.json exist. Return ok + notes.`, { label: `render:${C.slug}:${name}`, phase: 'Render', schema: RENDER, effort: 'low' })
 }
 
+
+function routeLocal(evals) {
+  const defects = evals.flatMap((e) => e.defects || [])
+  const gates = []
+  for (const e of evals) for (const v of e.verdicts || []) gates.push({ gate: v.gate, verdict: v.verdict })
+  const fields = ['artDirection', 'typography', 'composition', 'imagery', 'brandFit', 'interactionMotion', 'creativeTech', 'responsive', 'technical', 'synthesis']
+  let score = 0
+  for (const f of fields) {
+    const vals = evals.map((e) => e.scores && e.scores[f]).filter((v) => typeof v === 'number')
+    score += vals.length ? Math.min(...vals) : 0
+  }
+  const blocking = defects.filter((d) => d.severity !== 'minor')
+  const failed = gates.some((g) => g.verdict === 'FAIL')
+  const byOwner = {}
+  for (const d of [...blocking, ...defects.filter((d) => d.severity === 'minor')]) (byOwner[d.owner] = byOwner[d.owner] || []).push(`[${d.severity}] ${d.where}: ${d.what} -> ${d.fix}`)
+  return {
+    pass: !failed && blocking.length === 0 && score >= 92, score, gates,
+    workOrders: Object.entries(byOwner).map(([owner, items]) => ({ owner, items })),
+    summary: `${blocking.length} blocking defects, ${defects.length - blocking.length} minor; failed gates: ${gates.filter((g) => g.verdict === 'FAIL').map((g) => g.gate).join(', ') || 'none'}`,
+  }
+}
+
 // ---------------- main loop ----------------
 const history = []
 let released = false
@@ -116,9 +140,9 @@ while (round <= MAXR && !released) {
     continue
   }
   phase('Evaluate')
-  evals = (await parallel(['visual', 'typography', 'motion', 'slop', 'benchmark'].map((k) => () => agent(evalPrompt(k, round), { label: `eval-${k}:${C.slug}:r${round}`, phase: 'Evaluate', schema: EVAL, effort: 'high' })))).filter(Boolean)
+  evals = (await parallel(['design', 'craft'].map((k) => () => agent(evalPrompt(k, round), { label: `eval-${k}:${C.slug}:r${round}`, phase: 'Evaluate', schema: EVAL, effort: 'high' })))).filter(Boolean)
   phase('Route')
-  const route = await agent(routePrompt(round, evals), { label: `route:${C.slug}:r${round}`, phase: 'Route', schema: ROUTE, effort: 'high' })
+  const route = routeLocal(evals)
   history.push({ round, score: route && route.score, pass: route && route.pass })
   log(`${C.slug} r${round}: score ${route && route.score} pass=${route && route.pass}; work orders ${route && route.workOrders.map((w) => w.owner + ':' + w.items.length).join(' ')}`)
   if (route && route.pass) {

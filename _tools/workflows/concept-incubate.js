@@ -1,6 +1,6 @@
 export const meta = {
   name: 'concept-incubate',
-  description: 'One concept: brand research + real-asset hunt + reference set (RQD gate) + three directions + fresh five-judge jury + locked DIRECTION.md',
+  description: 'One concept: brand research + real-asset hunt + reference set (RQD gate) + three directions + fresh three-judge jury + locked DIRECTION.md',
   phases: [
     { title: 'Foundations', detail: 'asset hunt || (brand research -> reference scout -> RQD gate loop)' },
     { title: 'Directions', detail: 'three independent authors: A, B, C' },
@@ -99,11 +99,9 @@ ${feedback ? 'JURY FEEDBACK FROM A PREVIOUS ROUND (address it; a restart means a
 Write ${DIR}/_work/directions/DIRECTION_${key}.md with: (1) CENTRAL IDEA in ONE sentence; (2) the ONE dominant visual device and 'what makes this recognisable from a single screenshot'; (3) 4–6 art-directed scenes — for each: purpose, composition, typography behaviour, imagery used (real asset names), interaction, mobile re-interpretation (not just stacking), and how it differs from the scene before; (4) palette — 4–6 named hex colours with roles, derived from the real brand; (5) type direction (legal families to be confirmed; scale; contrast) ; (6) motion personality + ONE orchestrated signature moment (not fade-up everywhere); (7) imagery treatment — real assets vs procedural; (8) tech plan — scroll engine, DOM vs canvas, 3D/WebGL or deliberately none, and why; mobile plan; (9) ASCII wireframe of the first viewport at 1440×900 AND 390×844; (10) reference DNA mapping (which primary supplies what); (11) anti-slop self-check: logo-swap test, one-screenshot test, what you deleted; (12) risks. The direction must be a real art direction idea (e.g. 'a freezer-as-storefront', 'a running shoe explored like an aerospace object'), not a colour/font variant, and must stay inside the lane. A sophisticated typography-led site without 3D beats bad 3D. Return the structured summary.`
 
 const juryLens = {
-  art: 'ART DIRECTION JUDGE: originality, visual power, confidence, typography and composition potential, would this be Awwwards/FWA calibre, is it recognisable from one screenshot, does it feel expensive and authored rather than assembled.',
-  interaction: 'INTERACTION JUDGE: quality, clarity and buildability of the signature interaction and navigation model; usability; mobile/touch interpretation; functional realism (no dead UI); does the interaction add meaning or is it a gimmick.',
-  brand: 'BRAND JUDGE: does it honour AND elevate the real brand; would the brand\'s own creative director plausibly commission it; use of real product/identity/voice; any misrepresentation or cliché risk; does it make the brand feel intentionally redesigned.',
-  tech: 'TECHNICAL / CREATIVE DEVELOPMENT JUDGE: can this be built to a high standard with Vite + web tech (GSAP/Lenis/Three.js/shaders) inside this environment (software-WebGL for QA), with the REAL assets in hand plus procedural ones; performance and mobile risk; every scene checked against the ASSET VERDICT; what will probably fail or look cheap.',
-  differentiation: 'PORTFOLIO DIFFERENTIATION JUDGE: against the other nine lanes (SELECTED_TEN.md / DIVERSITY_MATRIX.md) and against the references: is it distinct; is any part a screen-by-screen copy; logo-swap test; does it risk generic AI-site aesthetics; does it deserve to sit beside the best of the other nine.',
+  artbrand: 'ART DIRECTION + BRAND JUDGE: originality, visual power, confidence, typography and composition potential, would this be Awwwards/FWA calibre, recognisable from one screenshot, feels expensive and authored rather than assembled; AND does it honour and elevate the real brand, would the brand\'s own creative director plausibly commission it, use of real product/identity/voice, any misrepresentation or cliché risk.',
+  interactiontech: 'INTERACTION + TECHNICAL/CREATIVE-DEVELOPMENT JUDGE: quality, clarity and buildability of the signature interaction and navigation; usability; mobile/touch interpretation; functional realism (no dead UI); AND can it be built to a high standard with Vite + web tech (GSAP/Lenis/Three.js/shaders) here (software WebGL for QA), with the REAL assets in hand plus procedural ones; performance/mobile risk; check every scene against the ASSET VERDICT; what will probably fail or look cheap.',
+  differentiation: 'PORTFOLIO DIFFERENTIATION JUDGE: against the other lanes (SELECTED_TEN.md / DIVERSITY_MATRIX.md) and the references: is it distinct; any screen-by-screen copy; logo-swap test; risk of generic AI-site aesthetics; does it deserve to sit beside the best of the other nine.',
 }
 const juryPrompt = (key) => `${PRE}
 ROLE: ${juryLens[key]}
@@ -150,7 +148,7 @@ for (let round = 0; round < 3; round++) {
   const best = Object.entries(means).sort((a, b) => b[1] - a[1])
   log(`${C.slug} jury round ${round + 1}: means ${JSON.stringify(means)} again=${again}/${votes.length}`)
   decision = { round: round + 1, means, againVotes: again, verdicts: votes.map((v) => v.verdict), best: best[0][0], second: best[1][0], gap: best[0][1] - best[1][1] }
-  if (again >= 3 && round < 2) {
+  if (again >= 2 && round < 2) {
     feedback = votes.map((v) => `${v.verdict}: ${v.reasons} MUSTFIX: ${(v.mustFix || []).join('; ')}`).join('\n')
     continue
   }
