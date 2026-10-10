@@ -1,0 +1,2 @@
+# 01--kinoria — https://kinoria.studio/ (opened = FALSE)
+FWA of the Day: a mechanical 35mm camera and a site that makes you use it (load a roll, take four frames). Strong lead for tactile stepwise interaction. inspect-ref failed twice (page.screenshot timeout 30 s under software GL, --wait 6000 and 3000). Nothing observed, nothing admitted. Revisit only if a GPU-capable capture path exists. Verdict: NOT ADMITTED.
