@@ -1,0 +1,104 @@
+{
+  "url": "https://kinoria.studio/",
+  "viewports": {
+    "laptop": {
+      "console": [
+        "warning: THREE.WebGLRenderer: KHR_parallel_shader_compile extension not supported.",
+        "warning: [flow] warm: environment did not arrive in 4 s; compiling without it",
+        "warning: [flow] warm: environment did not arrive in 4 s; compiling without it",
+        "warning: [flow] warm: environment did not arrive in 4 s; compiling without it",
+        "warning: [flow] warm: environment did not arrive in 4 s; compiling without it",
+        "warning: [flow] warm: environment did not arrive in 4 s; compiling without it",
+        "warning: The resource https://kinoria.studio/basis/basis_transcoder.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentional",
+        "warning: The resource https://kinoria.studio/basis/basis_transcoder.wasm was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intention",
+        "warning: The resource https://kinoria.studio/assets/models/loop_hand_scan_ktx2.glb was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded",
+        "warning: The resource https://kinoria.studio/assets/models/loop_camera_premwhite_eye_ktx2_2048.glb was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and"
+      ],
+      "pageErrors": [],
+      "failed": [],
+      "http": [],
+      "shots": [],
+      "audit": {
+        "scrollWidth": 1280,
+        "vw": 1280,
+        "docHeight": 720,
+        "overflowX": false,
+        "overflowOffenders": [],
+        "h1Count": 0,
+        "imgsNoAlt": 0,
+        "unlabeled": 0,
+        "lang": "en",
+        "smallTapTargets": [
+          "a:KINORIA 31x92",
+          "a:01 DETAILS\n01 DETA 39x118",
+          "a:02 SHOT\n02 SHOT 39x118",
+          "a:03 ARCHIVE\n03 ARCH 39x118",
+          "a:04 ABOUT\n04 ABOUT 39x118"
+        ],
+        "smallTapTargetCount": 5,
+        "fonts": {
+          "p": {
+            "fam": "Archivo",
+            "size": "12px",
+            "weight": "400",
+            "lh": "17.3px",
+            "ls": "0.048px",
+            "loaded": true
+          },
+          "button": {
+            "fam": "Archivo",
+            "size": "12px",
+            "weight": "600",
+            "lh": "12px",
+            "ls": "2.4px",
+            "loaded": true
+          },
+          "a": {
+            "fam": "Times New Roman",
+            "size": "16px",
+            "weight": "400",
+            "lh": "normal",
+            "ls": "normal",
+            "loaded": true
+          },
+          "nav a": {
+            "fam": "Archivo",
+            "size": "14px",
+            "weight": "600",
+            "lh": "normal",
+            "ls": "3.08px",
+            "loaded": true
+          }
+        },
+        "fontsFailed": [],
+        "fontsLoaded": [
+          "Archivo 100 900"
+        ],
+        "canvases": [
+          "1280x720",
+          "1280x720",
+          "300x150",
+          "1280x720"
+        ],
+        "webgl": 1,
+        "webglLost": 0,
+        "longTasks": 2,
+        "reducedMotionCSS": true,
+        "placeholderText": [],
+        "emptyImages": [],
+        "title": "KINORIA"
+      },
+      "uniqueFrames": 0,
+      "states": [
+        "state-k00-initial.jpg",
+        "state-k01-wheel.jpg",
+        "state-k02-wheel.jpg",
+        "state-k03-wheel.jpg",
+        "state-k04-wheel.jpg",
+        "state-k05-wheel.jpg",
+        "state-k06-wheel.jpg",
+        "state-k10-click.jpg"
+      ]
+    }
+  }
+}

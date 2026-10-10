@@ -1,0 +1,129 @@
+{
+  "url": "https://oryzo.ai/",
+  "viewports": {
+    "desktop": {
+      "console": [
+        "warning: Unrecognized feature: 'web-share'."
+      ],
+      "pageErrors": [],
+      "failed": [],
+      "http": [],
+      "shots": [
+        {
+          "i": 0,
+          "scrollY": 0,
+          "hash": "c01a5a52"
+        }
+      ],
+      "audit": {
+        "scrollWidth": 1440,
+        "vw": 1440,
+        "docHeight": 56691,
+        "overflowX": false,
+        "overflowOffenders": [
+          "div.prevent-select right=1501",
+          "div. right=1501",
+          "div. right=1475",
+          "div. right=1501"
+        ],
+        "h1Count": 1,
+        "imgsNoAlt": 38,
+        "unlabeled": 3,
+        "lang": "en",
+        "smallTapTargets": [
+          "input: 191x37",
+          "a: 94x21",
+          "a:I\nI\nN\nN\nT\nT\nR\nR\nO\n 34x17",
+          "a:F\nF\nE\nE\nA\nA\nT\nT\nU\n 57x17",
+          "a:P\nP\nR\nR\nO\nO\nD\nD\nU\n 53x17",
+          "a:C\nC\nO\nO\nN\nN\nT\nT\nA\n 54x17"
+        ],
+        "smallTapTargetCount": 6,
+        "fonts": {
+          "h1": {
+            "fam": "halyard-display-variable",
+            "size": "123px",
+            "weight": "500",
+            "lh": "110.7px",
+            "ls": "-2.214px",
+            "loaded": true
+          },
+          "h2": {
+            "fam": "halyard-display-variable",
+            "size": "51px",
+            "weight": "500",
+            "lh": "51px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "button": {
+            "fam": "Arial",
+            "size": "12px",
+            "weight": "500",
+            "lh": "13.2px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "a": {
+            "fam": "halyard-display-variable",
+            "size": "12px",
+            "weight": "500",
+            "lh": "13.2px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "nav a": {
+            "fam": "halyard-display-variable",
+            "size": "12px",
+            "weight": "500",
+            "lh": "12px",
+            "ls": "normal",
+            "loaded": true
+          }
+        },
+        "fontsFailed": [],
+        "fontsLoaded": [
+          "halyard-display-variable 100 900",
+          "Literata 200 900",
+          "DM Mono 400"
+        ],
+        "canvases": [
+          "1440x900",
+          "571x734",
+          "1440x900",
+          "495x495",
+          "321x321",
+          "1440x900"
+        ],
+        "webgl": 2,
+        "webglLost": 0,
+        "longTasks": 6,
+        "reducedMotionCSS": false,
+        "placeholderText": [
+          "coming soon"
+        ],
+        "emptyImages": [],
+        "title": "ORYZO AI"
+      },
+      "uniqueFrames": 1,
+      "states": [
+        "state-oz-04-y2232.jpg",
+        "state-oz-08-y4463.jpg",
+        "state-oz-12-y6695.jpg",
+        "state-oz-17-y9484.jpg",
+        "state-oz-22-y12274.jpg",
+        "state-oz-28-y15621.jpg",
+        "state-oz-34-y18969.jpg",
+        "state-oz-40-y22316.jpg",
+        "state-oz-46-y25664.jpg",
+        "state-oz-52-y29011.jpg",
+        "state-oz-58-y32359.jpg",
+        "state-oz-65-y36264.jpg",
+        "state-oz-72-y40170.jpg",
+        "state-oz-80-y44633.jpg",
+        "state-oz-88-y49096.jpg",
+        "state-oz-96-y53559.jpg"
+      ]
+    }
+  }
+}

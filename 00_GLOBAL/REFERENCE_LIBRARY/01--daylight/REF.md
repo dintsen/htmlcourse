@@ -1,0 +1,2 @@
+# 01--daylight — https://daylightcomputer.com/ (opened = true: contact-d/m viewed)
+Warm, friendly reflective-display tablet page: lifestyle photography, large light sans statements, orange CTA, newsletter popover over content. Competent DTC page, but photography-led, widget overlays, no exceptional type/composition/motion. Verdict: REJECTED as primary (useful only as a negative: lifestyle stock look is outside this concept's lane).

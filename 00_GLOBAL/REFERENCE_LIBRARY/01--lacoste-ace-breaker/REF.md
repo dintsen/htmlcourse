@@ -1,0 +1,2 @@
+# 01--lacoste-ace-breaker — https://members-play.lacoste.com/ace-breaker-rg (Merci-Michel; FWA 90 pts; opened = start screen only)
+Deep green + yellow two-colour game start: LACOSTE ACE BREAKER set at 111 px / 117 px uppercase Mona Sans 500 (OFL), yellow PLAY pill, one GLB, 880x520 game canvas, header with menu. The game was not driven. REJECTED for this role (a game, not a hardware page). Idea kept: strict two-colour field + type (yellow on deep colour) and a 'press PLAY' start state.

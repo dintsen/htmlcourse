@@ -1,0 +1,147 @@
+{
+  "url": "https://i2-camera.polaroid.com/",
+  "viewports": {
+    "desktop": {
+      "console": [
+        "warning: WARNING: Cookiebot script is included twice - please remove one instance to avoid unexpected results."
+      ],
+      "pageErrors": [
+        "Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "The element has no supported sources."
+      ],
+      "failed": [
+        "https://cdn.sanity.io/files/66aqnbcn/staging/0afe541fae27e7fa9dce8195192062bc99cb7de3.mp4 net::ERR_BLOCKED_BY_ORB",
+        "https://cdn.sanity.io/files/66aqnbcn/staging/0afe541fae27e7fa9dce8195192062bc99cb7de3.mp4 net::ERR_BLOCKED_BY_ORB"
+      ],
+      "http": [],
+      "shots": [
+        {
+          "i": 0,
+          "scrollY": 0,
+          "hash": "56973614"
+        }
+      ],
+      "audit": {
+        "scrollWidth": 1742,
+        "vw": 1440,
+        "docHeight": 39150,
+        "overflowX": true,
+        "overflowOffenders": [
+          "span.styles_light-leak-left__36qo0 right=360",
+          "span.styles_light-leak-right__G5_c6 right=1742",
+          "div.styles_container__fImPy styles_container right=798",
+          "div.styles_container__fImPy styles_container right=843",
+          "div.styles_container__fImPy styles_container right=802",
+          "div.styles_container__fImPy styles_container right=839",
+          "div.styles_container__fImPy styles_container right=810",
+          "div.styles_container__fImPy styles_container right=843"
+        ],
+        "h1Count": 1,
+        "imgsNoAlt": 0,
+        "unlabeled": 0,
+        "lang": "en",
+        "smallTapTargets": [
+          "a:Cookie Policy 75x13",
+          "a:Privacy Policy 75x13",
+          "a:Change your consen 619x29",
+          "a:Withdraw your cons 128x13",
+          "a:MANAGE SELECTION 136x20",
+          "a:Partner Stores 115x20",
+          "button:Discover 72x34",
+          "button:How to use 76x30",
+          "button:Compare 64x30",
+          "button:Exhibition 68x30"
+        ],
+        "smallTapTargetCount": 24,
+        "fonts": {
+          "h1": {
+            "fam": "__TYPE_REAL_HEAD_OFFC_a232b1",
+            "size": "30.72px",
+            "weight": "600",
+            "lh": "33.792px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "h2": {
+            "fam": "__TYPE_REAL_HEAD_OFFC_a232b1",
+            "size": "74.88px",
+            "weight": "600",
+            "lh": "71.136px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "p": {
+            "fam": "__TYPE_REAL_HEAD_OFFC_a232b1",
+            "size": "13px",
+            "weight": "400",
+            "lh": "15.6px",
+            "ls": "-0.2106px",
+            "loaded": true
+          },
+          "button": {
+            "fam": "__TYPE_REAL_HEAD_OFFC_a232b1",
+            "size": "15px",
+            "weight": "400",
+            "lh": "18px",
+            "ls": "-0.243px",
+            "loaded": true
+          },
+          "a": {
+            "fam": "sans-serif",
+            "size": "15px",
+            "weight": "400",
+            "lh": "24px",
+            "ls": "0.1px",
+            "loaded": true
+          },
+          "nav a": {
+            "fam": "Times New Roman",
+            "size": "28.8px",
+            "weight": "400",
+            "lh": "28.8px",
+            "ls": "normal",
+            "loaded": true
+          }
+        },
+        "fontsFailed": [],
+        "fontsLoaded": [
+          "__TYPE_REAL_HEAD_OFFC_a232b1 400",
+          "__TYPE_REAL_HEAD_OFFC_a232b1 350",
+          "__TYPE_REAL_HEAD_OFFC_a232b1 500",
+          "__TYPE_REAL_HEAD_OFFC_a232b1 600"
+        ],
+        "canvases": [
+          "1536x1536",
+          "1536x1536",
+          "1536x1536",
+          "1536x1536"
+        ],
+        "webgl": 0,
+        "webglLost": 0,
+        "longTasks": 2,
+        "reducedMotionCSS": false,
+        "placeholderText": [],
+        "emptyImages": [
+          "data:,"
+        ],
+        "title": "Discover the Polaroid I-2 Instant Camera"
+      },
+      "uniqueFrames": 1,
+      "states": [
+        "state-p2-000-y0.jpg",
+        "state-p2-030-y1148.jpg",
+        "state-p2-050-y1913.jpg",
+        "state-p2-070-y2678.jpg",
+        "state-p2-085-y3251.jpg",
+        "state-p2-100-y3825.jpg",
+        "state-p2-115-y4399.jpg",
+        "state-p2-130-y4973.jpg",
+        "state-p2-160-y6120.jpg",
+        "state-p2-190-y7268.jpg",
+        "state-p2-220-y8415.jpg",
+        "state-p2-300-y11475.jpg"
+      ]
+    }
+  }
+}

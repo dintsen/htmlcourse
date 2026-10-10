@@ -1,0 +1,16 @@
+{
+  "slug": "n4711",
+  "name": "4711 Echt Kölnisch Wasser",
+  "url": "https://4711.com",
+  "category": "Beauty / fragrance (packaging-led heritage Eau de Cologne)",
+  "scores": {"assets": 3.5, "distinct": 4.5, "artDirection": 4.5, "typography": 4, "motion": 3.5, "threeD": 4.5, "imageAvail": 3.5, "redesign": 5, "culture": 3.5, "differentiation": 4.5},
+  "total": 41,
+  "heroImagesFound": 386,
+  "vectorLogo": false,
+  "officialModelFound": false,
+  "pressKitUrl": "",
+  "openedLive": true,
+  "logoNote": "Only a 161x71 raster PNG in the header (MicrosoftTeams-image_2.png); no SVG, no press page, no guidelines found.",
+  "hunch": "Treat the turquoise-and-gold label as the interface: an ornamental frame that opens onto the bottle, with the cathedral-box silhouette as navigation, instead of another white catalogue grid.",
+  "risks": ["Logo is raster only", "Imagery is CGI-style transparent packshots; only ~6 editorial photos, all <=1440px", "One home asset is AI-generated (Gemini filename): exclude", "German-first store copy", "Cloudflare challenge script present (did not block Chromium)"]
+}

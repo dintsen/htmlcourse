@@ -1,0 +1,235 @@
+{
+  "url": "https://thewatch.60fps.fr/",
+  "viewports": {
+    "desktop": {
+      "console": [],
+      "pageErrors": [],
+      "failed": [],
+      "http": [],
+      "shots": [
+        {
+          "i": 0,
+          "scrollY": 0,
+          "hash": "5257bfa6"
+        },
+        {
+          "i": 1,
+          "scrollY": 1078,
+          "hash": "7d6c59e6"
+        },
+        {
+          "i": 2,
+          "scrollY": 2066,
+          "hash": "e2e6ee1b"
+        },
+        {
+          "i": 3,
+          "scrollY": 3121,
+          "hash": "560ab6cc"
+        },
+        {
+          "i": 4,
+          "scrollY": 4182,
+          "hash": "088aa601"
+        },
+        {
+          "i": 5,
+          "scrollY": 5262,
+          "hash": "2fd8c90b"
+        },
+        {
+          "i": 6,
+          "scrollY": 6463,
+          "hash": "3e433ff4"
+        },
+        {
+          "i": 7,
+          "scrollY": 7534,
+          "hash": "43a10933"
+        },
+        {
+          "i": 8,
+          "scrollY": 8609,
+          "hash": "1c77093b"
+        },
+        {
+          "i": 9,
+          "scrollY": 9565,
+          "hash": "2aa192ae"
+        },
+        {
+          "i": 10,
+          "scrollY": 10768,
+          "hash": "88b803dc"
+        },
+        {
+          "i": 11,
+          "scrollY": 11510,
+          "hash": "edb5b484"
+        },
+        {
+          "i": 12,
+          "scrollY": 12814,
+          "hash": "73adb1d4"
+        },
+        {
+          "i": 13,
+          "scrollY": 13910,
+          "hash": "2f0d8e39"
+        },
+        {
+          "i": 14,
+          "scrollY": 14974,
+          "hash": "1ee7f380"
+        },
+        {
+          "i": 15,
+          "scrollY": 16118,
+          "hash": "dece914b"
+        },
+        {
+          "i": 16,
+          "scrollY": 17161,
+          "hash": "2819a480"
+        },
+        {
+          "i": 17,
+          "scrollY": 18337,
+          "hash": "17c914d2"
+        },
+        {
+          "i": 18,
+          "scrollY": 19422,
+          "hash": "10ffe254"
+        },
+        {
+          "i": 19,
+          "scrollY": 20514,
+          "hash": "a80a8cf6"
+        },
+        {
+          "i": 20,
+          "scrollY": 21549,
+          "hash": "b3c3fcac"
+        },
+        {
+          "i": 21,
+          "scrollY": 22511,
+          "hash": "3c3bb102"
+        },
+        {
+          "i": 22,
+          "scrollY": 23720,
+          "hash": "f9d47b90"
+        },
+        {
+          "i": 23,
+          "scrollY": 24734,
+          "hash": "c07b4234"
+        },
+        {
+          "i": 24,
+          "scrollY": 25885,
+          "hash": "c1a8af11"
+        },
+        {
+          "i": 25,
+          "scrollY": 26991,
+          "hash": "64a3e7f9"
+        },
+        {
+          "i": 26,
+          "scrollY": 27994,
+          "hash": "e0456474"
+        },
+        {
+          "i": 27,
+          "scrollY": 28858,
+          "hash": "bf015064"
+        },
+        {
+          "i": 28,
+          "scrollY": 30117,
+          "hash": "d4c5d900"
+        },
+        {
+          "i": 29,
+          "scrollY": 31018,
+          "hash": "c650ed21"
+        }
+      ],
+      "audit": {
+        "scrollWidth": 1440,
+        "vw": 1440,
+        "docHeight": 34625,
+        "overflowX": false,
+        "overflowOffenders": [],
+        "h1Count": 1,
+        "imgsNoAlt": 0,
+        "unlabeled": 14,
+        "lang": "en",
+        "smallTapTargets": [],
+        "smallTapTargetCount": 0,
+        "fonts": {
+          "h1": {
+            "fam": "Nekst",
+            "size": "350px",
+            "weight": "400",
+            "lh": "280px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "h2": {
+            "fam": "Nekst",
+            "size": "80px",
+            "weight": "400",
+            "lh": "80px",
+            "ls": "normal",
+            "loaded": true
+          },
+          "p": {
+            "fam": "Inter",
+            "size": "9px",
+            "weight": "400",
+            "lh": "normal",
+            "ls": "normal",
+            "loaded": true
+          },
+          "button": {
+            "fam": "Arial",
+            "size": "12px",
+            "weight": "400",
+            "lh": "normal",
+            "ls": "normal",
+            "loaded": true
+          }
+        },
+        "fontsFailed": [],
+        "fontsLoaded": [
+          "Nekst 400",
+          "Inter 400"
+        ],
+        "canvases": [
+          "1440x900"
+        ],
+        "webgl": 1,
+        "webglLost": 0,
+        "longTasks": 9,
+        "reducedMotionCSS": false,
+        "placeholderText": [],
+        "emptyImages": [
+          "tps://thewatch.60fps.fr/assets/the-watch/img/parts/hands.jpg",
+          "s://thewatch.60fps.fr/assets/the-watch/img/parts/crystal.jpg",
+          "tps://thewatch.60fps.fr/assets/the-watch/img/parts/bezel.jpg",
+          "ttps://thewatch.60fps.fr/assets/the-watch/img/parts/lugs.jpg",
+          "tps://thewatch.60fps.fr/assets/the-watch/img/parts/strap.jpg",
+          "ps://thewatch.60fps.fr/assets/the-watch/img/parts/buckle.jpg",
+          "tps://thewatch.60fps.fr/assets/the-watch/img/parts/crown.jpg",
+          "://thewatch.60fps.fr/assets/the-watch/img/parts/caseback.jpg"
+        ],
+        "title": "FS 60P - The timeless automatic watch by 60fps"
+      },
+      "uniqueFrames": 30
+    }
+  }
+}
